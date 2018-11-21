@@ -12,14 +12,18 @@ allFiles = glob.glob(path + "/*")
 
 
 def getSentencesForYear(year):
-    dataFolder = '../data'
-    sentences = []
-    allFiles = glob.glob(dataFolder + "/*")
-    for file in allFiles:
-        filename = os.path.basename(file)
-        if filename.startswith(str(year)):
-            sentences = gensim.models.word2vec.LineSentence(file)
-    return sentences
+    data_path = 'sentences_vk'
+    title = 'vk_'
+    #sentences = []
+    year_path = os.path.join(data_path, str(title) + str(year) + '.txt')
+    with open(year_path, 'r') as f:
+        sentences = gensim.models.word2vec.LineSentence(f)
+    #allFiles = glob.glob(dataFolder + "/*")
+    # for file in allFiles:
+    #     filename = os.path.basename(file)
+    #     if filename.startswith(str(year)):
+    #         sentences = gensim.models.word2vec.LineSentence(file)
+    # return sentences
 
 
 def getSentencesInRange(startY, endY):
