@@ -54,6 +54,7 @@ def pre_process():
         for year, group in df.groupby('year'):
             print('making sentences: {}'.format(year))
             sentences = group['ocr'].apply(article_to_sentences)
+            group['sentences'] = sentences
             #sentences = [item for sublist in sentences for item in sublist]
             output_ = open('{}_{}.txt'.format(title_, year), 'w')
             for sentence in sentences:
