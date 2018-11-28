@@ -14,6 +14,8 @@ The Dutch newspaper _De Volkskrant_ between 1945 and 1995.
 
 ## Method
 
-Creating the data
-* Add preprocessing steps
+TO DO:
+
+Sample data before training models?
+
 
