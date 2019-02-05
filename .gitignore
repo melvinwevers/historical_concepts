@@ -984,3 +984,10 @@ models/VK/year/year1993_1993.vectors.npy
 models/VK/year/year1994_1994
 models/VK/year/year1994_1994.vectors.npy
 models/VK/year/year1995_1995
+.texpadtmp/README.synctex.gz
+.texpadtmp/#README.log#
+.texpadtmp/README.aux
+.texpadtmp/README.log
+.texpadtmp/README.out
+experiments/__pycache__/sppmimodel.cpython-36.pyc
+experiments/__pycache__/relation.cpython-36.pyc

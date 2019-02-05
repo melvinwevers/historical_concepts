@@ -53,10 +53,9 @@ def iter_load_sentences(start_year, end_year, data_path):
             yield iter_file(year_path)
 
 def train_embeddings(sentences, num_features=300,
-                     min_word_count=5, num_workers=20, context=10, downsampling=1e-3, sg=1,
+                     min_word_count=5, num_workers=5, context=10, downsampling=1e-3, sg=1,
                      hierarchical_softmax=0, negative_sampling_num_words=5):
-    model = Word2Vec(iter=1,
-                     workers=num_workers,
+    model = Word2Vec(workers=num_workers,
                      size=num_features, min_count=min_word_count,
                      window=context, sample=downsampling,
                      sg=sg, hs=hierarchical_softmax, negative=negative_sampling_num_words)
@@ -106,4 +105,4 @@ def train_models(y0, yN, yearsInModel=10, stepYears=10):
 
 
 if __name__ == '__main__':
-	train_models(1950, 1995, 10, 10)
+	train_models(1960, 1960, 1, 1)
