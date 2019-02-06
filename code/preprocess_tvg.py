@@ -33,45 +33,43 @@ def load_newspapers(title, out_path):
     regex_pat = re.compile(r'[^a-zA-Z\s]', flags=re.IGNORECASE)
     path = '../../newspapers/{}'.format(title)
     print(path)
-    allFiles = glob.glob(path + '/articles/*.tsv')
-
+    allFiles = glob.glob(path + '/*.csv')
+    bigFile = []
     for f in tqdm(allFiles):
         print(os.path.basename(f))
         filename_ = os.path.basename(f)
-        year_ = filename_[12:16]
+        year_ = filename_[13:17]
         df = pd.read_csv(f, delimiter='\t')
-        
-        df = df[~df['date'].str.contains('date')]  # remove double headers
-        df = df[~df['ocr'].str.contains(
-            'objecttype')]  # remove double headers
-        df['ocr'] = df['ocr'].astype(str)
-        
-        #df['perc_digits'] = df['ocr'].apply(lambda x: digit_perc(x))
+       
+        df['text'] = df['text'].astype(str)
+       
+        #df['perc_digits'] = df['text'].apply(lambda x: digit_perc(x))
         #df = df[df['perc_digits'] <= 0.5]
         
-        df['ocr'] = df['ocr'].apply(lambda x: unidecode.unidecode(x)) #I could also use Gensim preprocess for this now but now it's the same as dictionary
-        df['ocr'] = df['ocr'].str.replace(regex_pat, '')
-        df['ocr'] = df['ocr'].str.findall(r'\w{3,18}').str.join(' ') #Only select words between 3 and 17 characters
+        df['text'] = df['text'].apply(lambda x: unidecode.unidecode(x)) #I could also use Gensim preprocess for this now but now it's the same as dictionary
+        df['text'] = df['text'].str.replace(regex_pat, '')
+        df['text'] = df['text'].str.findall(r'\w{3,18}').str.join(' ') #Only select words between 3 and 17 characters
         
-        #df['ocr'] = df['ocr'].apply(lambda x: make_bigrams(x))
+        #df['text'] = df['text'].apply(lambda x: make_bigrams(x))
         
-        df['ocr'] = df['ocr'].str.lower()
+        df['text'] = df['text'].str.lower()
         
-        df['len'] = df['ocr'].str.split().apply(len)
+        
         #df = df[df['len'].between(250, 5000, inclusive=True)]
-        df['ocr'] = df['ocr'].apply(lambda x: remove_stopwords(x))
+        df['text'] = df['text'].apply(lambda x: remove_stopwords(x))
+        df['len'] = df['text'].str.split().apply(len)
         directory = out_path + str(year_)   
         
         if not os.path.exists(directory):
             os.makedirs(directory)
 
-        df['Content'] = df['ocr']
-        df['Title'] = title
-
-        cols = ['Title', 'Content']
-        df = df[cols]
-        df.to_csv(directory + '/' + filename_[:-3] + 'csv', sep=',')
-
+        cols = ['text', 'title']
+        df2 = df[cols].copy()
+        df2.rename(columns={'text': 'Content', 'title': 'Title'}, inplace=True)
+        df2.to_csv(directory + '/' + filename_[:-3] + 'csv', sep=',')
+        bigFile.append(df)
+    bigFile = pd.concat(bigFile)
+    bigFile.to_pickle(directory + '/{}.pkl'.format(title))
 
 
 def make_bigrams(text):
