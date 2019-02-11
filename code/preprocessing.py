@@ -40,8 +40,7 @@ def clean_sentences(sentences):
     cleanSentences = []
     for sentence in sentences:
         sentence = re.sub("[^a-zA-Z]", " ", sentence)
-        sentence = ' '.join(word.lower() for word in sentence.split() if len(word) >= 3 and word not in StopWords)
-        sentence = [w for w in sentence.split()]
+        sentence = ' '.join(word.lower() for word in sentence.split() if len(word) >= 2 and word not in StopWords)
         if len(sentence) > 0:
             cleanSentences.append(sentence)
     return cleanSentences
@@ -66,16 +65,12 @@ def pre_process(title, out_path):
         print('making sentences: {}'.format(year))
 
         df['ocr'] = df['ocr'].apply(lambda x: unidecode.unidecode(x))
-        sentences = df['ocr'].apply(article_to_sentences)
+        docs = df['ocr'].apply(article_to_sentences)
         with open(out_path +'/{}_{}.txt'.format(title, year), 'w') as output:
-            for sentence in sentences:
-                output.write("\n%s" % sentence)
-                
-        #output_ = open('{}_{}.txt'.format(title_, year), 'w')
-        #for sentence in sentences:
-        #    output_.write("\n%s" % sentence)
-        #output_.close()
-        
+            for doc in docs:
+                for sentence in doc:
+                    output.write("\n%s" % sentence)
+       
 
 if __name__ == '__main__':
     args = docopt(__doc__)

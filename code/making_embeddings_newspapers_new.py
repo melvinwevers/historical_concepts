@@ -1,7 +1,7 @@
 import gensim
 from gensim.models.word2vec import Word2Vec
-from gensim.models.word2vec import LineSentence
 import itertools
+from gensim.models.word2vec import LineSentence
 import os
 import logging
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
@@ -11,7 +11,7 @@ num_features = 300    # Word vector dimensionality
 min_word_count = 5   # Minimum word count
 context = 10         # Context window size
 downsampling = 10e-5  # Downsample setting for frequent words
-num_workers = 25
+num_workers = 4
 hierarchical_softmax = 1
 skip_gram = 1
 negative_sampling_num_words = 0
@@ -62,13 +62,14 @@ def train_embeddings(sentences, num_features=300,
     '''
     training wem and generate bigrams
     '''
-    bigram_transformer = gensim.models.Phrases(sentences, min_count=100)
-    bigram = gensim.models.phrases.Phraser(bigram_transformer)
-    corpus = list(bigram[sentences])
-    model.build_vocab(corpus_file=corpus)
-    model.train(corpus_file=corpus,
+    #bigram_transformer = gensim.models.Phrases(sentences, min_count=100)
+    #bigram = gensim.models.phrases.Phraser(bigram_transformer)
+    #corpus = list(bigram[sentences])
+    model.build_vocab(LineSentence(sentences))
+    model.train(LineSentence(sentences),
                 total_examples=model.corpus_count,
-                epochs=model.iter)
+                #epochs=model.iter
+                epochs=1)
     return model.wv
 
 
@@ -85,6 +86,8 @@ def save_embeddings(embeddings, path, file):
 def train_models(y0, yN, yearsInModel=10, stepYears=10):
     '''train model and specify beginning and end and size of model
     '''
+    #yearsInModel = 20    
+    #stepYears = 20
     for year in range(y0, yN+1, stepYears):
         startY = year
         endY = year + yearsInModel-1
@@ -95,11 +98,12 @@ def train_models(y0, yN, yearsInModel=10, stepYears=10):
             startY, endY, '../data/vk_2'))]
         
         for identifier, sentences in periods:
+        #for sentences in TimestampedSentences(startY, endY, '../code/articles'):
             embeddings = train_embeddings(sentences, num_features=num_features, min_word_count=min_word_count, num_workers=num_workers,
                                           context=context, downsampling=downsampling, sg=skip_gram,
                                           hierarchical_softmax=hierarchical_softmax,
                                           negative_sampling_num_words=negative_sampling_num_words)
-            save_embeddings(embeddings, '../embeddings/',"{0}".format(identifier))
+            save_embeddings(embeddings, 'embeddings/year',"{0}".format(identifier))
 
 
 if __name__ == '__main__':

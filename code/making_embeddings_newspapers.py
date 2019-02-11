@@ -10,7 +10,7 @@ num_features = 300    # Word vector dimensionality
 min_word_count = 5   # Minimum word count
 context = 10         # Context window size
 downsampling = 10e-5  # Downsample setting for frequent words
-num_workers = 30
+num_workers = 8
 hierarchical_softmax = 1
 skip_gram = 1
 negative_sampling_num_words = 0
@@ -40,8 +40,7 @@ def iter_file(path):
     '''
     with open(path, 'r') as f:
         for sentence in f:
-            if sentence.split():
-                yield sentence.lower().split()
+                yield sentence.split()
 
 
 def iter_load_sentences(start_year, end_year, data_path):
@@ -62,7 +61,7 @@ def train_embeddings(sentences, num_features=300,
     '''
     training wem and generate bigrams
     '''
-    bigram_transformer = gensim.models.Phrases(sentences, min_count=50)
+    bigram_transformer = gensim.models.Phrases(sentences, min_count=100)
     bigram = gensim.models.phrases.Phraser(bigram_transformer)
     corpus = list(bigram[sentences])
     model.build_vocab(corpus)
@@ -75,17 +74,16 @@ def train_embeddings(sentences, num_features=300,
 def save_embeddings(embeddings, path, file):
     save_path = "{0}{1}".format(path, file)
     try:
-        embeddings.save(save_path)
+        #embeddings.save(save_path)
+        embeddings.save_word2vec_format(save_path, binary=True)
     except FileNotFoundError:
         os.mkdir(path)
-        embeddings.save(save_path)
+        embeddings.save_word2vec_format(save_path, binary=True)
 
 
 def train_models(y0, yN, yearsInModel=10, stepYears=10):
     '''train model and specify beginning and end and size of model
     '''
-    #yearsInModel = 20    
-    #stepYears = 20
     for year in range(y0, yN+1, stepYears):
         startY = year
         endY = year + yearsInModel-1
@@ -93,16 +91,15 @@ def train_models(y0, yN, yearsInModel=10, stepYears=10):
         print('Building Model: ', modelName)
 
         periods = [(modelName, TimestampedSentences(
-            startY, endY, 'sentences_vk'))]
+            startY, endY, '../data/vk_2'))]
         
         for identifier, sentences in periods:
-        #for sentences in TimestampedSentences(startY, endY, '../code/articles'):
             embeddings = train_embeddings(sentences, num_features=num_features, min_word_count=min_word_count, num_workers=num_workers,
                                           context=context, downsampling=downsampling, sg=skip_gram,
                                           hierarchical_softmax=hierarchical_softmax,
                                           negative_sampling_num_words=negative_sampling_num_words)
-            save_embeddings(embeddings, 'embeddings/year',"{0}".format(identifier))
+            save_embeddings(embeddings, '../embeddings/',"{0}".format(identifier))
 
 
 if __name__ == '__main__':
-	train_models(1960, 1960, 1, 1)
+	train_models(1950, 1995, 5, 1)
