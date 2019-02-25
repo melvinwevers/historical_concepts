@@ -2,10 +2,11 @@
 '''
 Preprocess newspaper data for training embeddings
 
-Usage: preprocessing.py --title=<newspaper>
+Usage: preprocessing.py --title=<newspaper> --outDir=<dir>
 
 Options:
  --title <newspaper>    Title of the newspaper
+ --outDir <dir>         Path for output 
 
 '''
 
@@ -44,9 +45,11 @@ def process_corpus(docs):
     for doc in docs:
         yield preprocess_string(doc, CUSTOM_FILTERS)
 
-def load_file(title):
-    path = '../../newspapers/{}'.format(title)
+def load_file(title, out_path):
+    path = '../../../datasets/newspapers_clean/{}'.format(title)
+    print(path)
     allFiles = glob.glob(path + "/articles/*.tsv")
+    print(allFiles)
 
     for f in allFiles:
         df = pd.read_csv(f, delimiter='\t', parse_dates=True)
@@ -63,7 +66,7 @@ def load_file(title):
         print('making sentences: {}'.format(year))
         df['ocr'] = df['ocr'].apply(lambda x: unidecode.unidecode(x))
         docs = df['ocr'].values
-        CORPUS_FILE = ('{}_{}.txt'.format(title, year))
+        CORPUS_FILE = (out_path + '/{}_{}.txt'.format(title, year))
 
         save_as_line_sentence(process_corpus(docs), CORPUS_FILE)
         # with open('../dictionary.dict') as f:
@@ -89,6 +92,6 @@ if __name__ == '__main__':
     args = docopt(__doc__)
 
     title = args['--title']
-    #out_path = args['--outDir']
+    out_path = args['--outDir']
 
-    load_file(title)
+    load_file(title, out_path)
