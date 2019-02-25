@@ -53,3 +53,10 @@ Calculate convergence scores Carlos
 
 Show historical uses
 
+
+12-02
+Compare procrustes alignment with transformation code by Carlos
+
+Align or not for shico?
+Maybe align between models for different newspapers? 
+

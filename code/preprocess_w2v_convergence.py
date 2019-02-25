@@ -18,20 +18,16 @@ import re
 from nltk.corpus import stopwords
 import unidecode
 from tqdm import tqdm
-from sys import argv
 import numpy as np
 from docopt import docopt
 from gensim.models.phrases import Phrases, Phraser
 
 stop_words = set(stopwords.words('dutch'))
 
-# script, title = argv
-
-# out_path = '../data/{}/'.format(title)
 
 def load_newspapers(title, out_path):
     regex_pat = re.compile(r'[^a-zA-Z\s]', flags=re.IGNORECASE)
-    path = '../../newspapers/{}'.format(title)
+    path = '../../../datasets/newspapers_clean/{}'.format(title)
     print(path)
     allFiles = glob.glob(path + '/articles/*.*sv')
 
@@ -40,17 +36,20 @@ def load_newspapers(title, out_path):
         filename_ = os.path.basename(f)
         year_ = filename_[12:16]
         df = pd.read_csv(f, delimiter='\t')
-        
-        df = df[~df['date'].astype(str).str.contains('date')]  # remove double headers
-        df = df[~df['ocr'].astype(str).str.contains('objecttype')]  # remove double headers
+       
+        # remove double headers
+        df = df[~df['date'].astype(str).str.contains('date')]  
+        df = df[~df['ocr'].astype(str).str.contains('objecttype')]  
         df['ocr'] = df['ocr'].astype(str)
         
         #df['perc_digits'] = df['ocr'].apply(lambda x: digit_perc(x))
         #df = df[df['perc_digits'] <= 0.5]
         
-        df['ocr'] = df['ocr'].apply(lambda x: unidecode.unidecode(x)) #I could also use Gensim preprocess for this now but now it's the same as dictionary
+        #I could also use Gensim preprocess for this 
+        df['ocr'] = df['ocr'].apply(lambda x: unidecode.unidecode(x)) 
         df['ocr'] = df['ocr'].str.replace(regex_pat, '')
-        df['ocr'] = df['ocr'].str.findall(r'\w{3,18}').str.join(' ') #Only select words between 3 and 17 characters
+        #Only select words between 3 and 17 characters
+        df['ocr'] = df['ocr'].str.findall(r'\w{3,18}').str.join(' ') 
         
         #df['ocr'] = df['ocr'].apply(lambda x: make_bigrams(x))
         
