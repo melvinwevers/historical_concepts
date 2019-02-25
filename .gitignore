@@ -1,6 +1,6 @@
 data/
 embeddings/
-
+*.DS_Store
 .texpadtmp/README.synctex.gz
 .texpadtmp/#README.log#
 .texpadtmp/README.aux
@@ -8,3 +8,4 @@ embeddings/
 .texpadtmp/README.out
 experiments/__pycache__/sppmimodel.cpython-36.pyc
 experiments/__pycache__/relation.cpython-36.pyc
+ac_journals/
