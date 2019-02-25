@@ -1,7 +1,25 @@
+#!/usr/bin/env python
+'''
+Generate embeddings with a time shifting window.
+
+Usage:
+  train_models.py --y0=<y0> --yN=<yN> --nYears=<years> --title=<title> --outDir=<dir> [--step=<years>]
+
+Options:
+  --y0 <y0>         First year in the generated models
+  --yN <yN>         Last year in the generated models
+  --nYears <years>  Number of years per model
+  --title <title>   Name of the input data 
+  --outDir <dir>    Directory where models will be writen to
+  --step <years>    Step between start year of generated models [default: 1]
+'''
+
+
+from docopt import docopt
 import gensim
 from gensim.models.word2vec import Word2Vec
-import itertools
 from gensim.models.word2vec import LineSentence
+import itertools
 import os
 import logging
 logging.basicConfig(format='%(asctime)s : %(levelname)s : %(message)s', level=logging.INFO)
@@ -11,7 +29,7 @@ num_features = 300    # Word vector dimensionality
 min_word_count = 5   # Minimum word count
 context = 10         # Context window size
 downsampling = 10e-5  # Downsample setting for frequent words
-num_workers = 4
+num_workers = 10
 hierarchical_softmax = 1
 skip_gram = 1
 negative_sampling_num_words = 0
@@ -41,7 +59,7 @@ def iter_file(path):
     '''
     with open(path, 'r') as f:
         for sentence in f:
-                yield sentence.split()
+            yield sentence.split()
 
 
 def iter_load_sentences(start_year, end_year, data_path):
@@ -53,7 +71,7 @@ def iter_load_sentences(start_year, end_year, data_path):
             yield iter_file(year_path)
 
 def train_embeddings(sentences, num_features=300,
-                     min_word_count=5, num_workers=5, context=10, downsampling=1e-3, sg=1,
+                     min_word_count=5, num_workers=10, context=10, downsampling=1e-3, sg=1,
                      hierarchical_softmax=0, negative_sampling_num_words=5):
     model = Word2Vec(workers=num_workers,
                      size=num_features, min_count=min_word_count,
@@ -65,29 +83,29 @@ def train_embeddings(sentences, num_features=300,
     #bigram_transformer = gensim.models.Phrases(sentences, min_count=100)
     #bigram = gensim.models.phrases.Phraser(bigram_transformer)
     #corpus = list(bigram[sentences])
-    model.build_vocab(LineSentence(sentences))
-    model.train(LineSentence(sentences),
+    model.build_vocab(sentences)
+    model.train(sentences,
                 total_examples=model.corpus_count,
                 #epochs=model.iter
-                epochs=1)
+                epochs=5)
     return model.wv
 
 
 def save_embeddings(embeddings, path, file):
-    save_path = "{0}{1}".format(path, file)
+    model_ = "{0}{1}.w2v".format(path, file)
+    vocab_ = model_.replace('w2v', 'vocab.w2v')
     try:
         #embeddings.save(save_path)
-        embeddings.save_word2vec_format(save_path, binary=True)
+        embeddings.save_word2vec_format(model_, fvocab=vocab_, binary=True)
     except FileNotFoundError:
-        os.mkdir(path)
-        embeddings.save_word2vec_format(save_path, binary=True)
+        print(path)
+        os.makedirs(path)
+        embeddings.save_word2vec_format(model_, fvocab=vocab_, binary=True)
 
 
-def train_models(y0, yN, yearsInModel=10, stepYears=10):
+def train_models(y0, yN, yearsInModel, title, stepYears, modelFolder):
     '''train model and specify beginning and end and size of model
     '''
-    #yearsInModel = 20    
-    #stepYears = 20
     for year in range(y0, yN+1, stepYears):
         startY = year
         endY = year + yearsInModel-1
@@ -95,7 +113,7 @@ def train_models(y0, yN, yearsInModel=10, stepYears=10):
         print('Building Model: ', modelName)
 
         periods = [(modelName, TimestampedSentences(
-            startY, endY, '../data/vk_2'))]
+            startY, endY, '../data/{}'.format(title)))]
         
         for identifier, sentences in periods:
         #for sentences in TimestampedSentences(startY, endY, '../code/articles'):
@@ -103,8 +121,18 @@ def train_models(y0, yN, yearsInModel=10, stepYears=10):
                                           context=context, downsampling=downsampling, sg=skip_gram,
                                           hierarchical_softmax=hierarchical_softmax,
                                           negative_sampling_num_words=negative_sampling_num_words)
-            save_embeddings(embeddings, 'embeddings/year',"{0}".format(identifier))
+            save_path = os.path.join(modelFolder + title + '/' + str(stepYears))
+            print(save_path)
+            save_embeddings(embeddings, save_path, '/{}'.format(identifier))
 
 
 if __name__ == '__main__':
-	train_models(1957, 1957, 1, 1)
+    args = docopt(__doc__)
+    yearsInModel = int(args['--nYears'])
+    stepYears = int(args['--step'])
+    title = args['--title']
+    outDir = args['--outDir']
+    y0 = int(args['--y0'])
+    yN = int(args['--yN'])
+
+    train_models(y0, yN, yearsInModel, title, stepYears, outDir)
