@@ -44,13 +44,14 @@ class Sentences():
 
 
 class TimestampedSentences():
-    def __init__(self, start_year, end_year, data_path):
+    def __init__(self, start_year, end_year, title, data_path):
         self.start_year = start_year
         self.end_year = end_year
         self.data_path = data_path
+        self.title = title
 
     def __iter__(self):
-        return itertools.chain.from_iterable(iter_load_sentences(self.start_year, self.end_year, self.data_path))
+        return itertools.chain.from_iterable(iter_load_sentences(self.start_year, self.end_year, self.title, self.data_path))
 
 
 def iter_file(path):
@@ -62,12 +63,12 @@ def iter_file(path):
             yield sentence.split()
 
 
-def iter_load_sentences(start_year, end_year, data_path):
+def iter_load_sentences(start_year, end_year, title, data_path):
     '''
     load sentences in a date range
     '''
     for year in range(start_year, end_year + 1):
-            year_path = os.path.join(data_path, 'vk_' + str(year) + '.txt')
+            year_path = os.path.join(data_path, title + '_' + str(year) + '.txt')
             yield iter_file(year_path)
 
 def train_embeddings(sentences, num_features=300,
@@ -113,7 +114,7 @@ def train_models(y0, yN, yearsInModel, title, stepYears, modelFolder):
         print('Building Model: ', modelName)
 
         periods = [(modelName, TimestampedSentences(
-            startY, endY, '../data/{}'.format(title)))]
+            startY, endY, title, '../data/{}'.format(title)))]
         
         for identifier, sentences in periods:
         #for sentences in TimestampedSentences(startY, endY, '../code/articles'):
