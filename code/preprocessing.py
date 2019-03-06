@@ -62,7 +62,7 @@ def load_file(title, out_path):
         df = df[~df['ocr'].astype(str).str.contains('|'.join(excludes))]
 
         df['date'] = pd.to_datetime(df['date'])
-        year = df['date'].dt.year[1]
+        year = df['date'].dt.year[0]
 
         print('making sentences: {}'.format(year))
         df['ocr'] = df['ocr'].apply(lambda x: unidecode.unidecode(x))
