@@ -122,8 +122,10 @@ def train_models(y0, yN, yearsInModel, title, stepYears, modelFolder):
                                           context=context, downsampling=downsampling, sg=skip_gram,
                                           hierarchical_softmax=hierarchical_softmax,
                                           negative_sampling_num_words=negative_sampling_num_words)
-            save_path = os.path.join(modelFolder + title + '/' + str(stepYears))
+            save_path = os.path.join(modelFolder + title + '/' + str(yearsInModel))
             print(save_path)
+            if not os.path.exists(save_path):
+                os.makedirs(save_path)
             save_embeddings(embeddings, save_path, '/{}'.format(identifier))
 
 
