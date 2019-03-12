@@ -1,0 +1,441 @@
+#+TITLE: Reading notes Word Embedding articles 
+#+AUTHOR: Melvin Wevers
+
+* Reading Notes Articles Historical Concepts
+
+** [@allan_current_2012]
+
+Semantic change closely connected with changes in the 'external, non-linguistic world,
+especially with the developments in the spheres of culture and technology' (Durkin 2009,
+222-3)
+
+Geeraerts et al. write that quantitative corpus methods have not yet pervaded the
+historical study of word meaning. (109).
+
+** [@azarbonyad_words_2017]
+
+Change over time while neglecting other valuable dimensions such as social or political
+variability. Compare words in semantic space for different view points. 
+
+Two laws of semantic change hold for temporal shifts and across view points. 
+[@hamilton_diachronic_2016]
+1. the law of conformity > 'rate of semantic change scales with an inverse power law of
+   word frequency'. 
+2. The law of innovation > 'the semantc change rate of words is highly correlated with
+   their polysemy'
+
+More abstract words more likely to shift. 
+
+Compute malleability of meaning and monitor semantic shifts. 
+
+using graph-based similarity measures we compute how similar the neighbors of a word in
+two embedding spaces are. (3) We define a measure that combines these two measures.
+
+Use wem for document classification by calculating the distances between documents. 
+
+Compare representatins in different view points. 
+
+Three approaches to align spaces
+1. Linear mapping
+2. Neighbor-based approach 
+3. Combination of the two
+
+*** Linear Mapping
+Leskovec (Mapping). The stability of a word using this measure equals to the similarity of its vector to its mapped vector
+after applying the mapping back and forth
+
+*** Neighbor-based approach
+The similarity of two nodes in a graph is determined by the similarity of their neighbors [14]
+
+Datasets: Hansard, and NYT set (terrorist after 9/11).
+
+Settings: skipgram, remove less than 20 occurences, 300 dims and window of 10, unigrams,
+and bigrams. 
+
+Combination method effective in detecting semantic shifts. 
+
+
+
+** [@baroni_dont_2014]
+
+Context-predicting models perform better than count-based models.
+Trained on ukWaC, Wikipedia, British National Corpus. Focus on top 300k most frequent
+words.
+
+context windows of 2 and 5 words. Dimensionality 200, 500 (steps of 100)
+
+Evaluation using:
+1. Semantic relatedness > human subjects to rate the degree of semantic similarity
+2. Synonym detection
+3. concept categorization 
+4. selectional preferences > verb-noun pairs. 
+5. analogy > queen-king etc..
+
+** [@barranco_tracking_2018]
+
+Semantic evolution between a pair of words refers to how similar the context of the words
+are. Context is more time-dependent. 
+
+Co-occurence models can be sparse and computationally intensive.
+
+Glove > word vectors are created using matrix factorization of a word-word co-occurence
+matrix. 
+
+We need large number of documents at each timestamp. 
+
+Approaches by Bamler and Mandt, Rudolph and Blei to connect word embeddings. 
+
+Diffusion theory > the meaning of a word and its vector representation will diffuse over
+time.
+
+Neighborhood monotony to evaluate how much the meaning of a word changes over time, based
+on the neighborhood over consecutive timestamps. Take average of Jaccard similarities
+between the neighborhoods of a word. 
+
+Only use noun-phrases. 
+
+Use diffusion to compensate for sparsity of the dataset.
+
+** [@hellrich_bad_2016]
+Reliable algorithms trained by word2vec often provides inconsist word neighborhoods.
+** [@batchkarov_critique_2016]
+
+Word similarity tasks only provide an approximate measure of the quality of a distributional model. 
+The quality of an unsupervised model can only be assessed in the context of an
+application.
+
+** [@bolukbasi_quantifying_2016-1]
+
+Using gender analogy set to quantify gendder bias in embedding.
+Relate professions to embeddings of he and she.
+
+** [@chen_semantic_2018]
+
+Study semantic shifts of words by mining per-word topic distribution over time.
+Shifts not only occur over time, but also over topics.
+Shifts examined from two perspectives: the topic-level and the context-level.
+
+The assocation between words can be extracted from their contexts (Harris)
+
+Semantic word shifts refer to a change of one or more meanings of the same concept over
+time. (Lehmann, 1993). Concepts are used to describe sets of objects with shared
+characteristics.
+
+/synonymy detection/ use of different words with the same meaning
+/Polysemy detection/ different meanings expressed by the same word over time. 
+
+Words shifts occur not only over time, but also over topics. 
+
+** [@dubossarsky_outta_2017]
+
+Evaluate three laws of semantic change.
+1. the proposed negative correlation between meaning change and word frequency is shown to
+   be largely an artefact of the models of word representations used. Law of Conformity [@hamilton_diachronic_2016]
+2. the proposed negative correlation between meaning change and prototypicality is shown
+   to be much weaker than what has been claimed before. Law of Innovation.  [@hamilton_diachronic_2016]
+3. the proposed positive correlation between meaning change and polysemy is largely an
+   artefact of word freqeuncy. The Law of Prototypicality (Dubossarsky et al. 2015).
+
+Historical distributional semantics > claims to predictive models of semantic change.
+
+Choice of model may introduce biases into the analysis. 
+
+Frequent method of measuring the semantic change of a word is to compare the word's vector
+representations between two points in time using cosine distance. Greater distances ==
+greater semantic changes. 
+
+Frequency and prototypicality may play a smaller role in sematnic change than previously
+claimed. SVD might cause these effects to increase. 
+
+*Data*: google books 5-grams of English fiction. Random sampled 1900-1999. 
+Ten-year bins > keeping 100k mmost frequent words, lower-cased and stripped of
+punctuation.
+
+Use of 10k most frequent words for the analysis of semantic change. 
+
+Counts
+PPMI
+SVD
+
+Conclusions might also be applied to Skipgram Negative Sampling embedding models
+(word2vec)
+
+Polysemy > the more interconnected secondary connections are.
+Word's prototypicality as the cos-distance between a word's vector and its k-means
+cluster's centroid. 
+
+Factors leading to semantic change are more diverse then purely distributional factors. 
+
+** [@faruqui_problems_2016-1]
+Most popular intrinsic evaluation task is the /word similarity/ evaluation. 
+
+** [@garg_word_2018]
+Framework to demonstrate how the temporal dynamics of the embedding helps to quantify
+changes in stereotypes and attitudes toward women an ethnic minorities in the 20th and
+21st centuries in the United States. Link to demographic and occupation shifts over time. 
+
+Association with adjectives and occupations became more closely intertwined. 
+Word2vec google Books / COHA
+GLoVe NYT 1988 and 2005.
+
+Use of word lists and embeddingsm measure the strength of assocation (embedding bias)
+between neutral words and a group.
+
+Overall shift in adjectives, as well as topic adjectives associated with women in three
+periods.
+
+Relative norm distance > averaging the vectors for each word in a group and calculate the
+similarity between this average vector and each word in the neutral word. 
+
+** [@goldberg_primer_2015]
+
+Overview of how neural networks work > refer to in paper.
+
+** [@hamilton_cultural_2016-1]
+
+If you want to learn historical embeddings for new data, the code in the sgns directory is
+recommended, which can be run with the default settings. As long as your corpora has at
+least 100 million words per time-period, this is the best method. For smaller corpora,
+using the representations/ppmigen.py code followed by the vecanalysis/makelowdim.py code
+(to learn SVD embeddings) is recommended. In either case, the
+vecanalysis/seq_procrustes.py code should be used to align the learned embeddings. The
+default hyperparameters should suffice for most use cases.
+
+Methodology for quantifying semantic change by evaluating word embeddings against known
+historical changes. What is the role of frequency in meaning change?
+Law of innovation and law of conformity
+
+** [@hamilton_cultural_2016-1]
+
+Two different distributional mesures to detect two different types of semantic change.
+1. global shifts in a word's distributional semantics
+2. local changes to a word's nearest semantic neighbors, more sensitive to cultural
+   shifts, for example 'cell'
+
+This allows us to figure out if changes are more cultural or linguistic in nature. 
+
+Compare nouns and verbs. 
+
+Global measure: take a word's vector for two consective decades and measure the cosine
+distance between them. 
+
+Local measure: based on intuition that only a word's nearest semantic neighbors are
+relevant. 
+
+Find word's set of k nearest neighbors (based on cosine similarity) within each
+decade. Compute a second-order similarity vector for these neighbor sets. Compute how
+word's similarity with its nearest neighbors has changed. Results consist for 10,50 k. 
+
+Local measure assign far higher rates of smeantic change to nouns, the other to verbs. 
+
+** [@hellrich_bad_2016]
+
+Assess reliability and accuracy of word embeddings for modern and historical english and
+german. Cast doubt on the suitability of word neighborhoods in embeddig spaces for
+qualitative conclusions on synchronic and diachrnic lexico-semantic matters. 
+
+Inherent randomness in generation affects the reliability of word neighborhood
+judgements. 
+
+Skip-gram predicts plausible contexts for a given word, CBOW predicts words from
+context. The former is considered to be superior ([@levy_improving_2015])
+
+*reliability* Compare the n nn by cosine for each word with a variant of jaccard
+ coefficient. 
+*accuracy* analogy (king queen) and similarity (word pairs, such as bread and butter)
+
+setup: 200 dims, context window 4, min freq=10, and 10^-5 as threshold for downsampling,
+10 iterations. 
+
+SVD_ppmi to be superior. 
+
+** [@kulkarni_statistically_2015]
+
+tracking and detecting the stastically significant linguistic shifts of words. 
+time series per word. 
+
+*** frequency based statistics
+log of the number of occurences of word in corpus divided by size corpus. 
+*** syntatic time series based on POS distribution
+probability distribution of pos tag Q given the word w and time t. Calculate JSD
+divergence between POs distributions. 
+*** distributional time series > infer contextual cues from word co-occurence statistics.
+track changes of the representation across the embedding space to quantify the meaning
+shift of the word. 
+
+setup > window = 10, d=200, subsample frequent words by 10^-5.
+
+Alignment > assument spaces are equivalent under a linear transformation. Meaning of most
+words did not shift over time, local structure is preserved. 
+
+Authors offer a change point detection algorithm. Mean shift model.
+ 1,3,40 
+
+** [@levy_linguistic_2014]
+
+Word embeddings are designed to capture what Turney (2006) calls /attributional
+similarities/ between vocabulary items: words that appear in similar contexts will be
+close to each other in the projected space. 
+
+We show that similarly to the neural embedding space, the explicit vector space also
+encodes a vast amount of relational similarity which can be recovered in a similar
+fashion. > preservering patterns inherent in the word-context co-occurence matrix. 
+
+setup: 2 token window, ignoring words less than 100 times > 189,533 terms. 600 dims, 15
+negative samples. sub-sampling of 10^-5
+
+This study shows that finding analogies through vector arithmetic is actually a form of
+balancing word similarities, and that, con- trary to the recent findings of Baroni et
+al. (2014), under certain conditions traditional word similar- ities induced by explicit
+representations can perform just as well as neural embeddings on this task.
+
+** [@levy_improving_2015]
+Gains by neural networks can be transferred to traditional distributional models. 
+
+** [@lin_analysing_2016]
+An approach to analyse the change of word meaning based on word embeddings. 
+Density clustering method DBSCAN. 
+
+Change of one or more meanings of the word in time (Campbell, L.: Historical linguistics:
+an introduction. Diachronica: Int. J. Hist. Linguist. (1), 159–160 (1998))
+
+Word meaning is closely related to its context > when meaning changes, words in context
+also change. 
+
+Especially in Jatowt’s [11] work, he proposed a framework for analyzing semantic change,
+which is capturing semantic change of a single word and then finding evolution of
+similarities between contrasting pairs of words. This framework was applied in many works
+on analysing semantic change.
+
+setup: 2 words > negative sampling=25. 
+
+** [@linzen_issues_2016]
+The use of word analogies's reliance on cosine similarity conflates offset consistency
+with largely irrelevant neighborhood structure. Authors propose simple baselines to
+improve the utility of the method. 
+
+** [@miller_contextual_1991]
+Words that share contexts are similar in meaning
+
+** [@orlikowski_learning_2018]
+Study the evolution of concepts by learning to complete diachronic analogies between lists
+of terms which relate to the same concept at different points in time. 
+
+Diachronic analogies should be /coherent/ in regard to the represented concept and
+/discriminative/ in regard to the vocabulary of other concepts. 
+
+*** word-level semantic change
+vector representations to study changes in word semantics. 
+*** concept-level semantic change
+trace concept vocabularies based on a set of seed terms. 
+
+More detailed analysis of changes in time-specific vector spaces. > predict valid
+characterizing terms for a core concept term given a respective characterizing term at an
+earlier point in time. 
+
+setup: For each period, word embeddings were trained using the implementations by the Gensim
+library5. In correspondence with Kenter et al. (2015), we used the skip-gram architecture
+to train embeddings with 300 dimensions. We use a slightly different configuration,
+however, in particular negative sampling, a subsampling threshold of 10−5, a context width
+of 4 and a minimum word count of 10.
+
+** [@schnabel_evaluation_2015-1]
+Study of evaluation methods for unsupervised embedding techniques. 
+Techniques to directly compare embeddings with respect to specific queries. 
+
+*** extrinsic evaluation
+use wem for downstream task and measure changes in performace metrics related to tasks
+pos and ner. 
+*** intrinsic evaluation
+test for syntactic or semantic relationships between words. 
+
+setup: dim=50. 103,647 words for nn experiments.
+
+differences in embeddings due to a lack of hyperparameter optimization
+([@levy_improving_2015]). Word frequency has an effect on representation in space (impact
+on cosine similarity).
+
+Extrinsic evaluation should not be used for as a proxy for generic quality. 
+
+** [@tulkens2016evaluating]
+Demonstrate the performce of multiple types of embeddings using count and prediction-based
+architectures > for two tasks
+1. relation evaluation
+2. dialect identification
+
+Analogy set for Dutch. 
+
+Word representations are constructed one sentence at a time. It will then try to predict
+the current words through its context (or context based on the word). 
+
+The embeddings are implicit as it is not immediately clear what each dimension
+represents. 
+
+word2vec (skipgram (sg) and CBOW (continuous bag of words) architectures and two training
+methods, hierachical skipgram (HS) and negative sampling (NS). Negative samples are noise
+words which do not belong to the context currently being modelled. 
+
+Corpora in Dutch
+*Roularta* > articles from belgian publishing consoritum Roularta.
+*wikipedia* > raw dump of wikipedia 
+*sonar* > all kinds of Dutch sources
+*COW* taken from online data
+*Social media dataset* from Dutch facebook pages. 
+
+Combined corpus > Roularta, Wikipedia, and SoNar. 
+Sentences shorter then 5 tokens were removed. 
+
+Dictionary for standard Dutch used. 
+
+Optimal parameters > negative sampling of 15, vector size of 320, window size of 11. 
+
+Biggest determiner of success is corpus size.
+Combined corpus does not outperform Sonar > combining corpora can cause interference, and
+diminish performance. 
+
+** [@van_aggelen_combining_2016]
+
+Combining statistical and symbolic approach: enrich WordNet with scores from HistWords. 
+
+** [@yao_dynamic_2018-1]
+
+Aim: learn word embeddings with a temporal bent, for capturing time-aware meanings of
+words.
+
+'distance' as cosine distance between word embedding vectors
+'neighborhoods' defined by distance. 
+'alignment problem' which is an issue if embeddings are learned indepdently from each time
+slice.
+
+Paper solves alignment problem by learning word embeddings across time jointly. 
+Forcing alignment through regularization, robust against data sparsity. 
+Computatinally intensive. 
+
+** [@zhang_past_2016-1]
+
+Temporal correspondence detection task > finding terms in the past which are semantically
+closest to a given input present term. 
+
+Technique for automatically constructing seed pairs of terms for finding the
+transformation. 
+
+Frequent words change their semantics across time only to relatively small degree. 
+
+Temporal counterpart - if e is semantically similar to q in t_t, then e it temporal
+counterpart of q in t_t
+
+Context Comparison - Compare two sets of contexts terms of two words. 
+
+Semantically Stable Terms > terms that do not change their meaning over time.
+
+Semantically Unstable Terms > terms that change their meaning over time. 
+
+Create two embeddings base time and target time. 
+
+Utilizing set of anchor terms. To execute global transformation, also couple using
+reference points for local transformations. 
+
+
+
+
+
