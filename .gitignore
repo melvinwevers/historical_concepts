@@ -1,5 +1,8 @@
 data/
 embeddings/
+embeddings_no_overlap/
+embeddings_sample/
+dutchembeddings/
 *.DS_Store
 .texpadtmp/README.synctex.gz
 .texpadtmp/#README.log#

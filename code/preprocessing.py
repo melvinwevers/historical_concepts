@@ -26,7 +26,7 @@ StopWords = frozenset(stopwords.words('dutch'))
 
 def process_corpus(docs):
 
-    with open('../dictionary.dict') as f:
+    with open('../dictionary/nl_dict2.dict') as f:
         dictionary_nl = f.readlines()
     dictionary_nl = [x.strip() for x in dictionary_nl]
     dictionary_nl = frozenset(dictionary_nl)

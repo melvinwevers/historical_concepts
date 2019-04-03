@@ -1,3 +1,6 @@
+#+TITLE: Reading notes Word Embedding articles 
+#+AUTHOR: Melvin Wevers
+
 * Reading Notes Articles Historical Concepts
 
 ** [@allan_current_2012]
@@ -50,7 +53,6 @@ Settings: skipgram, remove less than 20 occurences, 300 dims and window of 10, u
 and bigrams. 
 
 Combination method effective in detecting semantic shifts. 
-
 
 
 
@@ -185,7 +187,6 @@ periods.
 Relative norm distance > averaging the vectors for each word in a group and calculate the
 similarity between this average vector and each word in the neutral word. 
 
-
 ** [@goldberg_primer_2015]
 
 Overview of how neural networks work > refer to in paper.
@@ -219,7 +220,9 @@ Global measure: take a word's vector for two consective decades and measure the 
 distance between them. 
 
 Local measure: based on intuition that only a word's nearest semantic neighbors are
-relevant. Find word's set of k nearest neighbors (based on cosine similarity) within each
+relevant. 
+
+Find word's set of k nearest neighbors (based on cosine similarity) within each
 decade. Compute a second-order similarity vector for these neighbor sets. Compute how
 word's similarity with its nearest neighbors has changed. Results consist for 10,50 k. 
 
@@ -246,4 +249,193 @@ setup: 200 dims, context window 4, min freq=10, and 10^-5 as threshold for downs
 
 SVD_ppmi to be superior. 
 
-[@heuer_text_2016]
+** [@kulkarni_statistically_2015]
+
+tracking and detecting the stastically significant linguistic shifts of words. 
+time series per word. 
+
+*** frequency based statistics
+log of the number of occurences of word in corpus divided by size corpus. 
+*** syntatic time series based on POS distribution
+probability distribution of pos tag Q given the word w and time t. Calculate JSD
+divergence between POs distributions. 
+*** distributional time series > infer contextual cues from word co-occurence statistics.
+track changes of the representation across the embedding space to quantify the meaning
+shift of the word. 
+
+setup > window = 10, d=200, subsample frequent words by 10^-5.
+
+Alignment > assument spaces are equivalent under a linear transformation. Meaning of most
+words did not shift over time, local structure is preserved. 
+
+Authors offer a change point detection algorithm. Mean shift model.
+ 1,3,40 
+
+** [@levy_linguistic_2014]
+
+Word embeddings are designed to capture what Turney (2006) calls /attributional
+similarities/ between vocabulary items: words that appear in similar contexts will be
+close to each other in the projected space. 
+
+We show that similarly to the neural embedding space, the explicit vector space also
+encodes a vast amount of relational similarity which can be recovered in a similar
+fashion. > preservering patterns inherent in the word-context co-occurence matrix. 
+
+setup: 2 token window, ignoring words less than 100 times > 189,533 terms. 600 dims, 15
+negative samples. sub-sampling of 10^-5
+
+This study shows that finding analogies through vector arithmetic is actually a form of
+balancing word similarities, and that, con- trary to the recent findings of Baroni et
+al. (2014), under certain conditions traditional word similar- ities induced by explicit
+representations can perform just as well as neural embeddings on this task.
+
+** [@levy_improving_2015]
+Gains by neural networks can be transferred to traditional distributional models. 
+
+** [@lin_analysing_2016]
+An approach to analyse the change of word meaning based on word embeddings. 
+Density clustering method DBSCAN. 
+
+Change of one or more meanings of the word in time (Campbell, L.: Historical linguistics:
+an introduction. Diachronica: Int. J. Hist. Linguist. (1), 159–160 (1998))
+
+Word meaning is closely related to its context > when meaning changes, words in context
+also change. 
+
+Especially in Jatowt’s [11] work, he proposed a framework for analyzing semantic change,
+which is capturing semantic change of a single word and then finding evolution of
+similarities between contrasting pairs of words. This framework was applied in many works
+on analysing semantic change.
+
+setup: 2 words > negative sampling=25. 
+
+** [@linzen_issues_2016]
+The use of word analogies's reliance on cosine similarity conflates offset consistency
+with largely irrelevant neighborhood structure. Authors propose simple baselines to
+improve the utility of the method. 
+
+** [@miller_contextual_1991]
+Words that share contexts are similar in meaning
+
+** [@orlikowski_learning_2018]
+Study the evolution of concepts by learning to complete diachronic analogies between lists
+of terms which relate to the same concept at different points in time. 
+
+Diachronic analogies should be /coherent/ in regard to the represented concept and
+/discriminative/ in regard to the vocabulary of other concepts. 
+
+*** word-level semantic change
+vector representations to study changes in word semantics. 
+*** concept-level semantic change
+trace concept vocabularies based on a set of seed terms. 
+
+More detailed analysis of changes in time-specific vector spaces. > predict valid
+characterizing terms for a core concept term given a respective characterizing term at an
+earlier point in time. 
+
+setup: For each period, word embeddings were trained using the implementations by the Gensim
+library5. In correspondence with Kenter et al. (2015), we used the skip-gram architecture
+to train embeddings with 300 dimensions. We use a slightly different configuration,
+however, in particular negative sampling, a subsampling threshold of 10−5, a context width
+of 4 and a minimum word count of 10.
+
+** [@schnabel_evaluation_2015-1]
+Study of evaluation methods for unsupervised embedding techniques. 
+Techniques to directly compare embeddings with respect to specific queries. 
+
+*** extrinsic evaluation
+use wem for downstream task and measure changes in performace metrics related to tasks
+pos and ner. 
+*** intrinsic evaluation
+test for syntactic or semantic relationships between words. 
+
+setup: dim=50. 103,647 words for nn experiments.
+
+differences in embeddings due to a lack of hyperparameter optimization
+([@levy_improving_2015]). Word frequency has an effect on representation in space (impact
+on cosine similarity).
+
+Extrinsic evaluation should not be used for as a proxy for generic quality. 
+
+** [@tulkens2016evaluating]
+Demonstrate the performce of multiple types of embeddings using count and prediction-based
+architectures > for two tasks
+1. relation evaluation
+2. dialect identification
+
+Analogy set for Dutch. 
+
+Word representations are constructed one sentence at a time. It will then try to predict
+the current words through its context (or context based on the word). 
+
+The embeddings are implicit as it is not immediately clear what each dimension
+represents. 
+
+word2vec (skipgram (sg) and CBOW (continuous bag of words) architectures and two training
+methods, hierachical skipgram (HS) and negative sampling (NS). Negative samples are noise
+words which do not belong to the context currently being modelled. 
+
+Corpora in Dutch
+*Roularta* > articles from belgian publishing consoritum Roularta.
+*wikipedia* > raw dump of wikipedia 
+*sonar* > all kinds of Dutch sources
+*COW* taken from online data
+*Social media dataset* from Dutch facebook pages. 
+
+Combined corpus > Roularta, Wikipedia, and SoNar. 
+Sentences shorter then 5 tokens were removed. 
+
+Dictionary for standard Dutch used. 
+
+Optimal parameters > negative sampling of 15, vector size of 320, window size of 11. 
+
+Biggest determiner of success is corpus size.
+Combined corpus does not outperform Sonar > combining corpora can cause interference, and
+diminish performance. 
+
+** [@van_aggelen_combining_2016]
+
+Combining statistical and symbolic approach: enrich WordNet with scores from HistWords. 
+
+** [@yao_dynamic_2018-1]
+
+Aim: learn word embeddings with a temporal bent, for capturing time-aware meanings of
+words.
+
+'distance' as cosine distance between word embedding vectors
+'neighborhoods' defined by distance. 
+'alignment problem' which is an issue if embeddings are learned indepdently from each time
+slice.
+
+Paper solves alignment problem by learning word embeddings across time jointly. 
+Forcing alignment through regularization, robust against data sparsity. 
+Computatinally intensive. 
+
+** [@zhang_past_2016-1]
+
+Temporal correspondence detection task > finding terms in the past which are semantically
+closest to a given input present term. 
+
+Technique for automatically constructing seed pairs of terms for finding the
+transformation. 
+
+Frequent words change their semantics across time only to relatively small degree. 
+
+Temporal counterpart - if e is semantically similar to q in t_t, then e it temporal
+counterpart of q in t_t
+
+Context Comparison - Compare two sets of contexts terms of two words. 
+
+Semantically Stable Terms > terms that do not change their meaning over time.
+
+Semantically Unstable Terms > terms that change their meaning over time. 
+
+Create two embeddings base time and target time. 
+
+Utilizing set of anchor terms. To execute global transformation, also couple using
+reference points for local transformations. 
+
+
+
+
+
