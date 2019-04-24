@@ -1,9 +1,29 @@
 import json
 import logging
+from gensim.models import Word2Vec, KeyedVectors
+import pickle
+import numpy as np
+import pandas as pd
 
 from itertools import permutations
 from sppmimodel import SPPMIModel
 
+
+def make_df(scores):
+        names = []
+        accuracies = []
+        for i in range(len(scores)):
+            name = [v for k,v in scores[i].items() if k =='section']
+            correct = sum(len(v)for k, v in scores[i].items() if k == 'correct')
+            false = sum(len(v)for k, v in scores[i].items() if k == 'incorrect')
+            try:
+                accuracy = correct / (correct + false)
+            except:
+                accuracy = np.nan
+            names.append(name)
+            accuracies.append(accuracy)
+        scores_df = pd.DataFrame(list(zip(names, accuracies)))
+        #scores_df.to_pickle('scores_ah_nrc.pkl')
 
 class Relation:
     """A class for making relationship/analogy tests easy"""
@@ -48,16 +68,10 @@ class Relation:
                 for x in permutations([" ".join(x).lower() for x in v], 2):
                     f.write(u"{0}\n".format(" ".join(x)))
 
-if __name__ == "__main__":
-
-    # Loads the category file for the Dutch relation test words.
-    cats = json.load(open("data/semtest.json"))
-
-    # Create the relation set tuples, and saves the result to question-words.txt
-    Relation.create_set(cats, "data/question-words.txt")
-    
-    pathtomodel = ""
-    model = Word2Vec.load_word2vec_format(pathtomodel)
-
+def calculate_analogies(model):
+    sems = json.load(open("data/semtest.json"))
+    Relation.create_set(sems, "data/question-words.txt")
     rel = Relation("data/question-words.txt")
     scores = rel.test_model(model)
+    df_scores = make_df(scores)
+    return df_scores

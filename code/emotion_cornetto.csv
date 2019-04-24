@@ -1,0 +1,3919 @@
+word,id,sense,polarity,subjectivity,confidence
+Amsterdams,r_a-16677,van Amsterdam,0.0,0.1,0.7
+Angelsaksisch,r_a-8929,Engels,0.1,0.3,0.7
+Arabisch,r_a-16693,van Arabië,0.0,0.3,0.7
+Ardens,r_a-17252,van de Ardennen,0.0,0.0,0.7
+Arnhems,r_a-16698,van Arnhem,0.0,0.1,0.7
+Assens,r_a-16700,van Assen,0.0,0.1,0.7
+Boedapests,r_a-16745,van Boedapest,0.0,0.1,0.7
+Bourgondisch,r_a-17258,uitbundig,0.8,0.9,0.7
+Brussels,r_a-17261,van Brussel,0.0,0.1,0.7
+Byzantijns,r_a-9514,uit Byzantium,0.0,0.0,0.7
+Eindhovens,r_a-16807,van Eindhoven,0.0,0.1,0.7
+Emmens,r_a-16810,van Emmen,0.0,0.1,0.7
+Enschedees,r_a-16811,van Enschede,0.0,0.1,0.7
+Flevolands,r_a-16825,van Flevoland,0.0,0.1,0.7
+Gronings,r_a-16844,van Groningen,0.0,0.1,0.7
+Hollands,r_a-17274,van Holland,0.0,0.1,0.7
+IJslands,r_a-16869,van IJsland,0.0,0.0,0.7
+Jakartaans,r_a-16881,van Jakarta,0.0,0.1,0.7
+Lelystads,r_a-16945,van Lelystad,0.0,0.1,0.7
+Londens,r_a-16963,van Londen,0.0,0.1,0.7
+Macaus,r_a-16972,van Macau,0.0,0.1,0.7
+Moskous,r_a-17018,van Moskou,0.0,0.1,0.7
+Nederlandstalig,r_a-13099,Nederlands als moeder- of voertaal,0.0,0.0,0.7
+Neurenbergs,r_a-17036,van Neurenberg,0.7,0.9,0.7
+Oost-Europees,r_a-17063,van Oost-Europa,-0.2,0.5,0.7
+Romaans,r_a-14617,oude bouwstijl,0.0,0.1,0.7
+Romaans,r_a-14618,aan het Latijn verwant,0.0,0.1,0.7
+Romeins,r_a-17285,van Rome,0.7,0.9,0.7
+Sanmarinees,r_a-17121,van San Marino,0.0,0.0,0.7
+Siciliaans,r_a-17138,van Sicilië,0.0,0.0,0.7
+Transsylvanisch,r_a-17186,van Transsylvanië,0.0,0.0,0.7
+Trojaans,r_a-15517,van Troje,-0.4,0.9,0.7
+Utrechts,r_a-17204,van Utrecht,0.0,0.1,0.7
+Victoriaans,r_a-16293,mbt. 19de-eeuwse Engeland,-0.1,0.8,0.7
+aanbevelenswaardig,r_a-8843,aanbeveling verdienend,0.6,0.8,0.7
+aanbiddelijk,r_a-8959,erg bekoorlijk,0.7,1.0,0.7
+aandachtig,r_a-8844,oplettend,0.5,0.9,1.0
+aandoenlijk,r_a-8651,vertederend,0.4,1.0,1.0
+aangebrand,r_a-8961,aan de pan vastgebrand,-0.6,0.9,0.7
+aangelegd,r_a-9028,aanleg hebbend,0.7,0.9,0.7
+aangenaam,r_a-8654,prettig,0.5,1.0,1.0
+aangeschoten,r_a-8655,een beetje dronken,-0.3,0.6,0.7
+aangeslagen,r_a-8656,uit evenwicht gebracht,-0.2,0.9,0.7
+aangrijpend,r_a-8660,erg ontroerend,0.4,1.0,1.0
+aanhoudend,r_a-8664,voortdurend,-0.1,0.6,0.7
+aanlokkelijk,r_a-8853,aantrekkelijk,0.6,0.9,0.7
+aanmatigend,r_a-8668,arrogant,-0.9,1.0,0.7
+aanmerkelijk,r_a-8669,aanzienlijk,0.1,0.4,0.7
+aannemelijk,r_a-8670,plausibel,0.4,0.7,1.0
+aanraden,r_v-184,,0.2,0.0,0.9
+aanrader,r_n-2294,,0.6,0.4,0.9
+aanschouwelijk,r_a-8672,zo dat je het voor je ziet,0.4,0.9,0.7
+aansprakelijk,r_a-8854,verantwoordelijk,-0.3,0.5,0.7
+aanstekelijk,r_a-8675,navolging opwekkend,0.6,0.9,1.0
+aanstellerig,r_a-16566,geneigd tot aanstellen,-0.6,0.9,0.7
+aantoonbaar,r_a-8857,aan te tonen,0.1,0.6,0.7
+aantrekkelijk,r_a-8677,attractief,0.8,1.0,1.0
+aanvaardbaar,r_a-8858,acceptabel,0.1,0.8,0.7
+aanvallig,r_a-8967,bekoorlijk,0.3,0.7,0.7
+aanvankelijk,r_a-8678,bij aanvang,0.0,0.1,1.0
+aanvechtbaar,r_a-8679,betwistbaar,-0.4,0.9,1.0
+aanverwant,r_a-8680,soortgelijk,0.0,0.3,0.7
+aanwezig,r_a-8682,present,0.1,0.2,1.0
+aanwezig,r_a-8683,voorhanden,0.1,0.4,1.0
+aanwijsbaar,r_a-8860,aantoonbaar,0.4,0.7,0.7
+aanzienlijk,r_a-8684,aanmerkelijk,0.4,0.9,0.9
+aanzienlijk,r_a-9034,met veel aanzien,0.4,0.9,0.7
+aardig,r_a-8687,leuk,0.6,0.9,1.0
+aardig,r_a-8688,behoorlijk,0.4,0.7,1.0
+aardig,r_a-9035,sympathiek,0.6,1.0,1.0
+aardrijkskundig,r_a-8862,geografisch,0.0,0.0,0.7
+aards,r_a-8689,aan de aarde gebonden,0.0,0.1,1.0
+aartslui,r_a-8969,heel lui,-0.7,0.9,0.7
+abnormaal,r_a-8867,afwijkend,-0.9,1.0,0.7
+abominabel,r_a-8690,afschuwelijk,-0.7,0.9,0.7
+abrupt,r_a-8868,plotseling,-0.2,0.6,1.0
+absolutistisch,r_a-8970,als van een absolutist,-0.2,0.6,0.7
+absoluut,r_a-8691,volstrekt,0.1,0.7,1.0
+abstract,r_a-8692,niet concreet,0.2,0.5,0.7
+abstract,r_a-9038,bepaalde kunstvorm,0.0,0.2,0.7
+absurd,r_a-8693,onzinnig,-0.2,0.9,1.0
+absurdistisch,r_a-8870,als in het absurdisme,0.1,0.9,0.7
+acceptabel,r_a-8697,aanvaardbaar,0.1,0.7,0.7
+accuraat,r_a-8698,nauwgezet,0.4,0.6,0.9
+accuraat,r_a-9045,juist,0.1,0.4,0.9
+achteloos,r_a-8699,nonchalant,-0.5,0.9,1.0
+achteloos,r_a-9043,onbekommerd,-0.4,0.8,1.0
+achterbaks,r_a-8700,geniepig,-0.3,0.9,0.7
+achterdochtig,r_a-8701,wantrouwig,-0.5,1.0,0.7
+achterhaald,r_a-8702,verouderd,-0.3,0.7,0.7
+actueel,r_a-8707,nu relevant,0.1,0.4,1.0
+actueel,r_a-9050,huidig,0.1,0.4,1.0
+acuut,r_a-8708,dringend,-0.1,0.6,0.7
+acuut,r_a-8709,plotseling en hevig,-0.1,0.7,0.7
+additioneel,r_a-8878,toegevoegd,0.0,0.1,0.7
+adembenemend,r_a-8711,erg spannend of mooi,1.0,1.0,1.0
+ademloos,r_a-8712,met ingehouden adem,0.2,0.6,1.0
+adequaat,r_a-8713,passend,0.5,0.7,0.7
+administratiefrechtelijk,r_a-8880,bestuursrechtelijk,0.0,0.0,0.7
+afbreekbaar,r_a-8975,mogelijk om af te breken,0.6,0.9,0.7
+affectief,r_a-8881,verband houdend met het gevoel,0.1,0.4,0.7
+afgedraaid,r_a-8718,zeer moe,-0.5,1.0,0.7
+afgeladen,r_a-8719,helemaal vol mensen,-0.1,0.6,0.9
+afgeleefd,r_a-8976,(sterk) verzwakt door ouderdom,-0.1,0.3,0.7
+afgepast,r_a-8978,juist afgemeten,0.4,0.7,0.7
+afgetrapt,r_a-8980,versleten,-0.4,0.5,0.7
+afgezaagd,r_a-8723,overbekend en saai,-0.5,0.8,0.7
+afgrijselijk,r_a-8724,afschuwelijk,-0.9,1.0,1.0
+afgunstig,r_a-8726,jaloers,-0.6,1.0,0.9
+afhankelijk,r_a-8728,afhangend van iets anders,-0.1,0.8,0.7
+afhankelijk,r_a-8729,niet zelfstandig,-0.1,0.8,0.7
+afkerig,r_a-8730,een afkeer hebbend,-0.1,0.8,0.7
+afknapper,r_n-2890,,-0.6,0.7,0.9
+afkomstig,r_a-8731,komend uit,0.0,0.0,1.0
+afkomstig,r_a-9063,komend van,0.0,0.1,1.0
+afschaffen,r_v-689,,-0.1,0.1,0.8
+afschepen,r_v-697,,-0.1,0.1,0.8
+afschrikwekkend,r_a-8889,afkeer inboezemend,-0.3,0.8,0.7
+afschuwelijk,c_545491,heel lelijk of heel vervelend,-1.0,1.0,1.0
+afschuwwekkend,r_a-8985,afschuw verwekkend,-0.8,1.0,0.7
+afstandelijk,r_a-8734,koel,-0.5,0.9,1.0
+afstotelijk,r_a-8987,afkeer inboezemend,-0.6,0.9,0.7
+aftands,r_a-8890,versleten,-0.3,0.5,0.7
+afzienbaar,r_a-8740,te overzien,0.1,0.4,0.7
+afzonderlijk,r_a-8741,apart,0.0,0.1,1.0
+agressief,r_a-8743,met geweld,-0.6,0.9,1.0
+agressief,r_a-8744,bijtend (van stoffen),-0.4,0.6,1.0
+akelig,r_a-8745,naar,-0.6,1.0,1.0
+akelig,r_a-8746,een beetje ziek,-0.3,0.8,1.0
+alfabetisch,r_a-8750,op alfabet,-0.1,0.3,0.7
+algebraïsch,r_a-8989,van de algebra,0.0,0.0,0.7
+algeheel,r_a-8752,totaal,0.1,0.4,0.7
+algemeen,r_a-8753,voor of van iedereen,0.0,0.1,1.0
+algemeen,r_a-8754,niet speciaal,-0.3,0.6,1.0
+algemeen,r_a-9074,vaag,-0.4,0.8,1.0
+alledaags,r_a-8755,van elke dag,-0.5,0.6,1.0
+allegorisch,r_a-8898,als een allegorie,0.1,0.3,0.7
+alleraardigst,r_a-8992,heel leuk,0.4,0.7,0.7
+allerbelangrijkst,r_a-8899,erg belangrijk,0.4,0.8,0.7
+allerbest,r_a-8900,heel erg goed,1.0,1.0,1.0
+allereerst,r_a-8901,aan al het andere voorafgaand,0.0,0.1,1.0
+allerergst,r_a-8902,erger dan erg,-0.3,0.9,0.7
+allerhoogst,r_a-8905,het hoogst,0.1,0.5,0.7
+allerlaatst,r_a-8993,het laatst van alles,0.0,0.1,1.0
+allerlei,d_a-9974,,0.0,0.1,1.0
+allerleukst,,,0.9,1.0,1.0
+allerminst,r_a-8909,geringst,-0.2,0.6,1.0
+allermooist,r_a-8910,het mooist,1.0,1.0,1.0
+allesoverheersend,r_a-8915,zeer sterk overheersend,0.0,0.5,0.7
+alomvattend,r_a-8918,alles omvattend,0.3,0.7,0.7
+aloud,r_a-8919,van jaren her,0.2,0.6,0.7
+altruïstisch,r_a-8761,onbaatzuchtig,0.7,1.0,0.7
+amateuristisch,r_a-8762,niet professioneel,-0.4,0.8,1.0
+amateuristisch,r_a-9079,klungelig,-0.6,1.0,1.0
+ambitieus,r_a-8765,eerzuchtig,0.9,1.0,0.7
+amicaal,r_a-8770,vriendschappelijk,0.3,0.8,0.7
+amoureus,r_a-8771,verband houdend met liefde,0.3,0.7,0.7
+amusant,r_a-8773,vermakelijk,0.6,0.9,1.0
+anaal,r_a-8774,van of via de anus,-0.8,0.9,0.7
+anachronistisch,r_a-8998,misplaatst in de tijd,0.4,0.7,0.7
+analoog,r_a-9082,niet digitaal,0.0,0.0,0.7
+anarchistisch,r_a-8923,het anarchisme betreffend,0.0,0.4,0.7
+anatomisch,r_a-8924,ontleedkundig,0.0,0.0,0.7
+ander,r_a-8777,niet dezelfde,0.0,0.1,1.0
+ander,r_a-9084,verschillend,0.0,0.1,1.0
+anderhalf,r_a-8925,een en een half,0.0,0.0,1.0
+anders,r_a-8778,afwijkend,0.0,0.8,1.0
+anekdotisch,r_a-8928,als (in) een anekdote,-0.1,0.7,0.7
+anglicaans,r_a-8780,gerelateerd aan de anglicaanse kerk,0.0,0.1,0.7
+angstaanjagend,r_a-8930,erg eng,-0.9,1.0,1.0
+angstig,r_a-8781,bang,-0.6,0.9,1.0
+angstig,r_a-9087,gerelateerd aan angst,-0.2,0.5,1.0
+angstwekkend,r_a-8931,angst verwekkend,-0.6,1.0,0.7
+anticommunistisch,r_a-9006,tegen het communisme,-0.3,1.0,0.7
+antifascistisch,r_a-8934,tegen het fascisme,0.3,1.0,0.7
+antiquarisch,r_a-8937,verband houdend met antiek,0.0,0.0,0.7
+antiracistisch,r_a-9009,tegen racisme,0.6,0.8,0.7
+antisemitisch,r_a-8786,anti-joods,-0.4,0.8,0.7
+antropologisch,r_a-9011,gerelateerd aan de antropologie,0.0,0.1,0.7
+apart,d_a-12188,,0.2,0.9,0.7
+apart,r_a-8788,afzonderlijk,0.1,0.4,1.0
+apart,r_a-8789,bijzonder,0.4,0.8,1.0
+apathisch,r_a-8790,lusteloos,-0.9,1.0,0.7
+apert,r_a-8791,duidelijk,0.3,0.7,0.7
+apetrots,r_a-8941,erg trots,0.8,1.0,0.7
+apocalyptisch,r_a-9013,catastrofaal,-0.5,0.9,0.7
+apodictisch,r_a-8942,erg stellig,0.0,0.1,0.7
+apostolisch,r_a-9014,van de apostelen,0.0,0.1,0.7
+apostolisch,r_a-9102,van de paus,0.0,0.1,0.7
+arbeidsintensief,r_a-8794,veel arbeid vergend,-0.2,0.7,0.7
+arbeidsongeschikt,r_a-8795,niet in staat om te werken,-0.5,0.6,0.7
+arbeidzaam,r_a-8796,vlijtig,0.1,0.3,0.7
+arbitrair,r_a-8797,willekeurig,-0.4,0.9,0.7
+archaïsch,r_a-8944,behorend tot een oud tijdperk,-0.4,0.8,0.7
+archeologisch,r_a-8945,oudheidkundig,0.0,0.0,1.0
+architectonisch,r_a-8798,bouwkundig,0.1,0.4,0.7
+argeloos,r_a-8800,nietsvermoedend,-0.2,0.7,0.7
+arglistig,r_a-8801,boosaardig,-0.7,0.9,0.7
+argwanend,r_a-8802,achterdochtig,-0.4,0.9,0.7
+arm,r_a-8804,niet rijk,-0.4,0.6,1.0
+arm,r_a-8805,zielig,-0.6,1.0,1.0
+arm,r_a-9106,iets niet hebbend,-0.4,0.6,1.0
+armetierig,r_a-8807,"te klein, te weinig, onvoldoende",-0.6,0.8,0.7
+armetierig,r_a-9108,armoedig,-0.4,1.0,0.7
+armoedig,r_a-8809,van armoede blijk gevend,-0.5,1.0,0.7
+armoedig,r_a-9111,niet veel voorstellend,-0.7,1.0,0.7
+armzalig,r_a-8810,erg pover,-0.7,1.0,0.7
+arrogant,r_a-8811,hooghartig,-0.9,1.0,1.0
+artistiek,r_a-8813,kunstzinnig,0.1,0.5,0.7
+asblond,r_a-9019,licht blond,0.0,0.1,0.7
+ascetisch,r_a-8814,als een asceet,0.2,0.7,0.7
+asgrauw,r_a-8815,erg grijs,-0.1,0.2,0.7
+asociaal,r_a-8816,niet sociaal,-0.6,0.9,0.7
+associatief,r_a-8818,op associatie berustend,0.2,0.5,0.7
+astmatisch,r_a-8819,lijdend aan astma,-0.7,0.9,0.7
+astmatisch,r_a-9113,zoals astma,-0.7,0.9,0.7
+astraal,r_a-9114,niet materieel,-0.1,0.6,0.7
+astronomisch,r_a-8820,sterrenkundig,0.3,0.5,0.7
+astronomisch,r_a-8821,gigantisch,0.4,0.8,0.8
+atheïstisch,r_a-8823,het atheïsme betreffend,0.0,0.3,0.7
+atonaal,r_a-9024,niet tonaal,0.1,0.5,0.7
+atoomvrij,r_a-9025,zonder kerncentrales en kernwapens,0.4,0.6,0.7
+attent,r_a-8826,oplettend,0.2,0.7,0.7
+attractief,r_a-8828,aantrekkelijk,0.8,1.0,0.9
+autarkisch,r_a-8832,zelfvoorzienend,0.0,0.2,0.7
+auteursrechtelijk,r_a-8950,het auteursrecht betreffend,0.1,0.5,0.7
+authentiek,r_a-8833,geen namaak,0.5,0.5,1.0
+authentiek,r_a-9119,oorspronkelijk,0.2,0.4,1.0
+authentiek,r_a-9120,origineel,0.4,0.4,1.0
+autistisch,r_a-8834,lijdend aan autisme,-0.2,0.2,1.0
+autobiografisch,r_a-8951,het leven van de schrijver betreffend,0.0,0.0,1.0
+autoloos,r_a-8953,zonder auto's,0.0,0.1,0.7
+automatisch,r_a-8836,zelfwerkend,0.0,0.1,1.0
+automatisch,r_a-9123,"vanzelf, zonder erbij na te denken",0.1,0.4,1.0
+avant-gardistisch,r_a-8956,als in de avant-garde,0.0,0.3,0.7
+averechts,r_a-8840,tegenovergesteld,-0.4,0.5,0.7
+avontuurlijk,r_a-8841,vol avonturen,0.6,0.9,1.0
+avontuurlijk,r_a-8842,belust op avontuur,0.5,0.9,1.0
+baanbrekend,r_a-9127,revolutionair,0.5,0.8,0.7
+baarlijk,r_a-9129,klinkklaar,0.3,0.6,0.7
+babbelziek,r_a-9515,ziekelijke neiging tot kletsen,-0.8,1.0,0.7
+badinerend,r_a-9131,gekscherend,-0.3,0.8,0.7
+baldadig,r_a-9132,brooddronken,-0.4,0.6,0.7
+balorig,r_a-9133,weerspannig,-0.4,0.7,0.7
+banaal,r_a-9134,plat,-0.5,0.9,1.0
+bancair,r_a-9417,van een bank,-0.1,0.1,0.7
+bang,r_a-9136,angstig,-0.5,1.0,1.0
+bang,r_a-9589,bangelijk,-0.3,1.0,1.0
+bang,r_a-9590,iets negatiefs verwachtend,-0.5,1.0,1.0
+bang,r_a-9591,beangstigend,-0.5,1.0,1.0
+bangelijk,r_a-9137,gauw bang,-0.4,0.8,0.7
+bangig,r_a-9519,nogal bang,-0.3,0.9,0.7
+bar,r_a-9139,erg (m.n. van koude),-0.5,0.8,1.0
+bar,r_a-9592,kaal,-0.3,0.7,1.0
+barbaars,r_a-17341,onbeschaafd,-0.9,0.9,0.9
+barbaars,r_a-9140,wreed,-0.9,1.0,1.0
+barok,r_a-9142,grillig als in de barok,-0.2,0.2,0.7
+bars,r_a-9143,nors,-0.8,1.0,0.7
+barstensvol,r_a-9419,propvol,-0.1,0.6,0.9
+basaal,d_a-21946,,0.1,0.4,0.7
+bazig,r_a-9146,bedillerig,-0.8,1.0,0.7
+bedaagd,r_a-9147,van rijpe leeftijd,0.0,0.0,0.7
+bedaard,r_a-9148,rustig,0.1,0.8,0.7
+bedachtzaam,r_a-9150,met aandacht en verstand,0.6,0.7,0.7
+bedenkelijk,r_a-9153,zorgelijk,-0.4,0.8,0.7
+bedlegerig,r_a-9156,door ziekte in bed,-0.7,0.9,0.7
+bedompt,r_a-9157,benauwd,0.1,0.6,0.7
+bedroefd,r_a-9163,verdrietig,-0.5,0.9,0.7
+beduidend,r_a-9167,aanzienlijk,0.1,0.4,1.0
+beeldend,r_a-9170,in beelden,0.0,0.2,1.0
+beeldrijk,r_a-9527,rijk aan beeldspraak,0.2,0.6,0.7
+beeldschoon,r_a-9172,heel mooi,1.0,1.0,1.0
+beestachtig,r_a-9173,gruwelijk,-1.0,1.0,0.9
+befaamd,r_a-9174,vermaard,0.5,0.9,1.0
+begaafd,r_a-9175,met veel aanleg,0.7,0.9,1.0
+begaanbaar,r_a-9177,bewandelbaar,0.3,0.6,0.7
+begeerlijk,r_a-9179,door iedereen begeerd,0.6,1.0,0.7
+begeesterd,d_a-23972,,0.6,0.9,0.7
+begenadigd,r_a-9180,getalenteerd,0.7,0.9,0.7
+beginselvast,r_a-9529,principieel,0.0,0.4,0.7
+begrijpbaar,,,0.4,0.6,1.0
+begrijpelijk,r_a-9183,verklaarbaar,0.4,0.7,1.0
+behaaglijk,r_a-9185,aangenaam,0.4,0.9,0.7
+beheersbaar,r_a-9425,onder controle te houden,0.0,0.6,0.7
+behendig,r_a-9190,handig,0.6,0.8,0.7
+behoeftig,r_a-9193,arm,-0.6,0.9,0.7
+behoorlijk,r_a-9194,fatsoenlijk,0.3,0.8,1.0
+behoorlijk,r_a-9605,flink,0.4,0.9,1.0
+bejaard,r_a-9200,op leeftijd,-0.1,0.3,0.7
+bekakt,r_a-9666,geaffecteerd,-0.8,1.0,0.7
+bekeken,r_a-9606,afgehandeld,0.8,0.9,0.7
+bekend,r_a-9667,gekend,0.3,0.7,1.0
+bekend,r_a-9668,beroemd,0.4,0.9,1.0
+beklagenswaardig,r_a-9427,te beklagen,-0.7,1.0,0.7
+beklemmend,r_a-9671,benauwend,-0.5,0.9,1.0
+beklonken,r_a-9672,geregeld,0.1,0.9,0.7
+bekneld,r_a-9673,in de knel,-0.1,0.4,0.7
+beknopt,r_a-9674,bondig,0.1,0.5,1.0
+bekocht,r_a-9675,afgezet,-0.5,0.8,0.7
+bekrompen,r_a-9677,krap,-0.6,1.0,0.7
+bekrompen,r_a-9678,kortzichtig,-0.6,1.0,0.7
+bekwaam,r_a-9679,kundig,0.4,0.7,0.7
+belabberd,r_a-9680,ellendig,-0.6,1.0,1.0
+belachelijk,r_a-9681,ridicuul,-1.0,1.0,1.0
+belangeloos,r_a-9683,onbaatzuchtig,0.8,0.9,0.7
+belanghebbend,r_a-9429,geïnteresseerd,0.0,0.6,0.7
+belangrijk,d_a-25118,gewichtig,0.3,0.9,1.0
+belangrijk,r_a-9684,van groot belang,0.4,0.8,1.0
+belangwekkend,r_a-9687,interessant,0.7,0.9,1.0
+belastend,r_a-9532,ten nadele,-0.4,0.5,0.7
+belazerd,r_a-9434,bedonderd,-0.8,1.0,0.7
+belazerd,r_a-9610,beroerd,-0.7,0.9,0.8
+beleefd,r_a-9689,met goede manieren,0.5,0.9,1.0
+belerend,r_a-9436,schoolmeesterachtig,-0.5,0.8,1.0
+belezen,r_a-9692,veel gelezen hebbend,0.0,0.4,0.7
+beloftevol,r_a-9437,vol belofte,0.6,0.9,0.7
+belust,r_a-9201,met veel zin,0.1,0.2,0.7
+bemiddeld,r_a-9202,met veel geld,0.4,0.6,0.9
+bemoeiziek,r_a-9533,met  neiging tot bemoeien,-0.7,0.9,0.7
+bemost,r_a-16571,met mos begroeid,-0.1,0.4,0.7
+benard,r_a-9204,netelig,-0.5,1.0,1.0
+benauwd,r_a-9205,met weinig frisse lucht,-0.6,0.8,1.0
+benauwd,r_a-9206,in ademnood,-0.5,0.7,1.0
+benauwd,r_a-9207,bang,-0.4,0.9,1.0
+benieuwd,r_a-9209,nieuwsgierig,0.4,0.9,1.0
+benig,r_a-9210,knokig,-0.2,0.4,0.7
+benodigd,r_a-9211,nodig,0.5,0.6,0.7
+bepaald,r_a-9212,zeker,0.2,0.4,1.0
+bepaald,r_a-9617,beslist,0.2,0.5,1.0
+beperkt,r_a-9213,niet volledig,-0.4,0.7,1.0
+bereid,r_a-9216,genegen,0.2,0.6,1.0
+bereid,r_a-9619,klaar,0.3,0.3,1.0
+bereikbaar,r_a-9218,te bereiken,0.4,0.6,0.7
+berekend,r_a-9220,geschikt,0.2,0.8,0.7
+berijdbaar,r_a-9539,voor rijden geschikt,0.3,0.5,0.7
+beroemd,r_a-9222,vermaard,0.5,0.9,1.0
+beroerd,r_a-9223,slecht,-0.7,0.9,1.0
+beroerd,r_a-9700,lui,-0.6,0.9,1.0
+berooid,r_a-9225,arm,-0.6,1.0,0.7
+berouwvol,r_a-9540,vol berouw,-0.5,1.0,0.7
+berucht,r_a-9226,ve zin,-0.1,0.8,0.7
+beschaafd,r_a-9227,keurig,0.4,0.9,1.0
+beschaafd,r_a-9228,niet primitief,0.1,0.3,1.0
+beschamend,r_a-9230,om je over te schamen,-0.5,0.6,0.7
+bescheiden,r_a-9231,niet aanmatigend,-0.5,0.8,0.7
+bescheiden,r_a-9232,klein,-0.3,0.6,0.7
+bescheten,r_a-9622,slecht,-0.4,0.8,0.7
+bescheten,r_a-9623,schijterig,-0.4,0.8,0.7
+beschikbaar,r_a-9233,waarover men kan beschikken,0.4,0.4,1.0
+beschonken,r_a-9235,dronken,-0.5,0.9,0.7
+beslist,r_a-9239,resoluut,0.1,0.7,1.0
+beslist,r_a-9240,pertinent,0.1,0.6,1.0
+besmet,r_a-9449,aangestoken,-0.2,0.4,0.7
+besmettelijk,r_a-9244,infectueus,-0.4,0.7,0.7
+besmettelijk,r_a-9245,gauw vuil,-0.6,0.6,0.7
+besmuikt,r_a-9450,stiekem,-0.2,0.9,0.7
+besodemieterd,d_a-27456,,-0.7,1.0,0.7
+bespottelijk,r_a-9246,belachelijk,-1.0,1.0,0.9
+best,r_a-9247,(superlatief van 'goed'),0.9,1.0,1.0
+best,r_a-9248,prima,0.6,1.0,1.0
+best,r_a-9625,aardig,0.6,0.9,1.0
+best,r_a-9631,goed,0.6,1.0,1.0
+bestuurlijk,r_a-9454,administratief,0.0,0.0,0.7
+bestuursrechtelijk,r_a-9456,mbt. bestuursrecht,0.0,0.0,0.7
+betaalbaar,r_a-9251,niet te duur,0.4,0.7,0.7
+betekenisloos,r_a-9457,zonder betekenis,-0.1,0.6,0.7
+betekenisvol,r_a-9458,veelbetekenend,0.4,0.6,0.7
+beteuterd,r_a-9254,onthutst,-0.5,0.9,0.7
+betonnen,r_a-9459,van beton,0.0,0.7,0.7
+betraand,r_a-9548,vol tranen,-0.3,0.5,0.7
+betrekkelijk,r_a-9257,relatief,0.0,0.5,1.0
+betrokken,r_a-9259,over wie het gaat,0.0,0.4,0.7
+betrouwbaar,r_a-9260,te vertrouwen,0.8,0.9,0.7
+betwistbaar,r_a-9549,aanvechtbaar,-0.3,0.5,0.7
+beurs,r_a-9262,overrijp,-0.4,0.8,0.7
+bevallig,r_a-9263,gracieus,0.6,0.9,0.7
+bevindelijk,r_a-9463,vanuit godsdienstige beleving,0.1,0.5,0.7
+bevredigend,d_a-401528,,0.5,0.9,1.0
+bevreesd,r_a-9267,bang,-0.4,0.8,0.7
+beweegbaar,r_a-9466,te bewegen,0.0,0.2,0.7
+beweeglijk,r_a-9634,flexibel,0.0,0.0,0.7
+bewolkt,r_a-9273,met wolken bedekt,-0.1,0.1,0.7
+bewonderenswaardig,r_a-9469,respectabel,0.7,0.9,1.0
+bewust,r_a-9274,weloverwogen,0.4,0.7,1.0
+bewust,r_a-9275,beseffend,0.1,0.5,1.0
+bewust,r_a-9276,desbetreffend,0.0,0.1,1.0
+bezeten,r_a-9281,krankzinnig,-0.6,1.0,1.0
+bezeten,r_a-9639,zeer vol zijn van,0.2,0.9,1.0
+bezienswaardig,r_a-9470,het bekijken waard,0.8,1.0,0.7
+bezig,r_a-9283,in de weer,0.1,0.3,1.0
+bezorgd,r_a-9288,vol zorg,-0.1,0.8,1.0
+bezweet,r_a-9292,met zweet,-0.2,0.8,0.7
+bijbehorend,r_a-9293,bijpassend,0.2,0.4,1.0
+bijbels,r_a-9294,mbt. de bijbel,0.0,0.1,1.0
+bijbelvast,r_a-9295,goed thuis in de bijbel,0.0,0.3,0.7
+bijgelovig,r_a-9298,vol bijgeloof,-0.5,0.8,0.7
+bijgenaamd,r_a-9472,met de bijnaam,-0.1,0.1,0.7
+bijster,r_a-9301,kwijt,-0.4,0.7,1.0
+bijtend,r_a-9474,scherp,-0.4,0.4,0.7
+bijvoeglijk,r_a-9302,attributief,0.1,0.1,1.0
+bijzonder,r_a-9304,opmerkelijk,0.6,0.9,1.0
+bijzonder,r_a-9305,speciaal,0.6,1.0,1.0
+bikkelhard,r_a-9306,keihard,-0.1,1.0,0.7
+bilateraal,r_a-9307,tweezijdig,0.0,0.1,0.7
+billijk,r_a-9308,redelijk,0.3,0.9,1.0
+binnenlands,r_a-9310,niet buitenlands,0.0,0.0,0.7
+biografisch,r_a-9477,de levensloop betreffend,0.0,0.0,1.0
+biologisch,r_a-9312,natuurlijk,0.1,0.6,0.7
+bitter,r_a-9316,met de smaak als van witlof,-0.1,0.5,1.0
+bitter,r_a-9317,onaangenaam,-0.6,0.9,1.0
+bitter,r_a-9318,verbitterd,-0.8,1.0,1.0
+bitterzoet,r_a-9564,bitter en zoet,0.1,0.8,0.7
+bizar,r_a-9319,heel vreemd,-0.1,1.0,1.0
+blabla,r_n-7479,,-0.3,0.7,0.8
+bladstil,r_a-9320,zeer windstil,0.0,0.1,0.7
+blanco,r_a-9321,oningevuld,0.0,0.0,1.0
+blank,r_a-9323,met een witte huidskleur,0.0,0.0,0.7
+blasfemisch,r_a-9481,spottend,-0.8,1.0,0.7
+blauw,r_a-9324,met de kleur blauw,0.0,0.1,1.0
+blij,r_a-9331,verheugd,0.5,0.9,1.0
+blij,r_a-9650,verheugend,0.6,1.0,1.0
+blijkbaar,,,0.0,0.6,1.0
+blijmoedig,r_a-9332,opgewekt,0.5,0.8,0.7
+bliksems,r_a-9334,donders,-0.3,0.8,0.7
+bliksemsnel,r_a-9485,zeer snel,0.1,0.9,0.7
+blind,r_a-9335,onvoorwaardelijk,0.0,0.7,1.0
+blind,r_a-9336,niet te zien,-0.2,0.2,1.0
+blits,r_a-9338,opvallend modern,0.1,0.3,0.7
+bloeddoorlopen,r_a-9567,(van ogen) rood,-0.2,0.6,0.7
+bloederig,r_a-9342,met veel bloed,-0.6,0.8,1.0
+bloedheet,r_a-9486,snikheet,-0.2,0.9,0.7
+bloedig,r_a-9343,waarbij bloed vloeit,-0.5,0.8,0.7
+bloedmooi,r_a-9568,beeldschoon,1.0,1.0,0.9
+bloedserieus,d_a-32945,,0.0,0.6,1.0
+bloedstollend,r_a-9488,spannend,0.8,1.0,1.0
+bloemrijk,r_a-9652,beeldrijk,0.2,0.5,0.7
+blokkade,r_n-7668,,-0.1,0.0,0.8
+blokkades,,,-0.1,0.0,0.8
+blokkeren,r_v-1767,,-0.1,0.0,0.8
+blond,r_a-9345,lichtgeel (vooral van haar),0.0,0.1,1.0
+bloot,r_a-9346,naakt,0.1,0.4,1.0
+blut,r_a-9347,platzak,-0.4,0.7,0.7
+bochtig,r_a-9489,met veel bochten,-0.1,0.3,0.7
+bodemloos,r_a-9348,zonder bodem,0.3,0.6,0.7
+boeiend,r_a-9349,fascinerend,0.9,1.0,1.0
+boekhoudkundig,r_a-9491,mbt. het boekhouden,0.0,0.0,0.7
+boers,r_a-9350,lomp,-0.6,0.9,0.7
+bol,d_a-34543,rond en dik,-0.2,0.4,1.0
+bol,r_a-9355,bolvormig,0.0,0.0,1.0
+bombastisch,r_a-9356,hoogdravend,-0.5,0.9,0.7
+bomvol,r_a-9493,stampvol,-0.1,0.6,1.0
+bondig,r_a-9358,kernachtig,0.4,0.7,1.0
+boordevol,r_a-9495,helemaal vol,0.2,0.6,1.0
+boos,r_a-9361,kwaad,-0.6,1.0,1.0
+boos,r_a-9362,boosaardig,-0.8,1.0,1.0
+borstelig,r_a-9496,als een borstel,0.0,0.1,0.7
+bot,r_a-9365,lomp,-0.3,0.7,0.7
+bovenaards,r_a-9654,hemels,0.1,0.7,0.9
+bovengenoemd,r_a-9370,eerder genoemd (in een tekst),0.0,0.1,0.9
+bovenmenselijk,r_a-9372,meer dan menselijk,-0.3,0.7,0.7
+bovennatuurlijk,r_a-9373,boven het natuurlijke,0.1,0.7,1.0
+bovenst,r_a-9502,hoogst,-0.1,0.4,0.7
+bovenstaand,r_a-9374,hierboven,0.0,0.1,1.0
+bovenvermeld,r_a-9503,bovengenoemd,0.0,0.1,0.9
+boycot,r_n-8341,,-0.1,0.0,0.8
+boycotten,r_v-1850,,-0.1,0.0,0.8
+braaf,r_a-9375,zoet,0.2,0.9,1.0
+braak,r_a-9376,onbebouwd,0.0,0.3,0.7
+brak,r_a-9377,zilt,-0.3,0.6,0.7
+brandend,r_a-9506,heet,-0.6,0.9,0.7
+branderig,r_a-9378,naar prikkelend,0.5,1.0,0.7
+breed,r_a-9380,niet smal,-0.1,0.4,1.0
+breedgebouwd,r_a-9574,fors,0.1,0.9,0.7
+breedgeschouderd,r_a-9575,met brede schouders,0.4,1.0,0.7
+briljant,r_a-9384,geniaal,1.0,1.0,1.0
+broederlijk,r_a-9386,zoals broeders doen,0.3,0.5,0.7
+broeierig,r_a-9507,drukkend warm,-0.6,0.9,0.7
+bronzen,r_a-9509,van brons,0.2,0.2,0.7
+broodmager,r_a-9577,heel mager,-0.2,0.4,0.7
+broodnuchter,r_a-9578,geheel nuchter,0.5,0.7,0.7
+broos,r_a-9391,zeer breekbaar,-0.5,0.8,0.7
+bruin,r_a-9394,bruingekleurd,-0.2,0.5,0.7
+brutaal,r_a-9395,vrijpostig,-0.3,0.8,0.7
+bruusk,r_a-9398,nors,-0.5,0.9,0.7
+bruusk,r_a-9399,abrupt,-0.5,0.8,0.7
+bruut,r_a-9400,ruw,-0.5,0.9,1.0
+buiig,r_a-9402,regenachtig,-0.5,0.8,0.7
+buikig,r_a-9403,corpulent,0.0,0.2,0.7
+buitenaards,r_a-9404,van buiten de aarde,0.1,0.7,0.7
+buitenechtelijk,r_a-9405,buiten het huwelijk,-0.2,0.8,0.7
+buitengewoon,r_a-9407,bijzonder,0.9,1.0,1.0
+buitenissig,r_a-9408,excentriek,-0.4,1.0,0.7
+buitenlands,r_a-9409,uitheems,0.0,0.1,1.0
+buitenlands,r_a-9410,mbt. het buitenland,0.0,0.0,1.0
+buitenmatig,d_a-39296,,0.2,0.9,0.7
+buitensporig,r_a-9412,excessief,-0.3,0.8,0.7
+calvinistisch,r_a-9713,streng en serieus,0.1,0.2,0.7
+capabel,r_a-9714,bekwaam,0.6,0.9,0.7
+catastrofaal,r_a-9716,rampzalig,-0.6,0.8,1.0
+categoriaal,r_a-9806,naar categorie ingedeeld,0.0,0.1,0.7
+categorisch,r_a-9717,zonder twijfel,-0.1,0.9,0.7
+causaal,r_a-9718,oorzakelijk,0.0,0.1,0.7
+centraal,r_a-9721,in of uit het centrum,0.0,0.1,1.0
+chagrijnig,r_a-9723,uit zijn humeur,-0.5,0.9,0.7
+chaotisch,r_a-9724,ordeloos,-0.5,0.9,1.0
+charismatisch,r_a-9812,met bijzondere uitstraling,0.8,1.0,0.7
+charitatief,r_a-9725,liefdadig,0.5,0.6,0.7
+charlatan,r_n-9275,,-0.6,0.7,0.7
+charlatanisme,,,-0.5,0.6,0.7
+charmant,r_a-9726,bekoorlijk,0.2,0.7,0.7
+chassidisch,r_a-9847,volgens Joodse mystieke stroming,0.0,0.0,0.7
+chauvinistisch,r_a-9727,volgens chauvinisme,-0.5,0.9,0.7
+chic,r_a-9729,elegant,0.5,0.9,1.0
+chloorhoudend,r_a-9848,met chloor erin,-0.4,0.7,0.7
+cholerisch,r_a-9731,driftig,-0.5,0.9,0.7
+choreografisch,r_a-9851,mbt. choreografie,0.0,0.0,0.7
+christelijk,r_a-9732,te maken hebbend met het christendom,0.0,0.0,1.0
+christen-democratisch,r_a-9813,democratisch op christelijke grondslag,0.0,0.0,0.7
+chronisch,r_a-9733,voortdurend,-0.3,0.7,0.7
+chronologisch,r_a-9734,volgens chronologie,0.0,0.0,1.0
+cinematografisch,r_a-9815,mbt. de filmkunst,0.0,0.0,0.7
+civiel,r_a-9735,niet-militair en niet-kerkelijk,0.0,0.0,0.7
+civielrechtelijk,r_a-9817,volgens het burgerlijk recht,0.0,0.0,0.7
+clandestien,r_a-9736,illegaal,-0.3,1.0,0.7
+classicistisch,r_a-9818,volgens het classicisme,-0.1,0.3,0.7
+clash,d_n-48552,,-0.2,0.3,0.7
+claustrofobisch,r_a-9857,met claustrofobie,-0.6,1.0,0.7
+clever,d_a-48685,,0.8,0.9,0.7
+cliché,r_n-9442,,-0.4,0.9,1.0
+clichématig,r_a-9819,afgezaagd,-0.5,0.8,0.7
+clinch,,,-0.2,0.3,0.7
+close,r_a-9740,dichtbij,0.8,1.0,0.7
+coherent,r_a-9743,samenhangend,0.4,0.7,0.7
+collectief,r_a-9744,met z'n allen,0.0,0.2,0.7
+collegiaal,r_a-9745,zoals collega's doen,0.1,0.3,0.7
+comfortabel,r_a-9746,geriefelijk,0.2,0.6,0.7
+comfortabel,r_a-9879,ruim,0.2,0.6,0.7
+commercieel,r_a-9747,mbt. de handel,-0.1,0.3,1.0
+communicatief,r_a-9880,mededeelzaam,0.1,0.3,0.7
+communistisch,r_a-9749,volgens het communisme,0.0,0.4,0.7
+competent,r_a-9751,bekwaam,0.4,0.7,0.7
+compleet,d_a-50087,,0.1,0.4,0.7
+compleet,r_a-9752,volledig,0.1,0.6,1.0
+complex,r_a-9754,"samengesteld, ingewikkeld",-0.1,0.9,1.0
+compositorisch,r_a-9824,de compositie betreffend,0.1,0.4,0.7
+computergestuurd,r_a-9827,door een computer gecontroleerd,0.0,0.0,0.7
+conceptueel,r_a-9881,het begrip betreffende,0.1,0.4,0.7
+concreet,r_a-9757,tastbaar,0.1,0.2,1.0
+concreet,r_a-9758,duidelijk,0.4,0.6,1.0
+concurrerend,r_a-9828,scherp,-0.1,0.3,0.7
+confessioneel,r_a-9759,christelijk,0.0,0.0,0.8
+confronterend,r_a-9862,iets tegenover iets stellend,-0.6,0.9,0.7
+congruent,r_a-9940,overeenkomend,0.1,0.3,0.7
+conjunctureel,r_a-9830,de conjunctuur betreffend,0.0,0.2,0.7
+consciëntieus,r_a-9763,zorgvuldig,0.0,0.9,0.7
+consequent,r_a-9764,logisch voortvloeiend,0.4,0.5,0.7
+consequent,r_a-9941,zichzelf gelijk blijvend,0.0,0.1,0.7
+conservatief,r_a-9765,behoudend,-0.1,0.3,0.7
+consistent,r_a-9766,zonder innerlijke tegenspraak,0.0,0.1,0.7
+constant,r_a-9767,onveranderlijk,0.0,0.1,1.0
+constructief,r_a-9769,opbouwend,0.1,0.4,0.7
+contemporain,r_a-9833,eigentijds,0.2,0.5,1.0
+content,r_a-9772,tevreden,0.4,1.0,1.0
+contingent,d_a-51652,toevallig,0.0,0.1,0.7
+continu,r_a-9774,ononderbroken,0.0,0.0,1.0
+controversieel,r_a-9776,omstreden,-0.5,0.9,0.7
+conventioneel,r_a-9884,onorigineel,-0.4,0.9,0.7
+cool,,,0.7,1.0,1.0
+copieus,r_a-9781,overvloedig,0.6,0.6,0.7
+corduroy,r_a-9872,van ribfluweel gemaakt,0.0,0.1,0.7
+corpulent,r_a-9782,gezet,-0.1,0.1,0.7
+correct,r_a-9783,foutloos,0.4,0.6,1.0
+correct,r_a-9784,zoals het hoort,0.5,0.8,1.0
+cosmetisch,r_a-9873,de cosmetica betreffende,-0.1,0.4,0.7
+coulant,r_a-9787,soepel,0.6,0.7,0.8
+courant,r_a-9788,gangbaar,0.0,0.2,0.7
+coöperatief,r_a-9780,op samenwerking gebaseerd,0.0,0.1,0.7
+crazy,r_a-9790,gek,0.5,0.8,0.7
+creatief,r_a-9791,scheppend,0.6,0.7,1.0
+crimineel,r_a-9792,misdadig,-0.6,0.8,1.0
+crimineel,r_a-9945,strafrechtelijk,-0.2,0.3,1.0
+criminologisch,r_a-9874,van de criminologie,0.0,0.0,0.7
+cru,r_a-9793,bot,-0.5,0.9,0.7
+cruciaal,r_a-9794,beslissend,0.4,0.8,0.7
+cryptisch,r_a-9795,duister,-0.4,0.6,0.7
+culinair,r_a-9796,mbt. de kookkunst,0.0,0.0,1.0
+cultureel,r_a-9797,mbt. cultuur,0.1,0.1,1.0
+cultuurhistorisch,r_a-9838,mbt. Cultuurgeschiedenis,0.0,0.0,0.7
+cumulatief,r_a-9798,steeds bij het totaal opgeteld,0.1,0.1,0.7
+curatief,r_a-9840,genezend,0.1,0.1,0.7
+curieus,r_a-9799,opmerkelijk,0.2,0.9,1.0
+cursief,r_a-9801,schuin gedrukt,0.0,0.0,1.0
+cynisch,r_a-9803,bitter,-0.6,1.0,1.0
+cyrillisch,r_a-9841,mbt. soort schrift,0.0,0.0,0.7
+daadwerkelijk,r_a-9990,metterdaad,0.2,0.4,1.0
+daaropvolgend,r_a-10167,wat volgt op,0.0,0.0,0.7
+dagelijks,r_a-9993,iedere dag,0.0,0.0,1.0
+dagelijks,r_a-9994,(alle)daags,-0.1,0.6,1.0
+dagenlang,r_a-10168,dagen durend,-0.1,0.4,1.0
+dagvers,r_a-10242,heel vers,-0.1,0.1,0.7
+dakloos,r_a-9995,zonder onderdak,-0.1,0.1,1.0
+danig,r_a-10169,duchtig,0.0,0.5,1.0
+dankbaar,r_a-9996,erkentelijk,0.6,0.9,1.0
+dankbaar,r_a-9997,voldoening gevend,0.7,0.9,1.0
+dapper,r_a-9998,moedig,0.8,0.9,1.0
+daverend,r_a-10000,"heel groot,mooi,veel",0.4,0.7,0.8
+decadent,r_a-10003,in moreel verval,-0.5,0.6,0.7
+decadent,r_a-10316,overdreven luxueus,-0.6,0.9,0.7
+decoratief,r_a-10006,versierend,0.0,0.2,0.7
+deductief,r_a-10244,met deductie,0.4,0.7,0.7
+deels,,,0.0,0.4,1.0
+deemoedig,r_a-10173,met deemoed,-0.1,0.8,0.7
+deerlijk,d_a-57320,,-0.7,1.0,0.7
+deerniswekkend,r_a-10008,meelijwekkend,-0.4,1.0,0.7
+defaitistisch,r_a-10246,moedeloos,-0.6,0.9,0.7
+definitief,r_a-10011,vaststaand,0.0,0.3,1.0
+deftig,r_a-10012,statig,0.4,0.8,0.7
+degelijk,d_a-57463,,0.5,0.9,0.7
+degelijk,r_a-10014,solide,0.4,0.8,1.0
+deksels,r_a-10015,drommels,0.0,0.7,0.7
+demagogisch,r_a-10174,de massa bespelend,-0.4,0.8,0.7
+dement,r_a-10018,kinds,-0.7,0.9,0.7
+demissionair,r_a-10019,bezig af te treden,0.0,0.2,0.7
+demografisch,r_a-10175,de demografie betreffend,0.0,0.1,0.7
+demonisch,r_a-10247,duivels,-0.4,1.0,0.7
+demonstratief,r_a-10021,om de aandacht te trekken,-0.2,0.5,0.7
+denderend,r_a-10023,daverend,0.4,0.7,1.0
+denkbaar,r_a-10024,mogelijk,0.1,0.3,1.0
+departementaal,r_a-10179,van een departement,0.0,0.0,0.7
+deplorabel,r_a-10180,erbarmelijk,-0.5,0.9,0.7
+depressief,r_a-10026,neerslachtig,-0.7,0.9,1.0
+derdegraads,r_a-10027,v.d. derde graad,-0.5,1.0,0.7
+derderangs,r_a-10028,van slechte kwaliteit,-0.6,0.9,0.7
+dergelijk,r_a-16573,zulk,0.0,0.3,1.0
+desastreus,r_a-10029,rampzalig,-0.5,0.7,0.7
+descriptief,r_a-10031,beschrijvend,0.2,0.3,0.7
+desolaat,r_a-10183,troosteloos,-0.4,0.9,0.7
+destructief,r_a-10033,afbrekend,-0.8,0.9,0.7
+deugdelijk,r_a-10034,degelijk,0.0,0.1,0.7
+deugdzaam,r_a-10035,braaf,-0.1,0.7,0.7
+devoot,r_a-10036,vroom,0.4,1.0,0.7
+dezelfde,d_a-404142,,0.0,0.1,1.0
+diabolisch,r_a-10254,satanisch,-0.6,0.9,0.7
+dicht,r_a-10039,niet open,-0.1,0.1,1.0
+dicht,r_a-10040,nauw aaneengesloten,0.1,0.1,1.0
+dichtbij,d_a-521765,,0.1,0.4,1.0
+dichterbij,d_r-70845,,0.1,0.4,1.0
+dichterlijk,r_a-10041,poëtisch,0.2,0.5,0.9
+dictatoriale,,,-0.3,0.2,0.8
+didactisch,r_a-10189,onderwijskundig,0.1,0.2,0.7
+dienstverlenend,r_a-10191,diensten verlenend,-0.1,0.3,0.7
+diep,r_a-10047,van kleur,0.1,0.4,1.0
+diep,r_a-10048,ver naar achteren,0.0,0.4,1.0
+diep,r_a-10049,intens,0.6,0.9,1.0
+diepblauw,r_a-10192,blauw,0.1,0.3,0.7
+diepgaand,r_a-10050,grondig,0.4,0.8,1.0
+diepgeworteld,r_a-10193,diep zittend,-0.1,0.9,0.7
+diepgravend,r_a-10194,diepgaand,0.5,0.7,0.7
+diepliggend,r_a-10258,verzonken,0.0,0.1,0.7
+dieptepunt,,,-0.3,0.2,0.8
+diepzinnig,r_a-10051,getuigend van diep nadenken,0.6,0.9,1.0
+dierbaar,r_a-10052,geliefd,0.7,1.0,1.0
+diffuus,r_a-10054,verspreid,0.0,0.2,0.7
+digitaal,r_a-10055,niet analoog,0.0,0.0,1.0
+dik,r_a-10058,dicht,0.1,0.4,1.0
+dik,r_a-10059,"ruim, veel",0.3,0.6,1.0
+dik,r_a-10328,van aanzienlijke omvang,-0.5,0.6,1.0
+dilettanterig,d_a-60757,,-0.5,0.9,0.7
+diplomatiek,r_a-10060,horend bij de diplomatie,0.0,0.1,0.7
+direct,r_a-10061,"zonder omwegen, m.b.t. afstand",0.4,0.4,1.0
+discutabel,r_a-10064,aanvechtbaar,-0.4,0.9,1.0
+disproportioneel,r_a-10196,niet in verhouding,-0.1,0.7,0.7
+disputabel,d_a-404196,,-0.4,0.9,0.7
+dissonant,r_a-10266,vals,-0.6,0.9,0.7
+divers,r_a-10067,uiteenlopend,0.2,0.6,1.0
+divers,r_a-10068,verscheidene,0.0,0.1,1.0
+dodelijk,r_a-10070,tot de dood leidend,-0.6,0.6,1.0
+doelbewust,r_a-10071,vastberaden,0.2,0.6,0.7
+doelgericht,r_a-10199,op het doel af,-0.1,0.1,0.7
+doelloos,r_a-10072,zonder doel,-0.3,0.6,0.7
+doeltreffend,r_a-10074,effectief,0.6,0.8,1.0
+doenlijk,r_a-10075,uitvoerbaar,0.0,0.3,0.7
+dof,r_a-10200,"mat, gedempt",0.4,0.5,0.7
+dogmatisch,r_a-10076,volgens dogma,-0.5,0.8,0.7
+dol,d_a-521931,van dieren,-0.3,0.8,1.0
+dol,r_a-10077,verzot,0.8,1.0,1.0
+dol,r_a-10078,dwaas,-0.4,1.0,1.0
+dol,r_a-10079,enig,0.4,0.7,1.0
+dol,r_a-10332,(v.e. schroef) doordraaiend,-0.1,0.1,1.0
+dolblij,r_a-10201,ontzettend blij,0.6,1.0,0.7
+doldriest,r_a-10270,heel overmoedig,-0.6,0.9,0.7
+dolenthousiast,r_a-10271,zeer enthousiast,0.5,0.9,0.7
+dolgelukkig,r_a-10202,ontzettend gelukkig,0.6,1.0,0.7
+dom,r_a-10080,niet intelligent,-0.7,0.9,1.0
+donker,r_a-10082,duister,-0.2,0.4,1.0
+donker,r_a-10083,niet licht van kleur,0.0,0.4,1.0
+donker,r_a-10084,niet helder van klank,-0.2,0.4,1.0
+donker,r_a-10338,"somber, ongunstig",-0.6,0.9,1.0
+donkerblauw,r_a-10205,niet lichtblauw,0.0,0.4,0.7
+donkerblond,r_a-10274,niet lichtblond,0.0,0.1,0.7
+donkergrijs,r_a-10208,niet lichtgrijs,-0.2,0.5,0.7
+donkerrood,r_a-10210,niet lichtrood,0.0,0.0,0.7
+dood,r_a-10085,niet levend,-0.2,0.4,1.0
+doodeenvoudig,r_a-10211,doodsimpel,0.1,0.8,0.7
+doodgeboren,r_a-10213,levenloos geboren,-0.5,0.7,0.7
+doodgewoon,r_a-10214,heel gewoon,-0.1,0.7,0.7
+doodkalm,r_a-10279,uiterst kalm,-0.9,1.0,0.7
+doodmoe,r_a-10215,heel moe,-0.5,0.6,0.7
+doodnormaal,r_a-10280,heel gewoon,-0.4,1.0,0.7
+doods,r_a-10088,dood lijkend,-0.1,0.7,0.7
+doodsbleek,r_a-10283,lijkbleek,-0.6,0.7,0.7
+doodsimpel,r_a-10285,doodeenvoudig,0.2,0.4,0.7
+doodziek,r_a-10219,zwaar ziek,-0.7,0.9,0.7
+doopsgezind,r_a-10220,baptistisch,0.0,0.1,0.7
+doordacht,r_a-10091,weloverwogen,0.8,0.9,1.0
+doordeweeks,r_a-10289,niet zondags,-0.6,0.9,0.7
+doorgaand,r_a-10093,niet stoppend,-0.3,0.8,0.7
+doorgewinterd,r_a-10094,zeer bedreven en ervaren,0.5,0.9,1.0
+doorslaand,r_a-10099,overtuigend,0.4,0.7,0.7
+doorslaggevend,r_a-10100,beslissend,0.2,0.6,0.7
+doorsnee,d_n-404268,,-0.1,0.5,1.0
+doortimmerd,r_a-10102,degelijk,0.1,0.2,0.7
+doorwrocht,r_a-10107,doortimmerd,0.7,0.9,0.7
+doorzichtig,r_a-10109,transparant,0.0,0.2,1.0
+doorzichtig,r_a-10110,helder,0.2,0.5,1.0
+dorstig,r_a-10114,met dorst,-0.4,1.0,0.7
+draagbaar,r_a-10223,dragend te vervoeren,0.0,0.0,0.7
+draagkrachtig,r_a-10224,lasten kunnende dragen,0.4,0.6,0.9
+draaibaar,r_a-10225,te draaien,0.2,0.4,0.7
+drabbig,r_a-10294,modderig,-0.4,0.5,0.7
+draconisch,r_a-10226,streng,-0.5,0.9,0.8
+drakerig,r_a-10296,draakachtig,-0.6,0.9,0.7
+dramatisch,r_a-10119,tragisch,-0.6,0.8,1.0
+dramatisch,r_a-10335,theatraal,-0.4,0.8,1.0
+dramatisch,r_a-10336,mbt. Toneel,-0.1,0.1,1.0
+drammerig,r_a-10297,belerend en betweterig,-0.4,0.8,0.7
+drastisch,r_a-10121,ingrijpend,-0.1,0.9,0.9
+dreigend,r_a-10228,vol dreiging,-0.2,0.6,0.7
+driedimensionaal,r_a-10122,met drie dimensies,0.1,0.6,0.7
+driedubbel,r_a-10231,drievoudig,0.0,0.0,0.7
+driejaarlijks,r_a-10233,(van) om de drie jaar,0.0,0.3,0.7
+driekwart,r_a-10123,drievierde,0.0,0.0,1.0
+driest,r_a-10124,overmoedig,-0.7,0.8,0.7
+drinkbaar,r_a-10306,te drinken,0.4,0.6,0.7
+droef,r_a-10237,treurig,-0.5,0.9,1.0
+droevig,d_a-65732,,-0.5,0.9,0.7
+droevig,r_a-10130,treurig,-0.5,0.9,1.0
+dromerig,r_a-10131,als iemand die droomt,0.3,0.9,1.0
+dronken,r_a-10132,beschonken,-0.3,0.6,1.0
+droog,r_a-10133,niet nat,0.0,0.0,1.0
+droog,r_a-10134,uitgedroogd,-0.2,0.6,1.0
+droog,r_a-10339,geestig,0.4,0.9,1.0
+droog,r_a-10340,van drank: niet zoet,-0.1,0.6,1.0
+druilerig,r_a-10135,regenachtig,-0.5,0.7,1.0
+druk,r_a-10136,bedrijvig,-0.1,0.7,1.0
+druk,r_a-10137,turbulent,-0.4,0.7,1.0
+druk,r_a-10341,van karakter,-0.2,0.9,1.0
+dubbel,r_a-10140,tweevoudig,0.0,0.0,1.0
+dubbelhartig,r_a-10141,vals,-0.9,1.0,0.7
+dubieus,r_a-10144,twijfelachtig,-0.4,0.9,1.0
+duidelijk,r_a-10148,makkelijk te begrijpen,0.6,0.7,1.0
+duidelijk,r_a-10149,goed waarneembaar,0.3,0.5,1.0
+duister,r_a-10150,donker,-0.2,0.8,1.0
+duivels,r_a-10151,satanisch,-0.5,0.9,0.7
+duizelig,r_a-10153,draaierig,-0.1,1.0,0.7
+duizelingwekkend,r_a-10154,enorm,0.5,1.0,1.0
+duizendjarig,r_a-10342,van duizend jaar,0.0,0.3,0.7
+dun,r_a-10155,mager,-0.3,0.9,1.0
+dun,r_a-10156,vloeibaar,0.0,0.1,1.0
+dun,r_a-10329,plat,-0.2,0.4,1.0
+dusdanig,,,0.0,0.2,1.0
+duur,r_a-10158,prijzig,-0.5,0.7,1.0
+duur,r_a-10159,"deftig, gewichtig",0.1,0.9,1.0
+duurzaam,r_a-10160,bestendig,0.1,0.4,0.7
+dwangmatig,r_a-10162,obsessief,-0.6,0.8,0.7
+dwars,r_a-10163,orthogonaal,0.0,0.0,1.0
+dwarsbomen,r_v-2609,,-0.2,0.2,0.8
+dweperig,r_a-10311,geneigd tot dwepen,-0.5,0.9,0.7
+dynamisch,r_a-10343,mbt. de dynamica,0.1,0.2,0.7
+dyslectisch,r_a-10313,woordblind,-0.5,0.6,0.7
+echt,r_a-10347,niet vals,0.3,0.4,1.0
+echt,r_a-10615,bij uitnemendheid,0.1,0.4,1.0
+eclatant,r_a-10475,daverend,0.5,0.7,0.7
+eclatant,r_a-10576,sensationeel,0.6,0.9,0.8
+edel,r_a-10353,hoogstaand van karakter,-0.7,0.9,0.7
+eeltig,r_a-10536,vol eelt,-0.1,0.6,0.7
+eendimensionaal,,,-0.2,0.4,1.0
+eendrachtig,r_a-10479,eensgezind,0.2,0.5,0.7
+eenduidig,r_a-10359,ondubbelzinnig,0.4,0.6,0.7
+eenheidsworst,r_n-11999,,-0.3,0.3,0.7
+eenhoevig,r_a-10538,met enkelvoudige hoeven,0.1,0.4,0.7
+eenmalig,r_a-10362,één keer voorkomend,0.0,0.1,1.0
+eenparig,r_a-10542,met overeenstemming,0.1,0.1,0.7
+eens,r_a-10363,van dezelfde mening,0.1,0.4,1.0
+eensluidend,r_a-10365,met gelijke inhoud,0.4,0.6,0.7
+eentonig,r_a-10367,weinig afwisselend,-0.6,0.9,1.0
+eentonig,r_a-10592,met maar één toon,-0.1,0.2,1.0
+eenvoudig,r_a-10368,niet ingewikkeld,0.4,0.9,1.0
+eenvoudig,r_a-10594,zonder weelde of overdaad,0.4,0.9,1.0
+eenvoudig,r_a-10595,bescheiden,0.5,0.9,1.0
+eenzaam,r_a-10369,alleen,-0.6,0.8,1.0
+eenzaam,r_a-10370,afgelegen of verlaten,-0.1,0.4,1.0
+eenzelvig,r_a-10371,teruggetrokken,-0.4,0.6,0.7
+eenzijdig,r_a-10372,unilateraal,-0.1,0.4,1.0
+eenzijdig,r_a-10373,vooringenomen,-0.5,0.8,1.0
+eenzijdig,r_a-10616,beperkt,-0.5,0.7,1.0
+eerbiedig,r_a-10374,respectvol,0.1,0.4,0.7
+eerder,r_a-10482,vroeger,0.0,0.2,1.0
+eerlijk,d_a-72219,rechtvaardig,0.7,0.9,1.0
+eerlijk,r_a-10376,oprecht,0.6,0.9,1.0
+eerloos,r_a-10545,zonder eer,-0.5,0.8,0.7
+eersteklas,r_a-10379,uitstekend,0.9,1.0,0.7
+eersterangs,r_a-10547,tot de besten behorend,0.5,0.8,0.7
+eerstgenoemd,r_a-10485,als eerste genoemd,0.0,0.1,0.7
+eerstkomend,r_a-10486,aanstaand,0.0,0.2,0.7
+eerzaam,r_a-10549,respectabel,0.3,0.8,0.7
+eerzuchtig,r_a-10382,ambitieus,-0.8,0.9,0.7
+eeuwenlang,r_a-10488,gedurende honderden jaren,0.0,0.2,0.7
+eeuwenoud,r_a-10489,honderden jaren oud,0.0,0.0,0.7
+eeuwig,r_a-10384,altijddurend,-0.1,0.4,1.0
+effectief,r_a-10385,doeltreffend,0.6,0.8,1.0
+effectief,r_a-10597,werkelijk,0.2,0.4,1.0
+efficiënt,r_a-10389,doelmatig,0.5,0.8,0.7
+egocentrisch,r_a-10392,op zichzelf gericht,-0.7,1.0,1.0
+egoïstisch,r_a-10393,zelfzuchtig,-0.9,1.0,1.0
+eigen,d_a-72712,undefined,0.0,0.2,1.0
+eigen,r_a-10394,van de betrokkene zelf,0.0,0.3,1.0
+eigen,r_a-10395,kenmerkend,0.0,0.5,1.0
+eigenaardig,r_a-10396,"merkwaardig, vreemd",0.0,1.0,1.0
+eigenlijk,r_a-10399,feitelijk,0.0,0.3,1.0
+eigentijds,r_a-10401,passend bij deze tijd,0.4,0.7,1.0
+eigenwijs,r_a-10402,eigengereid,-0.2,0.9,1.0
+eigenwijs,r_a-10403,parmantig,-0.2,0.9,1.0
+eigenzinnig,r_a-10404,koppig,-0.1,0.9,1.0
+eindeloos,r_a-10406,niet eindig,-0.1,0.4,1.0
+eindeloos,r_a-10407,heerlijk,0.7,1.0,1.0
+eivol,r_a-10554,helemaal vol,0.2,0.5,0.7
+elastieken,r_a-10408,van elastiek,-0.1,0.4,0.7
+electoraal,r_a-10493,mbt. verkiezingen,0.0,0.4,0.7
+elegant,r_a-10410,bevallig,0.8,1.0,0.7
+elektronisch,r_a-10412,met elektrische apparaten,0.0,0.0,0.7
+elementair,r_a-10414,fundamenteel,0.1,0.4,0.7
+ellendig,r_a-10416,miserabel,-0.7,1.0,1.0
+ellendig,r_a-10417,wat ellende veroorzaakt,-0.6,0.8,1.0
+ellenlang,r_a-10418,heel erg lang,-0.2,0.9,1.0
+embryonaal,r_a-10499,als embryo,0.0,0.3,0.7
+emotieloos,r_a-10559,zonder emotie,-0.4,0.8,1.0
+emotioneel,r_a-10420,gevoelig,0.0,0.9,1.0
+emotioneel,r_a-10619,mbt. emoties,0.0,0.4,1.0
+empirisch,r_a-10421,proefondervindelijk,0.1,0.1,1.0
+encyclopedisch,r_a-10500,"als (in, van) een encyclopedie",0.0,0.0,0.7
+energiek,r_a-10422,krachtig,0.5,0.7,0.7
+energiezuinig,r_a-10502,weinig energie gebruikend,0.4,0.7,0.7
+enerverend,r_a-10423,spannend en vermoeiend,-0.7,1.0,0.7
+eng,r_a-10424,angstig makend,-0.6,1.0,1.0
+eng,r_a-10425,nauw,-0.3,0.4,1.0
+enig,r_a-10427,uniek,0.4,0.6,1.0
+enig,r_a-10428,heel erg leuk,0.7,1.0,1.0
+enigst,r_a-10429,uniek,0.4,0.6,1.0
+enkel,r_a-10430,niet dubbel,0.0,0.2,0.7
+enorm,r_a-10505,geweldig,0.7,1.0,1.0
+enthousiast,r_a-10431,geestdriftig,0.6,0.9,1.0
+epidemisch,r_a-10566,als een epidemie,-0.5,0.6,0.7
+episch,r_a-10506,mbt. verhalende poëzie,0.1,0.4,1.0
+equivalent,r_a-10507,gelijkwaardig,0.2,0.5,0.7
+erbarmelijk,d_a-74875,,-0.7,1.0,0.7
+erbarmelijk,r_a-10432,"ellendig, meelijwekkend",-0.6,0.9,1.0
+erg,r_a-10434,naar,-0.6,1.0,1.0
+erg,r_a-10435,ontzettend,-0.1,1.0,1.0
+ergerlijk,r_a-10436,irritant,-0.8,1.0,1.0
+ergerniswekkend,r_a-10509,irritant,-0.6,1.0,0.7
+ergonomisch,r_a-10510,mbt. de ergonomie,0.0,0.1,0.7
+erkend,r_a-10437,officieel bevoegd,0.3,0.8,0.7
+ernstig,r_a-10440,serieus,0.0,0.7,1.0
+ernstig,r_a-10441,ingrijpend,-0.1,0.6,1.0
+erotisch,r_a-10442,seksueel prikkelend,0.6,0.9,1.0
+erudiet,r_a-10443,ontwikkeld,0.5,0.9,0.7
+ervaren,r_a-10444,geroutineerd,0.8,0.9,1.0
+escaleren,r_v-2658,,-0.1,0.0,0.8
+essentieel,r_a-10445,de essentie vormend,0.1,0.4,1.0
+esthetisch,r_a-10446,mbt. schoonheid,0.1,0.5,0.7
+ethisch,r_a-10447,moreel,0.2,0.6,1.0
+etnisch,r_a-10448,volkenkundig,0.0,0.4,0.7
+etymologisch,r_a-10512,mbt. de woordafleiding,0.0,0.0,0.7
+evangelisch,r_a-10515,mbt. het evangelie,0.0,0.1,0.7
+evangelisch,r_a-10608,mbt. tot richting in Hervormde Kerk,0.0,0.1,0.7
+eventueel,r_a-10452,mogelijk,-0.1,0.6,1.0
+evenwichtig,r_a-10453,stabiel,0.5,0.9,0.7
+evenwijdig,r_a-10454,parallel,-0.1,0.4,0.7
+evident,r_a-10455,volkomen duidelijk,0.4,0.6,0.7
+evolutionair,r_a-10516,mbt. evolutie,0.0,0.1,0.7
+exact,r_a-10456,nauwkeurig,0.3,0.6,1.0
+exceptioneel,r_a-10459,uitzonderlijk,0.1,0.6,0.7
+excessief,r_a-10519,buitensporig,-0.4,0.8,0.7
+exemplarisch,r_a-10462,typisch,0.2,0.4,0.9
+exhibitionistisch,r_a-10574,(als) van een exhibitionist,-0.7,1.0,0.7
+existentieel,r_a-10520,mbt. existentie,0.2,0.5,0.7
+exorbitant,r_a-10463,buitensporig,0.0,0.8,0.7
+exotisch,r_a-10464,"(als) uit verre, vreemde landen",0.4,0.6,1.0
+experimenteel,d_a-76916,niet permanent,0.1,0.4,1.0
+experimenteel,r_a-10465,mbt. experimenten,0.1,0.1,1.0
+expliciet,r_a-10466,met zoveel woorden,0.0,0.2,1.0
+explosief,r_a-10467,ontplofbaar,0.4,0.9,0.7
+expressief,r_a-10468,met veel expressie,0.1,0.5,0.7
+expressionistisch,r_a-10523,mbt. het expressionisme,0.0,0.3,0.7
+exquis,r_a-10469,voortreffelijk,0.7,1.0,0.7
+extatisch,r_a-10524,(als) in extase,0.6,0.9,0.7
+extra,r_a-10471,meer dan normaal,0.4,0.6,1.0
+extreem,r_a-10474,uitzonderlijk,0.1,1.0,1.0
+extreem-links,r_a-10527,uiterst links,-0.6,0.8,0.7
+extreem-nationalistisch,r_a-10528,uiterst nationalistisch,0.0,0.4,0.7
+extreem-rechts,r_a-10529,uiterst rechts,0.0,0.4,0.7
+extremistisch,r_a-10530,neigend naar extremisme,-0.5,0.7,0.7
+exuberant,r_a-10531,overdadig,-0.4,0.6,0.7
+fabelachtig,r_a-10622,"onvoorstelbaar veel, mooi etc.",0.7,0.9,0.7
+fabelachtig,r_a-10771,als in fabels,0.9,1.0,0.9
+fabuleus,r_a-10623,"onwaarschijnlijk veel, mooi etc.",0.7,0.9,0.7
+fail,,,-0.3,0.5,0.7
+failliet,r_a-10626,bankroet,-0.3,0.5,0.7
+fair,r_a-10627,eerlijk,0.6,0.9,0.8
+faliekant,r_a-10773,helemaal verkeerd,-0.7,1.0,0.7
+fameus,r_a-10629,vermaard,0.5,0.9,0.7
+familiaal,r_a-10630,mbt. het gezin,0.3,0.8,0.7
+fanatiek,r_a-10634,bezeten,-0.2,0.9,1.0
+fantasierijk,r_a-10636,met veel fantasie,0.6,1.0,1.0
+fantasievol,d_a-406725,,0.6,1.0,1.0
+fantastisch,r_a-10637,geweldig,1.0,1.0,1.0
+fantastisch,r_a-10638,verzonnen,0.0,0.5,1.0
+fascinerend,r_a-10640,boeiend,0.8,0.9,1.0
+fascistisch,r_a-10641,mbt. het fascisme,0.1,0.5,0.7
+fataal,r_a-10643,noodlottig,-0.6,0.8,1.0
+fatsoenlijk,r_a-10645,"welgemanierd, netjes",0.2,0.7,0.7
+fatsoenlijk,r_a-10646,"behoorlijk, redelijk",0.4,0.4,0.7
+fatterig,r_a-10647,dandy-achtig,-0.1,0.2,0.7
+favoriet,r_a-10648,meest geliefd,0.8,0.9,1.0
+favoriet,r_a-10784,als winnaar getipt,0.5,0.6,1.0
+feest,r_n-13097,,0.5,0.2,0.9
+feestelijk,r_a-10652,mbt. een feest,0.7,1.0,0.7
+feeëriek,r_a-10651,sprookjesachtig,0.7,1.0,1.0
+feilloos,r_a-10653,zonder een enkele fout,0.7,0.9,0.7
+feitelijk,r_a-10654,eigenlijk,0.0,0.3,1.0
+fel,r_a-10655,hevig,0.1,0.9,1.0
+fel,r_a-10656,hartstochtelijk,0.2,0.7,0.7
+fel,r_a-10657,hel,-0.4,0.6,0.7
+felbegeerd,r_a-10658,vurig begeerd,0.2,0.2,0.7
+fenomenaal,r_a-10662,buitengewoon,0.9,1.0,1.0
+ferm,r_a-10664,flink,0.7,1.0,0.9
+fervent,r_a-10665,vurig,0.4,1.0,1.0
+fiasco,r_n-13160,,-0.5,0.5,0.9
+fictief,r_a-10666,"verzonnen, niet echt",-0.1,0.4,1.0
+fictioneel,d_a-80087,,-0.1,0.4,0.7
+figuratief,r_a-10669,niet abstract,0.0,0.2,0.9
+figuurlijk,r_a-10670,niet letterlijk,0.0,0.2,1.0
+fijn,r_a-10671,prettig,0.6,1.0,1.0
+fijn,r_a-10672,niet grof,0.2,0.6,1.0
+fijnbesnaard,r_a-10674,fijngevoelig,0.4,0.9,0.7
+fijnzinnig,r_a-10678,subtiel,0.4,0.6,0.7
+fiks,d_a-80436,,0.1,0.9,0.7
+fiks,r_a-10679,flink,0.2,0.9,0.7
+filantropisch,r_a-10680,menslievend,0.6,0.8,0.7
+filmisch,r_a-10682,(als) in de film,0.0,0.2,1.0
+filosofisch,r_a-10684,wijsgerig,0.2,0.3,1.0
+finaal,r_a-10685,uiteindelijk,0.0,0.3,0.7
+financieel,r_a-10686,met betrekking tot geld,0.0,0.0,0.7
+fit,r_a-10688,in goede conditie,0.5,0.8,0.7
+flagrant,r_a-10689,overduidelijk,0.0,0.6,0.7
+flamboyant,r_a-10690,vlammend (figuurlijk),0.4,0.7,0.7
+flamboyant,r_a-10788,zwierig,0.4,0.7,0.7
+flauw,r_a-10693,smaakloos,-0.6,0.9,1.0
+flauw,r_a-10694,met weinig intensiteit,-0.5,1.0,1.0
+flauw,r_a-10695,niet grappig,-0.6,1.0,1.0
+fleurig,r_a-10699,vrolijk,0.9,1.0,0.9
+flink,r_a-10701,fors,0.2,0.8,1.0
+flink,r_a-10702,moedig,0.6,0.9,1.0
+flinkgebouwd,r_a-10703,forsgebouwd,0.1,0.9,0.7
+flinterdun,r_a-10704,heel dun,-0.2,0.6,1.0
+flitsend,r_a-16577,snel,-0.1,0.3,0.7
+flop,r_n-13393,,-0.5,0.6,0.9
+florissant,r_a-10706,bloeiend,0.7,1.0,0.7
+fluks,d_a-406758,,0.2,0.6,0.7
+flut,r_a-10708,waardeloos,-0.6,0.8,0.7
+fnuikend,r_a-10711,funest,-0.6,0.8,0.7
+forfaitair,r_a-10717,vooraf vastgesteld,0.0,0.2,0.7
+formeel,r_a-10719,de vorm betreffend,0.0,0.0,0.7
+formeel,r_a-10720,aan conventies hechtend,0.1,0.7,0.7
+formeel,r_a-10789,officieel,0.0,0.0,0.7
+formidabel,r_a-10721,geweldig,1.0,1.0,1.0
+fors,r_a-10722,flink,0.1,0.5,1.0
+forsgebouwd,r_a-10723,flinkgebouwd,0.1,0.9,0.7
+fortuinlijk,r_a-10724,voorspoedig,0.9,1.0,0.7
+fout,r_a-10730,onjuist,-0.5,0.6,1.0
+foutief,r_a-10731,verkeerd,-0.5,0.6,1.0
+fraai,r_a-10733,mooi,0.6,0.9,1.0
+fragmentarisch,r_a-10735,uit brokstukken bestaand,0.0,0.1,0.7
+frank,r_a-10741,vrijpostig,-0.2,0.4,0.7
+frappant,r_a-10745,treffend,0.3,0.6,0.7
+frauduleus,r_a-10746,bedrieglijk,-0.6,0.9,0.7
+frequent,r_a-10750,veelvuldig,0.1,0.1,1.0
+fris,r_a-10753,koel,0.1,0.4,1.0
+fris,r_a-10754,"origineel, recent",0.8,0.9,1.0
+fris,r_a-10755,schoon,0.6,0.9,1.0
+fruitig,r_a-10758,met een fruitsmaak,0.6,1.0,0.7
+frustratie,,,-0.6,0.7,0.8
+functioneel,r_a-10760,geschikt voor hun functie,0.4,0.4,0.7
+functioneel,r_a-10792,mbt. de functie(s),0.6,0.8,0.7
+fundamentalistisch,r_a-10761,mbt. fundamentalisme,0.0,0.4,0.7
+fundamenteel,r_a-10762,essentieel,0.2,0.6,0.7
+funest,r_a-10763,met fatale gevolgen,-0.6,0.8,1.0
+furieus,r_a-10764,woedend,-0.7,1.0,0.7
+futiel,r_a-10765,onbelangrijk,-0.4,1.0,0.8
+futloos,r_a-10766,slap,-0.4,0.9,0.7
+futuristisch,r_a-10767,als uit de toekomst afkomstig,0.0,0.0,0.7
+fysiek,r_a-10768,lichamelijk,0.0,0.0,1.0
+fysiologisch,r_a-10769,mbt. de fysiologie,0.0,0.1,0.7
+gaaf,r_a-10793,intact,0.2,0.2,1.0
+gaaf,r_a-10794,erg goed,1.0,1.0,1.0
+gaar,r_a-10796,"genoeg gekookt, gebakken etc.",0.0,0.1,0.7
+gaar,r_a-11497,uitgeput,0.0,0.8,0.7
+gallisch,r_a-10798,kwaad,-0.4,0.6,0.7
+gans,r_a-10803,geheel,0.1,0.4,1.0
+gastvrij,r_a-10804,hartelijk voor gasten,0.4,0.9,0.7
+gay,r_a-11209,homoseksueel,0.0,0.1,0.7
+geacht,r_a-10805,beleefde aanspreekvorm,0.5,0.9,0.7
+geavanceerd,r_a-10809,vooruitstrevend,0.3,0.5,0.7
+gebeten,r_a-10814,verbitterd,-0.3,0.6,0.7
+geboren,r_a-10817,ter wereld gebracht of ontstaan,0.0,0.0,1.0
+geborgen,r_a-10818,veilig,0.3,0.7,0.7
+gebronsd,r_a-11392,bronskleurig,0.1,0.4,0.7
+gebruikelijk,r_a-10824,gangbaar,0.0,0.4,1.0
+gebruikersvriendelijk,r_a-11393,tegemoetkomend aan gebruiker,0.7,0.9,0.7
+gecharmeerd,r_a-10826,ingenomen met iets of iemand,0.4,1.0,0.7
+gecompliceerd,r_a-10828,ingewikkeld,-0.4,0.9,1.0
+gedachteloos,r_a-10832,onnadenkend,-0.4,0.9,0.7
+gedateerd,r_a-11394,verouderd,-0.3,0.7,0.7
+gedeeltelijk,r_a-10835,niet volledig,-0.1,0.3,1.0
+gedegen,r_a-10836,goed doordacht,0.6,0.9,1.0
+gedenkwaardig,r_a-10841,de moeite waard zijnde,0.6,1.0,0.7
+gedesillusioneerd,r_a-10842,ontgoocheld,-0.6,0.9,0.7
+gedetailleerd,r_a-10844,tot in de details,0.4,0.9,1.0
+gedoemd,r_a-10851,voorbeschikt voor iets slechts,-0.6,0.9,0.7
+geducht,r_a-10857,vrees of ontzag inboezemend,-0.4,1.0,0.7
+gedupeerd,r_a-11235,benadeeld zijnde,-0.4,0.7,0.7
+geel,r_a-10864,kleur hebbend van een eidooier,0.0,0.0,1.0
+geestdodend,r_a-10868,afstompend,-0.4,0.6,0.7
+geestdriftig,r_a-10869,vol geestdrift,0.6,0.9,1.0
+geestelijk,r_a-10870,betrekking hebbend op de geest,0.0,0.2,1.0
+geestelijk,r_a-10871,betrekking hebbend op godsdienst,0.0,0.3,1.0
+geestig,r_a-10872,humoristisch,0.8,0.9,1.0
+geestverruimend,r_a-10874,de geest ruimer makend,0.0,0.2,0.7
+geeuw,r_n-14263,,-0.1,0.1,0.9
+gefingeerd,r_a-10876,verzonnen,-0.1,0.4,1.0
+geforceerd,r_a-10878,niet van harte gaand,-0.3,0.7,0.7
+gefundeerd,r_a-10881,gegrond,0.0,0.3,0.7
+gegoed,r_a-10883,met veel bezittingen en geld,0.4,0.6,0.9
+gegrond,r_a-10886,gefundeerd,0.2,0.7,0.7
+gehaaid,r_a-10889,gewiekst,-0.8,0.9,0.7
+gehaast,r_a-10890,haastig,-0.1,0.4,0.9
+gehandicapt,r_a-10891,door een gebrek belemmerd,-0.2,0.3,1.0
+gehandicapt,r_a-11516,in een minder gunstige positie,-0.6,0.7,1.0
+geheel,r_a-10894,compleet,0.1,0.4,1.0
+geheim,r_a-10895,verborgen,0.0,0.4,1.0
+geheimzinnig,r_a-10896,niet te verklaren,0.1,0.9,1.0
+gehoorzaam,r_a-10897,doend wat iemand zegt,0.0,0.3,0.7
+gehuwd,r_a-11244,getrouwd,0.0,0.1,0.7
+geinig,r_a-10902,grappig,0.5,1.0,1.0
+gek,r_a-10959,niet goed bij zijn verstand,-0.5,0.9,1.0
+gek,r_a-10960,vreemd,-0.2,0.9,1.0
+gek,r_a-10961,zeer gesteld op,0.9,1.0,1.0
+gekmakend,r_a-11254,waar je gek van wordt,-0.7,0.9,0.7
+geknipt,r_a-11256,geschikt,0.8,0.9,1.0
+gekrenkt,r_a-11257,gekwetst,-0.8,0.9,0.7
+gekunsteld,r_a-10967,gemaakt,-0.5,0.9,1.0
+gekwetst,r_a-11521,boos of beledigd,-0.2,0.4,0.7
+gelaten,r_a-10969,lijdzaam,-0.1,0.8,0.7
+gelauwerd,r_a-11269,met overwinningskrans,0.8,0.9,0.7
+geldig,r_a-10971,bruikbaar,0.4,0.5,0.7
+geldverslindend,r_a-11271,zeer of onevenredig veel geld eisend,-0.4,0.8,0.7
+geldverspilling,,,-0.4,0.8,0.8
+geleidelijk,r_a-10976,"in geordende, kalme opeenvolging",0.1,0.4,1.0
+geletterd,r_a-10977,belezen,0.2,0.9,0.7
+gelezen,r_a-11272,veel lezers tellend,0.3,0.7,0.7
+geliefd,r_a-10978,dierbaar of favoriet,0.8,1.0,1.0
+geliefde,r_n-14469,,0.6,0.9,1.0
+gelig,r_a-11274,enigszins vergeeld,0.0,0.3,0.7
+gelijk,r_a-10980,identiek,0.0,0.1,1.0
+gelijk,r_a-11527,effen,0.1,0.3,1.0
+gelijkgestemd,r_a-11275,met gelijke zienswijze,0.0,0.1,0.7
+gelijkgezind,r_a-11276,dezelfde denkwijze toegedaan,0.0,0.1,0.7
+gelijkluidend,r_a-10981,gelijk van klank of inhoud,0.0,0.4,0.7
+gelijkmatig,r_a-10982,steeds gelijk,0.6,0.7,0.7
+gelijknamig,r_a-11277,dezelfde naam dragend,0.0,0.1,1.0
+gelijksoortig,r_a-11278,geheel van dezelfde hoedanigheid,0.0,0.3,0.7
+gelikt,r_a-11528,gladjanusachtig,-0.4,0.8,0.7
+geloofwaardig,r_a-11280,aannemelijk,0.4,0.8,1.0
+gelovig,r_a-10933,godsdienstig,0.0,0.4,1.0
+geluidloos,r_a-11282,zonder geluid voort te brengen,0.0,0.1,0.7
+geluidsoverlast,,,-0.2,0.0,0.8
+gelukkig,r_a-10906,blij en tevreden,0.8,1.0,1.0
+gelukkig,r_a-10907,geluk brengend,0.7,1.0,1.0
+gelukzalig,r_a-10908,uiterst gelukkig,0.6,1.0,0.7
+gemaakt,r_a-10909,onecht,-0.6,0.9,0.7
+gemakkelijk,r_a-10910,kost niet veel moeite,0.4,0.9,1.0
+gemakkelijk,r_a-10911,gerieflijk,0.4,0.8,1.0
+gemakkelijk,r_a-11531,flexibel,0.5,0.9,1.0
+gemakzuchtig,r_a-10912,inspanning schromend,-0.9,1.0,0.7
+gemaskerd,r_a-10913,met een masker op,-0.4,0.9,0.7
+gemeen,r_a-10915,laag,-0.9,1.0,1.0
+gemeen,r_a-10916,gemeenschappelijk,0.0,0.1,1.0
+gemeen,r_a-11532,openbaar,0.0,0.0,1.0
+gemeenschappelijk,r_a-10918,gezamenlijk,0.0,0.1,0.9
+gemeentelijk,r_a-10919,met een gemeente te maken hebbend,0.0,0.1,0.7
+gemiddeld,r_a-10924,doorsnee,-0.3,0.7,1.0
+gemiddeld,r_a-10925,de gemiddelde waarde hebbend,0.0,0.0,1.0
+gemotiveerd,r_a-11284,motivatie bezittend,0.0,0.2,0.7
+genaamd,r_a-10954,de genoemde naam dragend,-0.1,0.1,0.7
+genadeloos,r_a-10955,meedogenloos of onverbiddelijk,-0.6,1.0,1.0
+genealogisch,r_a-11285,geslachtkundig,0.0,0.0,0.7
+geneeskundig,r_a-10934,medisch,0.1,0.1,1.0
+generaal,r_a-10938,algemeen,0.0,0.1,0.7
+geniaal,r_a-10941,uitzonderlijk begaafd,0.8,0.9,1.0
+geniaal,r_a-11535,blijk gevend van genie,0.7,0.9,1.0
+geniepig,r_a-10942,stiekem en een beetje gemeen,0.1,0.9,0.7
+genitaal,r_a-11427,betrekking hebbend op geslachtsdelen,0.0,0.2,0.7
+genoeglijk,r_a-10943,plezierig,0.8,1.0,1.0
+genoegzaam,r_a-10944,voldoende,-0.1,0.4,0.7
+genot,r_n-14686,,0.5,0.3,0.9
+genoten,,,0.4,0.4,0.9
+genuanceerd,r_a-10945,met onderscheid,0.0,0.8,0.7
+geologisch,r_a-11289,aardkunde betreffend,0.0,0.0,0.7
+gepantserd,r_a-11294,van een pantser voorzien,-0.5,0.7,0.7
+gepassioneerd,r_a-11295,hartstochtelijk,0.6,1.0,0.7
+geprononceerd,r_a-10992,uitgesproken,0.0,0.1,0.7
+geraffineerd,r_a-10997,verfijnd,0.5,0.8,0.7
+geraffineerd,r_a-11539,doortrapt,-0.1,0.4,0.7
+gerechtelijk,r_a-10998,justitieel,0.0,0.0,0.7
+gerechtigd,r_a-10999,het recht hebbend iets te doen,0.6,0.7,0.7
+gereformeerd,r_a-11002,behorend tot Gereformeerde Kerk,0.0,0.1,0.7
+gereformeerd,r_a-11540,volgens de leer van Calvijn,0.0,0.1,0.7
+geregeld,r_a-11003,ordelijk,0.3,0.7,1.0
+geregeld,r_a-11004,regelmatig terugkerend,0.0,0.1,1.0
+geremd,r_a-11005,niet vrij zijn in uitingen en reacties,-0.4,1.0,0.7
+gerenommeerd,r_a-11006,vermaard,0.4,0.7,0.7
+gereputeerd,d_a-90882,,0.5,0.9,0.7
+gerespecteerd,r_a-11436,achtenswaardig,0.5,0.9,0.7
+geriatrisch,r_a-11437,de geriatrie betreffend,0.0,0.0,0.7
+gerimpeld,r_a-11440,rimpels of groeven hebbend,-0.1,0.4,0.7
+gering,r_a-11010,klein in hoeveelheid,-0.2,0.4,1.0
+gering,r_a-11011,met weinig betekenis,-0.5,0.7,1.0
+geringschattend,r_a-11012,blijk gevend van geringe dunk,-0.1,0.8,0.7
+geroutineerd,r_a-11014,kundig en ervaren,0.8,0.9,0.9
+geruchtmakend,r_a-11015,opzienbarend,-0.1,0.8,0.7
+geruim,r_a-11016,vrij lang,0.0,0.6,0.7
+geruisloos,r_a-11017,onhoorbaar,0.0,0.1,1.0
+geruisloos,r_a-11545,zonder veel opzien te wekken,0.2,0.7,0.7
+gerust,r_a-11018,kalm,0.4,0.8,1.0
+geschiedkundig,r_a-11020,historisch,0.0,0.0,1.0
+geschikt,r_a-11021,aangenaam in omgang,0.6,0.9,1.0
+geschikt,r_a-11022,met juiste eigenschappen,0.6,0.8,1.0
+gesetteld,r_a-11026,sociaal op zijn plaats,0.0,0.1,0.7
+geslaagd,r_a-11030,succesvol,0.8,1.0,1.0
+geslachtsrijp,r_a-11032,klaar voor voortplanting,0.1,0.3,0.7
+gespannen,r_a-11037,op spanning staand,-0.1,0.5,1.0
+gespannen,r_a-11038,nerveus,-0.5,1.0,1.0
+gespecialiseerd,r_a-11315,toegespitst op iets specifieks,0.0,0.0,0.7
+gestaag,r_a-11318,in gelijkblijvend tempo,0.1,0.2,0.7
+gestoord,r_a-11044,gek,-0.4,0.9,1.0
+gestreept,r_a-11321,met strepen bedekt,0.0,0.1,1.0
+gestrekt,r_a-11322,uitgestrekt,0.0,0.1,0.7
+gestructureerd,r_a-11323,een samenhangende structuur hebbend,0.2,0.4,0.7
+getalenteerd,r_a-11325,talent hebbend,0.7,0.9,0.7
+getapt,r_a-11048,populair,0.2,0.9,0.7
+getiteld,r_a-11053,een titel dragend,-0.1,0.1,0.7
+getiteld,r_a-11564,een adellijke titel voerend,-0.1,0.1,0.7
+getogen,r_a-11054,opgegroeid,0.0,0.0,0.7
+getrouw,r_a-11055,trouw,0.6,0.9,0.7
+getrouw,r_a-11565,nauwkeurig,0.2,0.5,0.7
+getrouw,r_a-11566,zijn woord nakomend,0.1,0.4,0.7
+geurig,r_a-11057,aangenaam geurend,-0.1,0.5,0.7
+gevaarlijk,r_a-11058,onveilig,-0.6,0.9,1.0
+gevaarlijk,r_a-11567,gevaar opleverend,-0.6,0.9,1.0
+gevarieerd,r_a-11332,afwisselend,0.2,0.5,0.7
+gevat,r_a-11060,ad rem,0.3,0.7,0.7
+gevecht,r_n-14923,,-0.2,0.1,0.7
+gevoelig,r_a-11067,sensitief,0.1,0.9,1.0
+gevoelig,r_a-11068,kwetsbaar,-0.4,0.9,1.0
+gevoelig,r_a-11069,nauwkeurig,0.4,0.8,1.0
+gevoelig,r_a-11070,ingrijpend,0.1,0.9,1.0
+gevoelsarm,r_a-11458,met weinig gevoelens,-0.1,0.8,0.7
+gevoelsmatig,r_a-11072,intuïtief,0.0,0.7,0.7
+gevorkt,r_a-11461,met de vorm van een vork,-0.1,0.4,0.7
+gewapend,r_a-11077,met wapens,-0.1,0.8,0.7
+geweldadig,,,-0.5,0.6,1.0
+gewelddadig,r_a-11080,met geweld,-0.4,0.5,1.0
+geweldig,r_a-11081,heel leuk,0.9,1.0,1.0
+geweldloos,r_a-11082,zonder geweld,0.4,0.6,1.0
+gewend,r_a-11084,gewoon,-0.1,0.7,1.0
+gewerveld,r_a-11342,voorzien van een wervelkolom,0.1,0.4,0.7
+gewetenloos,r_a-11085,eerloos,-0.6,0.8,0.7
+gewichtig,r_a-11088,belangrijk,0.4,0.8,0.8
+gewis,r_a-11093,zeker,0.0,0.6,0.7
+gewonnen,,,0.3,0.4,0.8
+gewoon,r_a-11096,normaal,-0.1,0.7,1.0
+gewoon,r_a-11097,gewend,0.1,0.7,1.0
+gewraakt,r_a-11098,in ongunstig zin genoemd,-0.7,0.9,0.7
+gezaag,,,-0.3,0.5,0.8
+gezagsgetrouw,r_a-11346,trouw aan gestelde gezag,0.4,0.8,0.7
+gezamenlijk,r_a-11101,samen,0.0,0.1,1.0
+gezapig,r_a-11102,"sloom, rustig en saai",-0.1,0.6,0.7
+gezellig,r_a-11105,knus,0.8,1.0,1.0
+gezellig,r_a-11106,prettig,0.8,1.0,1.0
+gezind,r_a-11110,in bepaalde stemming,0.6,0.9,0.7
+gezond,r_a-11112,lichamelijk  en mentaal in orde,0.4,0.4,1.0
+gezond,r_a-11113,heilzaam,0.6,0.8,1.0
+gezouten,r_a-11464,gespierd of kras,-0.4,0.9,0.7
+gezwind,r_a-11114,snel,0.2,0.6,0.7
+geëmancipeerd,r_a-10865,zelfbewust,0.2,0.4,0.7
+geïsoleerd,r_a-11251,afgezonderd,-0.1,0.8,0.7
+giechelig,r_a-11465,lacherig,0.5,1.0,0.7
+giftig,r_a-11119,vergiftig,-0.6,0.9,0.7
+giftig,r_a-11120,erg kwaad,-0.6,0.9,0.7
+gigantisch,d_a-93462,zeer groot,0.3,0.8,1.0
+gigantisch,r_a-11121,reusachtig,0.4,0.8,1.0
+gijzelen,r_v-2967,,-0.2,0.1,0.8
+gis,r_a-11124,slim,0.8,0.9,0.7
+gitzwart,r_a-11352,zeer zwart,-0.1,0.1,0.7
+glansloos,r_a-11472,mat,-0.4,0.6,0.7
+glansrijk,r_a-11127,schitterend,0.7,0.9,0.7
+glasachtig,r_a-11474,als glas,0.0,0.1,0.7
+glashelder,r_a-11353,heel helder,0.3,0.5,0.7
+glazig,r_a-11130,suf,0.3,0.9,0.7
+glibberig,r_a-11131,glad en nat,-0.2,0.5,0.7
+globaal,r_a-11132,ongeveer,-0.4,0.8,0.7
+gloednieuw,r_a-11357,volstrekt nieuw,0.4,0.7,0.7
+glorierijk,r_a-11476,roemrijk,0.5,0.8,0.7
+glorieus,r_a-11136,roemrijk,0.5,0.8,0.7
+goddelijk,r_a-11138,van God,0.1,0.4,1.0
+goddelijk,r_a-11139,hemels,0.7,0.9,1.0
+godgans,r_a-11477,geheel,0.1,0.4,1.0
+godsdienstig,r_a-11359,religieus,0.0,0.4,1.0
+godsgruwelijk,r_a-11481,enorm,-1.0,1.0,0.7
+godsjammerlijk,d_a-94797,,-0.7,1.0,0.7
+godslasterlijk,r_a-11482,blasfemisch,-0.4,0.7,0.7
+godsonmogelijk,r_a-11584,totaal onmogelijk,-0.4,0.8,0.7
+godverdoms,,,-0.5,0.9,1.0
+godverlaten,r_a-11360,eenzaam,-0.7,1.0,0.7
+godvruchtig,r_a-11142,vroom,0.8,1.0,0.7
+goed,r_a-11143,in orde,0.6,0.9,1.0
+goed,r_a-11144,correct,0.5,0.9,1.0
+goedbedoelend,r_a-11362,met goede bedoelingen,0.2,0.8,0.7
+goede,,JJ,0.5,0.9,1.0
+goedgeefs,r_a-11148,gul,0.4,0.9,0.7
+goedgelovig,r_a-11149,naïef,-0.2,0.9,0.7
+goedkeurend,r_a-11153,instemmend,0.3,0.5,0.7
+goedkoop,r_a-11154,voordelig,0.4,0.7,1.0
+goedkoop,r_a-11155,ordinair,-0.6,0.9,1.0
+goedlopend,r_a-11364,succesvol,0.1,0.3,0.7
+goedmoedig,r_a-11365,onschuldig,0.6,0.8,0.7
+goedwillend,r_a-11366,met goede bedoelingen,0.3,0.8,0.7
+goeie,,,0.6,0.8,1.0
+golvend,r_a-11486,op- en neergaand als golven,-0.1,0.1,0.7
+goor,r_a-11158,niet helder,-0.6,0.9,1.0
+goor,r_a-11159,plat,-0.7,0.9,1.0
+gortdroog,r_a-11160,erg droog en saai,-0.9,1.0,1.0
+gortig,r_a-11367,grof,-0.4,0.8,0.7
+gotisch,r_a-11368,van de gotiek,0.0,0.1,0.7
+gouden,r_a-11161,van goud,0.2,0.2,1.0
+gouden,r_a-11586,"bloeiend, welvarend",0.7,0.9,1.0
+gouden,r_a-11587,vijftigjarig,0.1,0.1,1.0
+gracieus,r_a-11163,sierlijk,0.4,0.7,0.7
+gradueel,r_a-11164,trapsgewijs,0.0,0.1,0.7
+grandioos,d_a-96247,,0.2,0.9,0.7
+grandioos,r_a-11169,geweldig,0.9,1.0,1.0
+grappig,r_a-11170,leuk,0.6,1.0,1.0
+gratis,r_a-11171,voor niets,0.4,0.5,1.0
+gratuit,r_a-11172,vrijblijvend,-0.5,0.9,0.7
+grauw,r_a-11173,vaalgrijs,-0.1,0.2,0.7
+grauw,r_a-11174,"kleurloos, somber",-0.1,0.3,0.7
+gregoriaans,r_a-11175,(van kerkgezang) eenstemmig,0.2,0.5,0.7
+grenzeloos,r_a-11176,eindeloos,0.2,0.9,1.0
+gretig,r_a-11177,begerig,0.5,0.9,0.7
+grieperig,r_a-11490,met een beetje griep,-0.5,0.6,0.7
+griezelig,r_a-11178,eng,-0.8,1.0,1.0
+grif,r_a-11375,gretig en vlug,-0.2,0.6,0.7
+grijpgraag,r_a-11377,belust om te grijpen,-0.4,0.7,0.7
+grijs,d_a-97086,grijsharig,0.0,0.1,1.0
+grijs,r_a-11181,kleur van lood,-0.1,0.1,1.0
+grijsblauw,r_a-11491,grijsachtig blauw,0.0,0.1,0.7
+grillig,r_a-11179,onregelmatig van vorm,0.0,0.0,0.7
+grillig,r_a-11180,wispelturig,-0.3,0.6,0.7
+grimmig,r_a-11182,kwaadaardig,-0.5,0.9,0.7
+groen,r_a-11183,jong,-0.1,0.6,1.0
+groen,r_a-11184,milieuvriendelijk,0.4,0.6,1.0
+grof,r_a-11186,groot,0.0,0.5,1.0
+grof,r_a-11187,onbeschaafd,-0.8,1.0,1.0
+grof,r_a-11188,in ernstige mate,-0.2,0.6,1.0
+grofgebouwd,r_a-11494,met grove lichaamsbouw,0.1,0.9,0.7
+groggy,r_a-11189,slingerend,-0.4,0.6,0.7
+grondig,r_a-11191,degelijk,0.6,0.8,1.0
+groot,d_a-97981,van belang,0.6,0.9,1.0
+groot,r_a-11193,van flinke afmetingen,0.1,0.5,1.0
+groot,r_a-11194,voornaam,0.4,0.7,1.0
+grootmoedig,r_a-11195,onbaatzuchtig,0.4,0.8,0.7
+groots,r_a-11196,fantastisch,0.9,1.0,1.0
+grootschalig,r_a-11197,op grote schaal,0.3,0.6,0.7
+grootscheeps,r_a-11198,groots opgezet,0.2,0.5,0.7
+grootstedelijk,r_a-11380,typisch voor grote stad,0.0,0.0,0.7
+grotendeels,,,0.0,0.4,1.0
+grotesk,r_a-11199,wonderlijk en buitensporig,-0.7,0.9,0.7
+gruwel,r_n-15971,,-0.6,0.4,0.9
+gruwelijk,r_a-11200,afgrijselijk,-1.0,1.0,1.0
+gruwzaam,d_a-98316,,-0.9,1.0,0.7
+guitig,r_a-11201,ondeugend en grappig,0.4,0.9,0.7
+gul,r_a-11202,vrijgevig,0.4,0.9,0.7
+gunstig,r_a-11204,voordelig,0.4,0.6,0.7
+guur,r_a-11205,koud en winderig,-0.4,0.7,0.7
+gynaecologisch,r_a-11382,mbt. gynaecologie,0.1,0.1,0.7
+gênant,r_a-10957,beschamend,-0.6,0.9,1.0
+haarscherp,r_a-11592,heel scherp of duidelijk,0.4,0.9,1.0
+haastig,r_a-11593,in haast,-0.1,0.4,1.0
+hachelijk,r_a-11595,gevaarlijk,-0.5,1.0,0.7
+half,r_a-11596,voor de helft,-0.1,0.1,1.0
+halfautomatisch,r_a-11713,semi-automatisch,-0.1,0.4,0.7
+halfbakken,r_a-11597,gebrekkig,-0.6,0.9,0.7
+halfdood,r_a-11765,zowat dood,-0.4,0.6,0.7
+halfhartig,r_a-11714,niet van harte,-0.6,0.9,0.7
+halfleeg,r_a-11770,voor de helft leeg,-0.3,0.5,0.7
+halfnaakt,r_a-11773,halfbloot,0.1,0.1,0.7
+hallucinant,r_a-11780,betoverend,0.6,0.8,0.7
+hallucinant,r_a-17355,schokkend,-0.6,0.9,0.7
+halsstarrig,r_a-11602,koppig,-0.8,1.0,0.7
+halve,,,0.0,0.1,1.0
+handig,d_a-105100,gewiekst,0.4,0.9,1.0
+handig,r_a-11604,vaardig,0.6,0.9,1.0
+handig,r_a-11605,handzaam,0.6,0.8,1.0
+handtastelijk,r_a-11606,anderen ongewenst aanrakend,-0.3,0.9,0.7
+handzaam,r_a-11718,makkelijk in het gebruik,0.4,0.7,1.0
+hanig,r_a-11607,als (van) een haantje,-0.7,1.0,0.7
+happig,r_a-11608,tuk,0.5,0.9,0.7
+hard,c_545575,intens,0.1,0.9,0.7
+hard,r_a-11612,van karakter,0.0,0.9,1.0
+hard,r_a-11614,met fysieke kracht,0.1,0.7,1.0
+hard,r_a-11615,van kleur,-0.2,0.7,1.0
+hardhandig,r_a-11617,ruw,-0.6,0.9,0.7
+hardleers,r_a-11619,volhardend in dezelfde fout,-0.8,0.9,0.7
+hardnekkig,r_a-11620,koppig,-0.2,0.9,0.7
+hardvochtig,r_a-11621,wreed,-0.5,0.7,0.7
+hardwerkend,r_a-11720,ijverig,0.4,0.8,0.7
+harkerig,r_a-11622,houterig,-0.1,0.2,0.7
+harmonieus,r_a-11623,"goed passend, in harmonie",0.6,1.0,0.7
+harmonisch,r_a-11624,harmonieus,0.3,0.4,0.7
+hartelijk,r_a-11625,vriendelijk,0.7,1.0,1.0
+hartig,r_a-11791,pittig,0.7,0.9,0.7
+hartstochtelijk,d_a-106283,met intensiteit,0.3,0.9,0.7
+hartstochtelijk,r_a-11628,vurig,0.6,1.0,0.8
+hartveroverend,r_a-11629,allerliefst,0.2,0.9,0.7
+hartverscheurend,r_a-11630,hartbrekend,-0.2,1.0,1.0
+hartverwarmend,r_a-11631,weldadig,0.8,1.0,1.0
+hartvormig,r_a-11793,met de vorm van een hart,0.2,0.2,0.7
+hatelijk,r_a-11632,grievend,-0.5,0.9,0.7
+hatelijk,r_a-11834,verfoeilijk,-0.5,0.9,0.7
+hautain,r_a-11633,hooghartig,-0.9,1.0,1.0
+haveloos,r_a-11634,sjofel,-0.4,1.0,0.7
+hebberig,r_a-11635,hebzuchtig,-0.4,0.6,0.7
+hecht,r_a-11637,"solide, onverbrekelijk",0.4,0.8,1.0
+hectisch,r_a-11638,druk,-0.4,0.7,0.9
+hedendaags,r_a-11639,modern,0.2,0.5,1.0
+hedonistisch,r_a-11794,genotzuchtig,-0.3,0.8,0.7
+heel,r_a-11640,compleet,0.1,0.4,1.0
+heel,r_a-11641,niet kapot,0.2,0.4,1.0
+heel,r_a-11833,aanzienlijk,0.1,0.9,1.0
+heerlijk,r_a-11642,heel lekker smakend,0.9,1.0,1.0
+heerlijk,r_a-11643,heel prettig,0.9,1.0,1.0
+heerlijk,r_a-11835,v.d. heer,0.0,0.1,1.0
+hees,r_a-11724,schor,-0.3,0.6,0.9
+heet,r_a-16586,zeer warm,0.1,0.6,1.0
+heet,r_a-16588,van voedsel,-0.1,0.5,1.0
+heet,r_a-16589,van mensen,0.1,0.6,1.0
+heetgebakerd,r_a-16591,ongeduldig,-0.4,0.6,0.7
+heftig,r_a-16593,"hevig, erg",0.1,0.9,1.0
+heilig,r_a-16597,sacraal,0.2,0.6,1.0
+heilig,r_a-16599,fig.: onaantastbaar,-0.6,0.9,0.7
+heilloos,d_a-107367,,-0.6,0.8,0.7
+heimelijk,r_a-16602,stiekem,-0.4,0.7,0.7
+helblauw,r_a-11796,felblauw,0.0,0.1,0.7
+helder,d_a-107610,zonder wolken,0.1,0.1,1.0
+helder,r_a-16603,van vaste of vloeibare stoffen,0.0,0.0,1.0
+helder,r_a-16604,van licht en kleuren,0.1,0.3,1.0
+helder,r_a-16605,goed waarneembaar,0.3,0.6,1.0
+helder,r_a-16607,"van ideeën, formulering",0.6,0.9,1.0
+heldhaftig,r_a-16608,heroïsch,0.7,1.0,0.7
+hels,r_a-16609,als in de hel,0.0,0.7,0.7
+helwit,r_a-11801,hagelwit,0.0,0.3,0.7
+hemels,r_a-16611,van of uit de hemel,0.4,0.6,1.0
+hemels,r_a-16612,schitterend,0.9,1.0,1.0
+hemelsbreed,r_a-16613,zeer groot,0.2,0.7,0.7
+hemeltergend,r_a-11804,hoogst ergerlijk,-0.4,1.0,0.7
+herfstig,r_a-11807,herfstachtig,-0.4,0.6,0.7
+herhaald,r_a-11725,meerdere,0.0,0.6,0.7
+herkenbaar,r_a-11726,te herkennen,0.1,0.5,1.0
+hermetisch,r_a-16616,luchtdicht,0.0,0.5,0.7
+hersenloos,r_a-11808,dom,-0.7,1.0,0.7
+heteroseksueel,r_a-11645,gericht op het andere geslacht,0.4,0.6,0.7
+hetzelfde,d_a-409027,,0.0,0.3,1.0
+heuristisch,r_a-11730,volgens de heuristiek,0.0,0.9,0.7
+heus,r_a-11648,echt,0.1,0.6,1.0
+heuvelachtig,r_a-11731,vol heuvels,0.0,0.4,0.7
+heuvelig,r_a-11812,vol heuvels,0.0,0.1,0.7
+hevig,r_a-11649,sterk,0.2,0.7,1.0
+high,r_a-11732,onder invloed van drugs,0.0,0.3,0.7
+hightech,r_a-11651,technologisch hoogontwikkeld,0.0,0.1,0.7
+hilarisch,d_a-109727,,0.7,1.0,1.0
+hinderlijk,r_a-11652,lastig,-0.6,0.9,1.0
+hip,r_a-11653,modern,0.4,1.0,1.0
+historisch,r_a-11655,geschiedkundig,0.0,0.0,1.0
+hobbelig,r_a-11657,met veel hobbels,-0.3,0.6,0.7
+hologig,r_a-11816,met diepliggende ogen,-0.1,0.2,0.7
+homoseksueel,r_a-11666,seksueel gericht op zelfde geslacht,0.4,0.6,0.7
+honderdjarig,r_a-11736,van honderd jaar,0.1,0.2,0.7
+honds,r_a-11667,onbeschoft,-0.8,0.9,0.7
+hondsdol,r_a-11737,lijdend aan hondsdolheid,-0.3,0.8,1.0
+hongerig,r_a-11668,honger hebbend,0.5,1.0,0.7
+hoofdstedelijk,r_a-11738,van de hoofdstad,0.0,0.1,0.7
+hoofs,r_a-11673,hoffelijk,0.0,0.9,0.7
+hoog,r_a-11675,(tot) ver boven de grond,0.0,0.3,1.0
+hoog,r_a-11676,aanzienlijk,0.2,0.9,1.0
+hoog,r_a-11677,van geluid,0.0,0.4,1.0
+hoog,r_a-11678,ver in rang,0.2,0.6,1.0
+hoogbegaafd,r_a-11739,buitengewoon begaafd,0.2,0.2,0.7
+hoogbejaard,r_a-11740,heel bejaard,-0.1,0.4,0.7
+hoogblond,r_a-11679,lichtblond,0.0,0.1,0.7
+hoogdravend,r_a-11680,bombastisch,-0.6,1.0,1.0
+hooggeplaatst,r_a-11744,voornaam,0.6,1.0,0.7
+hooggespannen,r_a-11682,,-0.1,0.6,1.0
+hooghartig,r_a-11683,arrogant,-0.9,1.0,0.7
+hoogmoedig,r_a-11685,verwaand,-0.9,1.0,0.7
+hoognodig,r_a-11746,dringend nodig,0.3,0.9,0.7
+hoogstaand,r_a-11686,"verheven, goed",0.6,0.9,1.0
+hoogstwaarschijnlijk,r_a-11749,zeer waarschijnlijk,0.1,0.9,0.7
+hoogwaardig,r_a-11750,van hoog gehalte,0.6,0.9,0.7
+hoogwaardig,r_a-11839,eerbiedwaardig,0.6,0.9,0.7
+hoogzwanger,r_a-11821,vergevorderd zwanger,0.0,0.1,0.7
+hoopgevend,r_a-11688,hoopvol stemmend,0.6,0.8,0.7
+hoopvol,r_a-11689,vervuld van hoop,0.4,0.7,1.0
+hoopvol,r_a-11842,veelbelovend,0.6,0.9,1.0
+hoorbaar,r_a-11751,te horen,0.0,0.3,0.7
+hopeloos,r_a-11690,uitzichtloos,-0.6,1.0,1.0
+horizontaal,r_a-11692,evenwijdig aan de horizon,-0.3,0.7,0.7
+houterig,r_a-11696,"stijf, niet vloeiend",-0.4,0.7,1.0
+hovaardig,r_a-11824,hoogmoedig,-0.9,1.0,1.0
+huidig,r_a-11753,van nu,0.0,0.1,1.0
+huiselijk,r_a-11754,knus,0.5,0.9,1.0
+huiselijk,r_a-11844,graag thuis zijnde,0.4,0.6,1.0
+huiselijk,r_a-11846,"mbt. gezin, huishouden",0.0,0.1,1.0
+huishoudelijk,r_a-11848,mbt. dagelijkse aangelegenheden,0.6,0.9,0.7
+huiverig,r_a-11698,terugdeinzend,-0.5,0.7,1.0
+huiveringwekkend,r_a-11755,ijzingwekkend,-0.6,1.0,1.0
+hulpeloos,r_a-11700,machteloos,-0.5,0.9,0.7
+humaan,r_a-11702,menselijk,0.5,0.7,0.7
+humanistisch,r_a-11703,van het humanisme,0.0,0.4,0.7
+humeurig,r_a-11704,(gauw) uit zijn humeur,-0.4,0.7,0.7
+humoristisch,r_a-11705,geestig,0.6,1.0,1.0
+humorvol,,,0.7,1.0,1.0
+hups,r_a-11759,aardig,0.3,0.9,0.7
+huwbaar,r_a-11827,leeftijd hebbend om te trouwen,0.4,0.9,0.7
+hyperactief,r_a-11828,overactief,-0.5,0.6,0.7
+hypermodern,r_a-11762,supermodern,0.6,0.9,0.7
+hypnotisch,r_a-11708,mbt. hypnose,0.1,0.7,0.7
+hypocriet,r_a-11709,huichelachtig,-0.9,1.0,1.0
+hypothetisch,r_a-11710,speculatief,-0.3,0.5,0.7
+ideaal,r_a-11853,perfect,0.9,1.0,1.0
+idealistisch,r_a-11854,vol idealen,0.5,0.9,0.7
+ideëel,r_a-11856,uit idealisme,0.6,0.8,0.7
+idioot,r_a-11858,zwakzinnig,-0.8,1.0,0.8
+idioot,r_a-11859,belachelijk,-0.8,1.0,0.9
+idioten,,,-0.6,0.7,0.8
+idolaat,r_a-11860,gek van iemand of iets,0.3,0.8,0.7
+ijl,r_a-11867,dun,-0.1,0.4,0.7
+ijselijk,r_a-11868,verschrikkelijk,-0.9,1.0,0.7
+ijskoud,r_a-11869,heel koud,-0.5,0.6,1.0
+ijskoud,r_a-12046,ongevoelig,-0.9,1.0,1.0
+ijsvrij,r_a-11968,vrij van ijs,0.4,0.6,0.7
+ijzersterk,r_a-11872,heel sterk,0.9,0.9,1.0
+ijzersterk,r_a-11873,erg goed,1.0,1.0,1.0
+ijzig,r_a-11874,heel koud,-0.4,0.7,1.0
+ijzig,r_a-11875,zonder emotie,-0.6,0.9,1.0
+ijzig,r_a-12049,bedekt met ijs,-0.1,0.1,1.0
+ijzingwekkend,r_a-11876,griezelig,-0.7,0.9,0.7
+illegaal,r_a-11877,onwettig,-0.6,0.8,0.7
+illusoir,r_a-11969,denkbeeldig,-0.1,0.3,0.7
+illuster,r_a-11878,beroemd,0.7,0.9,0.7
+illustratief,r_a-11879,verduidelijkend,0.4,0.9,0.7
+immens,r_a-11883,enorm,0.2,0.9,1.0
+immoreel,r_a-11884,in strijd met morele principes,-0.6,0.9,0.7
+immunologisch,r_a-11971,de immunologie betreffend,0.0,0.1,0.7
+imperialistisch,r_a-11886,het imperialisme betreffend,-0.3,0.7,0.7
+impertinent,r_a-11887,brutaal,-0.5,0.9,0.7
+impliciet,r_a-11888,niet expliciet,0.1,0.7,0.7
+impopulair,r_a-11972,niet populair,-0.4,0.7,0.7
+imposant,r_a-11889,indrukwekkend,0.6,1.0,1.0
+impressief,d_a-119631,,0.6,1.0,0.7
+impressionistisch,r_a-11973,zoals bij het impressionisme,0.0,0.2,0.7
+improductief,r_a-11974,niet productief,-0.2,0.4,0.7
+impulsief,r_a-11891,geneigd impulsen te volgen,0.0,0.9,0.7
+incidenteel,r_a-11894,niet frequent,0.1,0.7,0.7
+inclusief,,,0.0,0.2,1.0
+incoherent,r_a-11975,onsamenhangend,-0.5,0.8,0.9
+inconsequent,r_a-11978,niet consequent,-0.8,0.9,0.7
+incorrect,r_a-12058,ongepast,-0.5,0.9,0.7
+indirect,r_a-11896,niet direct,0.0,0.1,1.0
+indiscreet,r_a-12022,"onbescheiden, onkies",-0.2,0.9,0.7
+indringend,r_a-11900,een diepe indruk achterlatend,0.5,1.0,1.0
+indrukwekkend,r_a-11901,imponerend,0.6,1.0,1.0
+industrieel,r_a-11902,industrie betreffend,0.4,0.7,0.7
+ineffectief,r_a-11980,niet effectief,-0.5,0.9,0.7
+infantiel,r_a-11905,erg kinderachtig,-0.7,1.0,0.7
+inferieur,r_a-11906,minderwaardig,-0.8,0.9,0.7
+inflatoir,r_a-11982,leidend tot inflatie,-0.2,0.3,0.7
+informatief,r_a-11907,informatie bevattend,0.3,0.4,1.0
+infrastructureel,r_a-11983,de infrastructuur betreffend,0.6,0.9,0.7
+ingeboren,r_a-12025,aangeboren,0.0,0.1,0.7
+ingenieus,r_a-11916,vernuftig,0.7,0.9,1.0
+ingetogen,r_a-11920,niet uitbundig,0.1,0.9,1.0
+ingevroren,r_a-12030,bevroren ter conservering,-0.2,0.4,0.7
+ingewikkeld,r_a-11922,niet eenvoudig,-0.3,0.8,1.0
+ingrijpend,r_a-11923,van grote invloed,0.1,0.9,1.0
+inhoudelijk,r_a-11927,de inhoud betreffend,0.0,0.0,1.0
+inktzwart,r_a-11990,heel zwart,-0.1,0.3,0.7
+innerlijk,r_a-11931,van binnen,0.0,0.3,1.0
+innig,r_a-11932,diep in je hart,0.4,0.8,0.7
+innig,r_a-11933,warm,0.3,0.8,0.7
+insolvent,r_a-12035,onvoldoende geld bezittend,-0.1,0.3,0.7
+inspannend,r_a-12036,erg vermoeiend,-0.3,0.8,0.7
+inspirerend,r_a-12037,inspiratie gevend,0.5,0.9,0.7
+instemmend,r_a-11994,van instemming getuigend,0.1,0.8,0.7
+instinctief,r_a-11935,gevoelsmatig,0.0,0.6,0.7
+instinctmatig,r_a-12039,instinctief,0.3,0.8,0.7
+instructief,r_a-11936,leerzaam,0.6,0.8,0.9
+instrumentaal,r_a-12071,met muziekinstrumenten,0.1,0.6,0.7
+instrumenteel,r_a-11996,als instrument dienend,0.6,0.9,0.7
+integer,r_a-11938,onkreukbaar,0.5,0.8,1.0
+intellectueel,r_a-11940,verstandelijk,0.3,0.4,1.0
+intelligent,r_a-11941,schrander,0.8,0.9,1.0
+intens,r_a-11942,hevig,0.4,0.9,1.0
+interessant,r_a-11946,interesse wekkend,0.7,0.9,1.0
+interessant,r_a-12075,financieel aantrekkelijk,0.6,0.9,1.0
+intergemeentelijk,r_a-12000,tussen gemeenten,0.0,0.1,0.7
+internationaal,r_a-11949,verschillende landen betreffend,0.0,0.1,1.0
+intiem,r_a-11950,erg persoonlijk,0.2,0.8,1.0
+intiem,r_a-11951,erg vertrouwelijk,0.3,0.8,1.0
+intiem,r_a-12079,seksualiteit betreffend,0.4,0.6,1.0
+intolerant,r_a-11952,onverdraagzaam,-0.8,1.0,0.7
+intrigerend,d_a-412260,,0.6,0.9,1.0
+intrinsiek,r_a-12008,eigen aan iets,0.2,0.6,0.7
+invalide,r_a-11956,gehandicapt,-0.1,0.4,0.7
+inventief,r_a-11957,vindingrijk,0.5,0.8,1.0
+invloedrijk,r_a-11958,invloed hebbend,0.8,1.0,0.7
+inzichtelijk,r_a-11961,helder,0.4,0.7,1.0
+ironisch,r_a-11962,met ironie,0.2,0.9,1.0
+irrationeel,r_a-12011,niet rationeel,-0.6,0.8,0.7
+irrelevant,r_a-12013,niet relevant,-0.3,0.9,0.7
+irreëel,r_a-12083,onrealistisch,-0.4,0.8,0.8
+irritant,r_a-11963,ergerlijk,-0.7,1.0,1.0
+irritatie,r_n-18289,,-0.4,0.3,0.9
+jachtig,r_a-12085,gejaagd,0.2,0.8,0.7
+jaloers,r_a-12086,afgunstig,-0.6,1.0,1.0
+jammer,r_a-12087,spijtig,-0.5,0.9,1.0
+jammerlijk,r_a-12088,spijtig,-0.5,1.0,0.7
+jarenlang,r_a-12278,gedurende zeer lange tijd,0.0,0.4,1.0
+jarig,r_a-12089,gezegd van iemand op geboortedag,0.1,0.2,1.0
+jazzy,r_a-12343,op jazz lijkend,0.1,0.4,0.7
+jemig,,,0.3,0.9,1.0
+jeugdig,r_a-12090,jong of jong lijkend,0.4,0.8,1.0
+jolig,r_a-12092,uitgelaten,-0.4,1.0,0.9
+jong,r_a-12093,van leeftijd,0.1,0.4,1.0
+jong,r_a-12094,kort bestaand,0.1,0.4,1.0
+jonggestorven,r_a-12346,vroeg gestorven,-0.1,0.2,0.7
+journalistiek,r_a-12281,betreffende het werk van journalisten,0.1,0.1,0.7
+juist,r_a-12098,meest geschikt,0.5,0.7,1.0
+juridisch,r_a-12100,rechtskundig,0.0,0.0,1.0
+justitieel,r_a-12101,gerechtelijk,0.0,0.0,0.7
+juweeltje,,,0.6,0.8,0.9
+kaarsrecht,r_a-12558,helemaal recht,0.1,0.3,0.7
+kaduuk,r_a-12392,stuk,-0.4,0.6,0.7
+kakelvers,r_a-12613,kersvers,0.2,0.4,0.7
+kalm,r_a-12394,rustig,0.4,0.9,0.9
+kankerverwekkend,r_a-12561,carcinogeen,-0.6,0.9,0.7
+kansarm,r_a-12396,met weinig kansen om vooruit te komen,-0.1,0.1,0.7
+kansloos,r_a-12562,zonder kans,-0.4,0.7,1.0
+kansrijk,r_a-12563,met veel kans van slagen,0.3,0.8,0.7
+kant-en-klaar,r_a-12397,klaar voor gebruik,0.6,0.6,0.7
+kapot,r_a-12401,stuk,-0.4,0.4,1.0
+kapot,r_a-12402,erg onder de indruk,-0.3,1.0,1.0
+kardinaal,r_a-12404,belangrijkste,0.1,0.4,0.7
+karig,r_a-12405,niet royaal,-0.3,0.4,0.7
+karikaturaal,r_a-12617,als (van) een karikatuur,-0.3,0.7,0.7
+katholiek,r_a-12406,rooms,0.0,0.1,1.0
+katholiek,r_a-12686,goed,0.2,0.8,1.0
+katoenen,r_a-12566,van katoen,0.0,0.0,0.7
+katterig,r_a-12407,niet lekker,0.0,1.0,0.7
+keigoed,r_a-12619,steengoed,1.0,1.0,0.8
+keihard,r_a-12567,heel hard,0.1,0.7,1.0
+keiig,d_a-132455,,0.7,0.9,0.7
+kenmerkend,r_a-12413,typerend,0.0,0.1,0.7
+kennelijk,r_a-12568,klaarblijkelijk,0.0,0.6,1.0
+kerks,r_a-12416,vaak naar de kerk gaand,0.0,0.4,0.7
+kerngezond,r_a-12570,helemaal gezond,0.6,0.7,0.7
+kernwapenvrij,r_a-12571,vrij van kernwapens,0.4,0.6,0.7
+ketters,r_a-12573,(als) van een ketter,-0.6,0.9,0.7
+keurig,r_a-12418,netjes,0.4,0.9,1.0
+kien,d_a-133980,,0.8,0.9,0.7
+kies,r_a-12420,tactvol,0.0,0.9,0.7
+kiesgerechtigd,r_a-12622,kiesrecht hebbend,0.1,0.3,0.7
+kil,r_a-12422,akelig koud,-0.6,0.9,1.0
+kil,r_a-12423,niet hartelijk,-0.6,1.0,1.0
+kilometerslang,r_a-12574,heel lang,-0.1,0.5,0.7
+kinderachtig,r_a-12424,voor kleine kinderen,-0.1,0.6,1.0
+kinderachtig,r_a-12425,kleinzielig,-0.7,1.0,1.0
+kinderlijk,r_a-12426,"als, van een kind",-0.2,0.8,1.0
+kinderloos,r_a-12575,zonder kinderen,-0.5,0.6,0.7
+kinds,r_a-12427,dement,-0.1,0.2,0.7
+kiplekker,r_a-12428,fit,0.3,0.6,0.7
+klaaglijk,r_a-12432,klagend,-0.7,1.0,0.7
+klaar,r_a-12433,gereed,0.2,0.5,1.0
+klaar,r_a-12434,duidelijk,0.5,0.7,1.0
+klaar,r_a-12435,helder,0.4,0.6,1.0
+klaarblijkelijk,r_a-12436,evident,0.0,0.6,1.0
+klaarlicht,r_a-12437,geheel licht,0.5,0.6,0.7
+klagen,c_545792,,-0.3,0.1,0.8
+klagerig,r_a-12439,zeurderig,-0.4,1.0,0.7
+klagerig,r_a-12691,veel klagend,-0.4,0.9,0.7
+klam,r_a-12440,vochtig aanvoelend,-0.1,0.4,0.7
+klassiek,r_a-12441,antiek,0.1,0.6,1.0
+klassiek,r_a-12442,traditioneel,-0.1,0.9,1.0
+klef,r_a-12445,kleverig en vochtig,-0.6,1.0,0.7
+klein,r_a-12446,van karakter,-0.5,0.9,1.0
+klein,r_a-12447,jong,0.1,0.4,1.0
+kleinburgerlijk,r_a-12448,bekrompen,-0.6,0.7,0.7
+kleinzerig,r_a-12452,al bang voor een beetje pijn,-0.6,0.9,0.7
+kleinzielig,r_a-12453,kinderachtig,-0.7,1.0,0.9
+klemmend,r_a-12455,dringend,-0.4,0.9,0.7
+kleurig,r_a-12458,bont,-0.1,0.3,0.7
+kleurloos,r_a-12459,"zonder kleur, saai",-0.5,0.7,0.7
+kleurrijk,r_a-12580,bont,0.6,0.9,1.0
+kleverig,r_a-12460,plakkerig,-0.4,0.5,0.9
+klierig,r_a-12631,vervelend,0.0,0.9,0.7
+klimatologisch,r_a-12581,mbt. het klimaat,-0.5,0.8,0.7
+klinisch,r_a-12461,mbt. een kliniek,0.1,0.1,0.7
+klinisch,r_a-12674,mbt. ziekteverschijnselen,0.1,0.1,0.7
+klinkklaar,r_a-12462,puur,0.4,0.7,0.8
+kloek,r_a-12463,flink,-0.5,0.6,0.7
+kloek,r_a-12464,fors,0.1,0.4,0.7
+kloosterlijk,r_a-12633,"klooster-, kloosterachtig",0.0,0.3,0.7
+kloot,r_n-19887,,-0.2,0.4,0.8
+klote,r_a-12634,rot,-0.5,1.0,0.7
+kloten,r_v-3969,,-0.2,0.4,0.8
+klucht,r_n-19899,,-0.6,0.8,0.8
+kluchtig,r_a-12465,potsierlijk,0.3,1.0,0.7
+klungelig,r_a-12635,onhandig,-0.6,1.0,0.8
+knap,r_a-12466,intelligent,0.8,1.0,1.0
+knap,r_a-12467,mooi om te zien,0.7,1.0,1.0
+knap,r_a-12694,goed,0.6,0.9,1.0
+knap,r_a-12695,beduidend,0.2,0.7,1.0
+knap,r_a-12696,"goed, mooi",0.7,1.0,1.0
+knapperig,r_a-12468,krokant,0.1,0.5,0.7
+knobbelig,r_a-12583,vol knobbels,0.0,0.1,0.7
+knoeierig,d_a-138213,,-0.5,0.9,0.7
+knokig,r_a-12473,benig,-0.2,0.4,0.7
+knullig,r_a-12474,onbeholpen,-0.6,0.9,1.0
+knus,r_a-12475,gezellig,0.8,1.0,0.7
+koddig,r_a-12476,grappig,0.5,0.9,0.7
+koel,r_a-12477,fris,-0.6,0.9,0.7
+koel,r_a-12478,niet hartelijk,-0.6,1.0,1.0
+koel,r_a-12699,koelbloedig,-0.6,0.9,0.7
+koeltjes,d_a-138856,,-0.6,1.0,0.7
+kogelrond,r_a-12481,heel rond,0.0,0.2,0.7
+kogelvrij,r_a-12482,bestand tegen kogels,0.1,0.1,0.7
+kokendheet,r_a-12642,gloeiend heet,0.0,0.8,0.7
+koket,r_a-12483,behaagziek,0.1,0.9,0.7
+koket,r_a-12676,elegant,0.6,0.9,0.7
+kolderiek,r_a-12484,dwaas,-0.8,1.0,0.9
+koloniaal,r_a-12586,mbt. kolonie(s),-0.5,0.8,0.7
+kolossaal,r_a-12485,enorm,0.2,0.9,1.0
+komend,r_a-12587,toekomstig,0.0,0.1,0.7
+komisch,r_a-12487,grappig,0.8,1.0,1.0
+kommerlijk,d_a-140000,,-0.7,1.0,0.7
+kommervol,d_a-140008,,-0.7,1.0,0.7
+kooplustig,r_a-12649,koopgraag,0.1,0.2,0.7
+koortsachtig,r_a-12491,gejaagd,-0.1,0.4,0.7
+koortsig,r_a-12492,mbt. koorts,-0.2,0.3,0.7
+kopen,r_v-4101,,0.1,0.0,0.9
+kort,r_a-12498,lengte en afstand,0.0,0.3,1.0
+kortaangebonden,r_a-12653,kortaf,-0.4,0.8,0.7
+kortdurend,r_a-12591,kortstondig,0.1,0.6,0.7
+kortzichtig,r_a-12501,"niet vooruitziend, niet ruimdenkend",-0.7,1.0,1.0
+kostbaar,r_a-12504,duur,0.1,0.7,1.0
+kostbaar,r_a-12505,waardevol,0.7,0.9,1.0
+kostelijk,r_a-12506,uitstekend,0.9,1.0,1.0
+kostenbesparend,r_a-12595,wat kosten bespaart,-0.3,0.7,0.7
+koud,d_a-141757,van kleuren,-0.2,0.4,1.0
+koud,r_a-12507,kil,-0.4,0.9,1.0
+koud,r_a-12508,afstandelijk,-0.6,0.9,1.0
+kouwelijk,r_a-12678,gevoelig voor kou,-0.2,0.4,0.7
+kraakhelder,r_a-12597,heel helder,0.3,0.6,0.7
+krachtdadig,r_a-12511,energiek,0.6,0.8,0.7
+krachtig,c_546209,intensifier,0.1,0.9,0.7
+krachtig,d_a-142225,mentaal sterk,0.7,1.0,1.0
+krachtig,r_a-12512,fysiek sterk,0.6,0.9,1.0
+krakkemikkig,r_a-12513,gammel,-0.5,0.8,0.7
+krampachtig,r_a-12514,spastisch,-0.5,0.9,0.7
+krampachtig,r_a-12679,met grote inspanning,-0.6,1.0,0.7
+krankjorum,r_a-12516,krankzinnig,0.9,1.0,0.7
+krankzinnig,r_a-12517,geestesziek,-0.6,0.6,1.0
+krankzinnig,r_a-12518,idioot,-0.8,1.0,1.0
+krap,r_a-12519,nauw,-0.2,0.6,0.7
+krap,r_a-12701,zonder speelruimte,-0.1,0.6,0.7
+kras,r_a-12520,vitaal,0.2,0.7,0.7
+kras,r_a-12521,krachtig,0.4,0.8,0.7
+kras,r_a-12522,moeilijk te geloven,0.3,0.9,0.7
+kregelig,r_a-12524,kregel,-0.5,0.7,0.7
+krengerig,r_a-12660,gemeen,-0.3,0.4,0.7
+kreupel,r_a-12526,mank,-0.4,0.8,0.7
+kreupel,r_a-12680,gebrekkig,-0.4,0.8,0.7
+kribbig,r_a-12527,geïrriteerd,-0.4,1.0,0.7
+kriebelig,r_a-12662,geprikkeld,0.5,1.0,0.7
+kriebelig,r_a-12681,klein geschreven,-0.1,1.0,0.7
+krijgshaftig,r_a-12529,moedig,0.3,0.9,0.7
+kristalhelder,r_a-12600,heel helder,0.5,0.6,0.7
+kritisch,r_a-12531,met veel kritiek,-0.2,0.9,1.0
+kritisch,r_a-12532,grondig onderzoekend,0.2,0.7,1.0
+krokant,r_a-12533,knapperig,0.1,0.5,0.7
+krom,r_a-12535,niet volgens een rechte lijn,0.0,0.1,1.0
+krom,r_a-12702,verkeerd,-0.5,0.9,1.0
+kronkelig,r_a-12604,vol kronkels,-0.2,0.4,0.7
+kroostrijk,r_a-12667,met veel kinderen,0.1,0.1,0.7
+krukkig,r_a-12541,onhandig,-0.1,0.6,0.7
+kubistisch,r_a-12606,mbt. kubisme,0.0,0.1,0.7
+kunsthistorisch,r_a-12607,mbt. de kunstgeschiedenis,0.0,0.0,0.7
+kunstig,r_a-12545,ingenieus,0.6,1.0,1.0
+kunstminnend,r_a-12670,kunstlievend,0.5,0.9,0.7
+kurkdroog,r_a-12608,heel droog,0.0,0.1,0.7
+kwaad,r_a-12609,boos,-0.6,0.7,1.0
+kwaad,r_a-12703,boosaardig,-0.7,0.9,1.0
+kwaadaardig,r_a-12549,gemeen,-0.6,1.0,0.7
+kwalijk,r_a-12551,niet gewenst,-0.6,1.0,1.0
+kwalijk,r_a-12552,ongunstig,-0.6,0.9,1.0
+kwalitatief,r_a-12553,mbt. de kwaliteit,0.4,0.8,0.7
+kwestieus,d_a-145817,,-0.4,0.9,0.7
+kwetsbaar,r_a-12555,teer,-0.1,0.8,1.0
+kwiek,r_a-12556,levendig,0.6,0.7,0.7
+kwijt,r_a-12557,weg,-0.4,0.7,1.0
+kwistig,r_a-16624,niet zuinig,-0.1,0.5,0.7
+laag,r_a-12102,dicht bij grond,0.0,0.3,1.0
+laag,r_a-12103,met een kleine waarde,-0.3,0.4,1.0
+laag,r_a-12104,van geluid,0.0,0.3,1.0
+laag,r_a-12105,laaggeplaatst,-0.2,0.4,1.0
+laag,r_a-12106,gemeen,-0.7,1.0,1.0
+laag-bij-de-gronds,r_a-12107,platvloers,-0.6,0.8,0.7
+laaghartig,r_a-12108,gemeen,-0.9,1.0,0.7
+laaiend,r_a-12109,hoog opschietend,0.2,0.6,1.0
+laakbaar,r_a-12110,afkeurenswaardig,-0.6,0.9,0.7
+laat,c_545369,verder in de tijd,-0.3,0.6,1.0
+laatdunkend,r_a-12112,minachtend,-0.3,0.8,0.7
+laatst,r_a-12113,waar niets of niemand op volgt,-0.1,0.2,1.0
+laatst,r_a-12114,kortst geleden,0.0,0.2,1.0
+labiel,r_a-12116,wankel,-0.5,0.8,0.8
+lachwekkend,r_a-12289,de lachlust opwekkend,0.2,1.0,1.0
+laconiek,r_a-12117,doodkalm,-0.1,0.8,0.7
+ladderzat,r_a-12349,stomdronken,-0.7,1.0,0.7
+laf,r_a-12119,zonder moed,-0.7,0.9,0.7
+lafhartig,r_a-12123,laf,-1.0,1.0,0.7
+laks,r_a-12124,gemakzuchtig,-0.2,0.9,0.7
+lam,r_a-12125,verlamd,-0.2,0.4,0.7
+lamentabel,r_a-12291,erbarmelijk,-0.7,1.0,0.7
+landbouwkundig,r_a-12292,agronomisch,0.0,0.0,0.7
+lang,r_a-12130,met grote lengte,0.0,0.6,1.0
+lang,r_a-12132,een hele tijd durend,-0.2,0.6,1.0
+langdradig,r_a-12133,wijdlopig,-0.6,0.9,1.0
+langdurig,r_a-12134,een hele tijd durend,-0.1,0.6,1.0
+langer,,,0.0,0.1,1.0
+langlevend,r_a-12295,met een lang leven,-0.1,0.6,0.7
+langlopend,r_a-12296,lange tijd durend,0.1,0.4,0.7
+langzaam,r_a-12138,traag,-0.4,0.7,1.0
+lankmoedig,r_a-12139,tolerant,0.6,0.7,0.7
+larmoyant,r_a-12140,huilerig,-0.3,0.9,0.7
+last,r_n-21468,,-0.1,0.0,0.8
+lasterlijk,r_a-12351,beschuldigend zonder bewijs,-0.6,0.9,0.7
+lastig,r_a-12141,"vervelend, hinderlijk",-0.9,1.0,1.0
+lastig,r_a-12142,moeilijk,-0.6,0.9,1.0
+latent,r_a-12143,verborgen blijvend,-0.1,0.4,0.7
+later,r_a-12299,volgend op iets in tijd,0.0,0.1,1.0
+lauw,r_a-12145,een beetje warm,0.5,0.6,0.7
+lauw,r_a-12146,niet erg enthousiast,-0.4,0.9,0.7
+laveloos,r_a-12147,stomdronken,-0.4,0.8,0.7
+leed,r_a-12302,spijtig,-0.5,0.9,0.7
+leefbaar,r_a-12150,geschikt om te leven,0.4,0.6,0.7
+leeg,d_a-154396,nietszeggend,-0.6,0.8,1.0
+leeg,d_a-154397,opgebrand,-0.4,0.7,1.0
+leeg,r_a-12152,zonder inhoud,-0.4,0.6,1.0
+leerplichtig,r_a-12156,verplicht om naar school te gaan,0.4,0.8,0.7
+leerzaam,r_a-12157,instructief,0.6,0.8,1.0
+leesbaar,d_a-154844,begrijpelijk,0.3,0.7,1.0
+leesbaar,r_a-12158,goed of duidelijk te lezen,0.2,0.6,1.0
+legendarisch,r_a-12161,als in legende,0.7,0.9,1.0
+legio,r_a-12162,talrijk,0.0,0.3,0.7
+legitiem,r_a-12163,gebaseerd op wet,0.1,0.9,0.7
+leidinggevend,r_a-12303,belast met leiding,0.6,0.8,0.7
+leien,r_a-12304,van lei,0.0,0.2,0.7
+lekker,r_a-12166,van smaak,0.6,1.0,1.0
+lekker,r_a-12167,van geur,0.6,1.0,1.0
+lelijk,r_a-12169,niet mooi,-0.7,1.0,1.0
+lelijk,r_a-12170,"ongunstig, slecht",-0.6,0.9,1.0
+lelijk,r_a-12171,gemeen,-0.7,1.0,1.0
+letterlijk,r_a-12174,exact,0.1,0.4,1.0
+leugenaar,r_n-21907,,-0.4,0.4,0.7
+leugenaars,,,-0.5,0.5,0.7
+leugenachtig,r_a-12310,gelogen of onbetrouwbaar,-0.6,0.8,0.7
+leuk,r_a-12311,grappig,0.6,1.0,1.0
+leuk,r_a-12380,met een positieve waardering,0.6,0.9,1.0
+leuk,r_a-12381,van uiterlijk,0.6,1.0,1.0
+levendig,r_a-12175,niet saai,0.8,1.0,1.0
+levendig,r_a-12176,duidelijk,0.4,0.9,1.0
+levenloos,r_a-12313,zonder leven,-0.3,0.5,0.7
+levenloos,r_a-12382,saai,-0.4,0.8,0.7
+levensecht,r_a-12177,lijkend op werkelijkheid,0.3,0.6,1.0
+levensgevaarlijk,r_a-12178,bijzonder gevaarlijk,-0.6,0.9,0.7
+levensgroot,r_a-12315,zo groot als in het echt,0.0,0.3,0.7
+levenslang,r_a-12179,heel lang,-0.1,0.6,1.0
+levenslustig,r_a-12180,opgewekt,0.7,1.0,0.7
+leverbaar,r_a-12316,geschikt of beschikbaar voor levering,0.0,0.0,0.7
+lexicografisch,r_a-12318,met betrekking tot lexicografie,-0.1,0.3,0.7
+lezenswaardig,r_a-12319,de moeite om te lezen,0.5,0.8,1.0
+liberaal,r_a-12184,met bep. politieke ideeën,0.0,0.0,0.7
+lichamelijk,r_a-12185,fysiek,0.0,0.1,1.0
+licht,r_a-12186,niet zwaar,0.1,0.5,1.0
+licht,r_a-12187,waar veel licht is,0.1,0.6,1.0
+licht,r_a-12189,niet ernstig,0.3,0.9,1.0
+licht,r_a-12190,gemakkelijk,0.4,0.9,1.0
+lichtblauw,r_a-12321,helder blauw,-0.1,0.3,0.7
+lichtblond,r_a-12356,een lichte nuance van blond,0.0,0.1,0.7
+lichtelijk,,,0.0,0.5,1.0
+lichtend,r_a-12191,lichtgevend,0.0,0.9,0.7
+lichtgeel,r_a-12358,geel in lichte tint,0.1,0.5,0.7
+lichtgeraakt,r_a-12193,snel boos of beledigd,-0.4,0.6,0.7
+lichtgevend,r_a-12323,wat licht geeft,0.2,0.5,0.7
+lichtgrijs,r_a-12359,grijs in lichte tint,0.0,0.4,0.7
+lichtvoetig,r_a-12195,speels,0.2,0.9,1.0
+lichtzinnig,r_a-12196,zonder goed na te denken,-0.5,0.9,0.7
+lief,r_a-12198,aardig voor anderen,0.6,0.9,1.0
+lief,r_a-12199,leuk om te zien,0.6,1.0,1.0
+lief,r_a-12200,dierbaar,0.7,1.0,1.0
+liefdadig,r_a-12201,charitatief,0.5,0.6,0.7
+liefdeloos,r_a-12202,zonder liefde,-0.6,0.9,0.7
+liefdevol,r_a-12204,vol liefde,0.6,1.0,1.0
+lieflijk,r_a-12206,,0.4,0.6,0.7
+liefst,,JJ,0.4,0.7,1.0
+liegen,c_545908,VB,-0.1,0.2,0.8
+lijfelijk,r_a-12212,lichamelijk,0.0,0.4,0.7
+lijvig,d_a-158536,van vloeistof,0.1,0.2,1.0
+lijvig,r_a-12215,dik,-0.5,0.9,1.0
+lila,r_a-12217,lichtpaars,-0.1,0.3,0.7
+link,r_a-12219,gevaarlijk,-0.1,0.9,0.7
+links,r_a-12222,aan de linker kant,0.0,0.0,1.0
+links,r_a-12223,progressief,0.0,0.6,1.0
+links,r_a-12224,onhandig,-0.5,0.9,1.0
+links-radicaal,r_a-12330,extreem links,-0.4,0.5,0.7
+linnen,r_a-12332,van linnen,0.0,0.0,0.7
+listig,r_a-12226,sluw,-0.6,0.8,0.7
+literair,r_a-12227,met literatuur te maken hebbend,0.1,0.1,1.0
+lodderig,r_a-12230,slaperig,-0.5,0.9,0.7
+loeihard,r_a-12368,zeer hard,-0.4,0.8,0.7
+logisch,r_a-12234,juist beredeneerd,0.3,0.6,1.0
+logistiek,r_a-12335,logistiek betreffend,0.1,0.2,0.7
+lokaal,r_a-12235,plaatselijk,0.0,0.0,1.0
+lollig,r_a-12236,lollig,0.6,0.9,0.7
+lomp,r_a-12238,plomp,-0.6,1.0,1.0
+lomp,r_a-12239,onbeschaafd,-0.9,0.9,1.0
+loodgrijs,r_a-12240,blauwig grijs,-0.1,0.1,0.7
+loodrecht,r_a-12241,in een hoek van negentig graden,0.1,0.2,0.7
+loodzwaar,r_a-12338,heel zwaar,-0.3,0.7,0.7
+loom,r_a-12242,een beetje moe en traag,-0.3,0.6,0.7
+loos,r_a-12244,niet echt,-0.5,0.9,0.7
+loos,r_a-12245,ondeugend,0.7,1.0,0.7
+los,r_a-12246,niet vast,0.1,0.2,1.0
+los,r_a-12247,afzonderlijk,0.0,0.1,1.0
+los,r_a-12248,"niet stijf, strak of gespannen",0.3,0.7,1.0
+losers,,,-0.7,0.6,0.8
+losliggend,r_a-12372,los,0.0,0.1,0.8
+louter,r_a-12340,enkel en alleen,0.0,0.2,1.0
+loyaal,r_a-12253,trouw,0.7,0.9,1.0
+luchtdicht,r_a-12254,hermetisch,-0.1,0.1,0.7
+luchthartig,r_a-12255,zorgeloos,0.4,0.9,0.9
+luchtig,r_a-12256,lichtverteerbaar,0.4,1.0,1.0
+luchtig,r_a-12257,van kleding: dun en koel,0.1,0.7,1.0
+luchtig,r_a-12258,luchthartig,0.4,0.9,1.0
+lucratief,r_a-12261,winstgevend,-0.1,0.6,0.7
+ludiek,r_a-12262,vrolijk en speels,0.2,0.3,0.7
+luguber,r_a-12263,huiveringwekkend,-0.8,1.0,1.0
+lui,r_a-12264,initiatiefloos,-0.7,0.9,1.0
+luid,r_a-12265,hard en helder,0.1,0.8,1.0
+lullig,r_a-12268,vervelend,-0.6,0.9,0.7
+lumineus,r_a-12269,geniaal,0.8,0.9,0.9
+luthers,r_a-12272,behorend tot de kerk van Luther,0.0,0.1,0.7
+luttel,r_a-12273,weinig,-0.1,0.4,0.7
+lux,d_a-538325,,0.6,0.9,0.7
+luxe,r_a-12274,weelderig,0.6,0.9,1.0
+luxueus,r_a-12275,weelderig,0.6,0.9,1.0
+lyrisch,r_a-12276,tot de lyriek behorend,0.1,0.3,1.0
+lyrisch,r_a-12277,uitbundig,0.4,1.0,1.0
+maandenlang,r_a-12708,gedurende vele maanden,0.0,0.5,0.7
+maatschappelijk,r_a-12711,mbt. de maatschappij,0.0,0.0,1.0
+maatschappelijk,r_a-12988,mbt. sociale problemen,0.0,0.1,1.0
+maatschappijkritisch,r_a-12712,met sociale kritiek,0.2,0.4,0.7
+macaber,r_a-12713,luguber,-0.7,1.0,0.7
+machiavellistisch,r_a-12714,mbt. het machiavellisme,-0.9,1.0,0.7
+macho,r_a-12716,stoer,-0.2,0.7,0.7
+machteloos,r_a-12717,onmachtig,-0.5,0.9,1.0
+machtig,r_a-12718,invloedrijk,0.4,0.9,1.0
+machtig,r_a-12719,zwaar,-0.1,0.6,1.0
+machtig,r_a-12720,geweldig,0.9,1.0,1.0
+macrobiotisch,r_a-12722,mbt. macrobiotiek,0.6,0.8,0.7
+maf,r_a-12723,gek,0.1,1.0,1.0
+mager,r_a-12724,schriel,-0.5,0.8,1.0
+mager,r_a-12991,arm aan vet,0.2,0.4,1.0
+mager,r_a-12992,weinig,-0.6,1.0,1.0
+magisch,d_a-526449,,0.7,1.0,0.7
+magisch,r_a-12725,bovennatuurlijk,0.4,0.9,1.0
+magistraal,r_a-12726,meesterlijk,0.9,1.0,1.0
+magnifiek,r_a-12728,schitterend,0.9,1.0,1.0
+makkelijk,r_a-12732,niet moeilijk,0.6,0.9,1.0
+makkelijk,r_a-12733,comfortabel,0.9,1.0,1.0
+mal,r_a-12734,dwaas,-0.2,1.0,0.7
+malafide,r_a-12735,niet bonafide,-0.7,0.9,0.7
+manhaftig,r_a-12738,koen,0.7,1.0,0.7
+manisch-depressief,r_a-12742,psychotisch,-0.2,0.2,0.7
+mank,r_a-12743,kreupel,-0.4,0.4,1.0
+manmoedig,r_a-12745,koen,0.7,1.0,0.7
+mannelijk,r_a-12746,niet vrouwelijk,0.0,0.1,1.0
+mannelijk,r_a-12747,masculien,0.1,0.3,1.0
+mannelijk,r_a-12748,mbt. Woordgeslacht,0.0,0.0,1.0
+margi's,,,-0.6,0.8,0.8
+marginaal,r_a-12755,van weinig betekenis,-0.4,0.8,0.7
+marginaal,r_a-12756,mbt. bestaansmiddelen,-0.1,0.8,0.7
+markant,r_a-12759,opmerkelijk,0.3,0.8,0.7
+masochistisch,r_a-12764,mbt. masochisme,-0.6,0.9,0.7
+massaal,r_a-12765,van een grote menigte,0.2,0.4,0.7
+massaal,r_a-12995,ongedeeld,0.2,0.7,0.7
+mat,r_a-12769,"slap, ongeïnspireerd",-0.5,0.8,0.7
+mateloos,r_a-12771,bovenmatig,-0.1,0.9,1.0
+matig,r_a-12776,met mate,0.0,0.7,1.0
+matig,r_a-12997,"niet veel, niet goed etc.",-0.5,0.8,1.0
+maximaal,r_a-12780,uiterst,0.2,0.4,0.7
+mechanisch,r_a-12998,als een machine,0.0,0.0,0.7
+mededeelzaam,r_a-12785,openhartig,0.6,0.8,0.9
+medeplichtig,r_a-12787,mbt. handlangers,-0.4,0.5,1.0
+medeschuldig,r_a-12788,mee schuldig,-0.4,0.5,0.9
+medisch,r_a-12792,geneeskundig,0.1,0.1,1.0
+meedogenloos,r_a-12795,onbarmhartig,-0.8,1.0,1.0
+meegaand,r_a-12796,flexibel,0.4,0.9,0.7
+meelijwekkend,r_a-12797,zielig,-0.4,0.9,0.7
+meerderjarig,r_a-12799,volwassen,0.1,0.3,0.8
+meerduidig,r_a-12800,ambigu,-0.3,0.5,0.7
+meerstemmig,r_a-12804,polyfoon,0.1,0.4,0.7
+meeslepend,r_a-12807,boeiend,0.7,1.0,1.0
+meesterlijk,r_a-12809,uitstekend,0.9,1.0,1.0
+meesterwerk,r_n-23492,,0.6,0.7,0.9
+meetbaar,r_a-12810,kwantitatief bepaalbaar,0.1,0.2,0.7
+mega,,JJ,0.4,0.9,1.0
+melancholiek,r_a-12816,,-0.4,1.0,0.9
+melancholisch,r_a-12817,zwaarmoedig,-0.4,1.0,1.0
+melig,r_a-12818,banaal,-0.1,0.6,0.7
+melig,r_a-12819,mbt. smaak en consistentie,0.4,1.0,0.7
+melkachtig,r_a-12820,zoals melk,0.0,0.3,0.7
+melodieus,r_a-12822,welluidend,0.4,0.6,0.7
+melodramatisch,r_a-12824,als een melodrama,-0.5,0.9,0.7
+memorabel,r_a-12825,gedenkwaardig,0.5,0.8,0.7
+meneerke,,,-0.2,0.6,0.7
+menselijk,r_a-12826,mbt. de mens,0.0,0.1,1.0
+menselijk,r_a-12827,humaan,0.4,0.8,1.0
+mensonterend,r_a-12830,beestachtig,-0.7,0.9,0.7
+mensonwaardig,r_a-12831,niet menswaardig,-0.7,0.9,0.7
+menswaardig,r_a-12832,conform menselijke waardigheid,0.1,0.6,0.7
+mentaal,r_a-12833,geestelijk,0.0,0.1,1.0
+merkbaar,r_a-12834,te merken,0.1,0.1,0.7
+merkwaardig,r_a-12835,opmerkelijk,0.2,0.9,1.0
+merkwaardig,r_a-13006,raar,-0.2,1.0,1.0
+messcherp,r_a-12838,zeer scherp,0.0,0.4,0.7
+metaforisch,r_a-12840,overdrachtelijk,0.0,0.2,0.9
+metalen,r_a-13008,metaalachtig,0.0,0.2,0.7
+meteorologisch,r_a-12844,weerkundig,-0.5,0.8,0.7
+micro-economisch,r_a-12851,mbt. micro-economie,0.6,0.9,0.7
+microscopisch,r_a-13012,mbt. een microscoop,0.0,0.2,0.7
+middelbaar,r_a-12853,tussen twee grootheden in,0.0,0.1,1.0
+middeleeuws,r_a-12854,mbt. de middeleeuwen,0.0,0.0,1.0
+middeleeuws,r_a-12855,"zeer ouderwets, achterlijk",-0.8,1.0,1.0
+middelmatig,r_a-12859,niet erg goed,-0.5,0.9,1.0
+middelmatig,r_a-13014,gemiddeld,-0.1,0.6,1.0
+mierzoet,r_a-12862,bovenmatig zoet,0.0,0.5,0.7
+mieters,r_a-12863,geweldig,0.8,1.0,0.7
+miezerig,r_a-12864,druilerig,-0.5,0.7,0.9
+miezerig,r_a-13015,schraal,-0.1,0.6,0.7
+milieubewust,r_a-12868,ecologisch,0.2,0.9,0.7
+milieuvriendelijk,r_a-12870,niet milieuonvriendelijk,0.4,0.9,0.7
+militair,r_a-12871,mbt. het leger,-0.1,0.1,1.0
+militant,r_a-12872,strijdbaar,-0.5,0.7,0.7
+min,r_a-12874,nietig,-0.4,0.8,1.0
+min,r_a-12875,laaghartig,-0.6,0.9,1.0
+minachtend,r_a-12876,met minachting,-0.4,0.9,0.7
+minderwaardig,r_a-12880,slecht,-0.2,0.8,0.7
+mineraal,r_a-12881,uit de bodem,-0.1,0.4,0.7
+miniem,r_a-12882,gering,0.0,0.5,0.7
+minimaal,r_a-12883,uiterst klein,-0.1,0.6,1.0
+minutieus,r_a-12890,nauwgezet,0.3,0.6,0.7
+minzaam,r_a-12891,beminnelijk,0.0,0.7,0.7
+minzaam,r_a-13019,een beetje hooghartig,-0.2,0.9,0.7
+miraculeus,r_a-12892,wonderlijk,0.9,0.9,1.0
+mis,r_a-12893,naast,-0.4,0.6,1.0
+mis,r_a-12894,fout,-0.6,0.8,1.0
+misdeeld,r_a-12897,behoeftig,-0.3,0.7,0.7
+miserabel,r_a-12898,beroerd,-0.7,1.0,1.0
+miskleun,r_n-23997,,-0.4,0.4,0.9
+mislukking,r_n-24001,,-0.2,0.3,0.8
+mislukkeling,d_n-173304,,-0.5,0.7,0.8
+mismaakt,r_a-12899,misvormd,-0.4,0.5,0.7
+mismoedig,r_a-12900,mistroostig,-0.4,1.0,0.7
+misplaatst,r_a-12902,ongepast,-0.8,1.0,1.0
+misprijzend,r_a-12903,afkeurend,-0.6,1.0,0.7
+misselijk,r_a-12904,ziek,-0.4,0.6,1.0
+misselijk,r_a-12905,"heel naar, ergerlijk",-0.8,0.9,1.0
+misser,r_n-24012,,-0.2,0.3,0.9
+mistig,r_a-12908,weinig zicht door mist,0.0,0.1,0.7
+mistroostig,r_a-12909,troosteloos,-0.6,0.9,1.0
+misvormd,r_a-12910,mismaakt,-0.3,0.6,0.7
+modaal,r_a-12913,doorsnee,-0.2,0.4,0.7
+modderig,r_a-12914,modderachtig,-0.4,0.6,0.7
+modebewust,r_a-12915,met oog voor trends,0.2,0.6,0.7
+modern,r_a-12917,van de nieuwere tijd,0.2,0.3,1.0
+modern,r_a-12918,van deze tijd,0.2,0.4,1.0
+modernistisch,r_a-12919,mbt. het modernisme,0.2,0.3,0.7
+modieus,r_a-12920,volgens de mode,0.4,1.0,0.7
+moe,r_a-12921,afgemat,-0.5,0.6,1.0
+moe,r_a-13021,er genoeg van hebben,-0.5,1.0,1.0
+moedeloos,r_a-12923,mismoedig,-0.3,0.6,0.7
+moedig,r_a-12925,dapper,0.9,1.0,1.0
+moeilijk,r_a-12928,niet gemakkelijk,-0.4,1.0,1.0
+moeiteloos,r_a-12929,zonder moeite,0.4,0.8,1.0
+moeizaam,r_a-12930,stroef,-0.5,0.9,1.0
+mogelijk,r_a-12932,niet onmogelijk,0.1,0.6,1.0
+momentaan,r_a-12936,momenteel,0.0,0.4,0.7
+mondain,r_a-12937,werelds,-0.2,0.4,0.7
+monddood,r_a-12938,verplicht te zwijgen,-0.4,0.8,0.7
+mondiaal,r_a-12940,wereldwijd,0.0,0.1,1.0
+mondig,r_a-13025,geëmancipeerd,0.3,0.7,0.7
+mongoloïde,r_a-12942,(als) van een Mongool,-0.2,0.2,0.7
+monogaam,r_a-12945,niet polygaam,0.4,0.6,0.7
+monsterachtig,r_a-12948,monsterlijk,-0.4,1.0,0.7
+monter,r_a-12951,opgewekt,0.4,0.7,0.7
+monumentaal,r_a-12952,groots,0.0,0.0,0.7
+mooi,r_a-12953,esthetisch,0.7,1.0,1.0
+mooi,r_a-12954,goed,0.7,1.0,1.0
+moppig,r_a-12957,leuk,0.7,1.0,0.7
+morbide,r_a-12959,ziekelijk,-0.8,1.0,0.7
+moreel,r_a-12960,ethisch,0.2,0.6,1.0
+motorisch,r_a-12965,mbt. beweeglijkheid,0.0,0.1,0.7
+motorisch,r_a-13029,de motor betreffend,0.0,0.0,0.7
+muf,r_a-12968,niet fris,-0.6,0.9,0.7
+muffig,r_a-12969,een beetje muf,-0.5,0.7,0.7
+muisgrijs,r_a-12970,grijs,0.0,0.4,0.7
+mul,r_a-12972,los,0.1,0.2,0.9
+multifunctioneel,r_a-12975,met vele functies,0.4,0.8,0.7
+multilateraal,r_a-12976,veelzijdig,0.0,0.1,0.7
+multinationaal,r_a-12977,internationaal verspreid,0.4,0.7,0.7
+murw,r_a-12979,week,-0.5,0.6,0.7
+must,,,0.2,0.5,0.9
+muurvast,r_a-12980,,-0.3,0.2,0.8
+muzikaal,r_a-12981,met aanleg voor muziek,0.4,0.5,1.0
+muzikaal,r_a-13032,behorend tot de muziek,0.0,0.0,1.0
+mwah,,,-0.3,0.7,1.0
+mysterieus,r_a-12983,raadselachtig,0.4,0.9,1.0
+mystiek,r_a-12984,verborgen,0.1,0.6,1.0
+mystiek,r_a-12985,betreffende de mystiek,0.0,0.1,1.0
+mythisch,r_a-12986,fabelachtig,0.4,1.0,1.0
+mythologisch,r_a-12987,mbt. de mythologie,0.2,0.6,0.7
+naadloos,r_a-13038,zonder naad,0.1,0.1,1.0
+naakt,r_a-13039,zonder kleren,0.1,0.1,1.0
+naakt,r_a-13040,onbegroeid en onbedekt,0.0,0.1,1.0
+naar,r_a-13043,akelig,-0.6,0.9,1.0
+naar,r_a-13044,misselijk,-0.7,0.9,1.0
+naargeestig,r_a-13045,akelig,-0.7,1.0,0.7
+naarstig,r_a-13046,ijverig,0.1,0.6,0.7
+naast,r_a-13047,dichtstbij,0.0,0.1,1.0
+naast,r_a-13197,meest vertrouwd,0.2,0.4,1.0
+nabij,r_a-13048,dichtbij,0.1,0.2,1.0
+nadelig,r_a-13052,schadelijk,-0.5,0.8,0.7
+nader,r_a-13054,dichterbij,0.0,0.2,1.0
+nader,r_a-13055,nauwkeuriger,0.3,0.6,1.0
+nader,r_a-13056,meer of uitgebreider,0.2,0.4,1.0
+nalatig,r_a-13060,niet gedaan wat had gemoeten,-0.4,0.7,0.7
+naoorlogs,r_a-13062,van na de oorlog,0.0,0.2,0.7
+napoleontisch,r_a-13063,(als) van Napoleon,-0.2,0.6,0.7
+narcistisch,r_a-13064,ijdel en zelfingenomen,-0.6,0.9,0.7
+narrig,r_a-13065,chagrijnig,-0.6,0.8,0.7
+nat,r_a-13067,niet droog,-0.1,0.4,1.0
+nationaal,r_a-13068,een natie betreffend,0.0,0.0,0.7
+nationalistisch,r_a-13070,(te) nationaal gezind,-0.1,0.5,0.7
+natuurlijk,r_a-13076,niet kunstmatig,0.1,0.4,1.0
+natuurlijk,r_a-13077,ongekunsteld,0.4,0.7,1.0
+natuurlijk,r_a-13078,als in de werkelijkheid,0.1,0.4,1.0
+natuurlijk,r_a-13079,begrijpelijk,0.5,0.7,1.0
+natuurwetenschappelijk,r_a-13081,de natuurwetenschappen betreffend,0.0,0.1,0.7
+nauw,r_a-13083,smal,-0.1,0.4,1.0
+nauw,r_a-13084,dicht bij elkaar,0.1,0.4,1.0
+nauwgezet,r_a-13086,nauwkeurig,0.4,0.6,1.0
+nauwkeurig,r_a-13087,nauwgezet,0.4,0.6,1.0
+nauwkeurig,r_a-13088,precies,0.4,0.5,1.0
+nauwsluitend,r_a-13090,juist om het lichaam passend,0.0,0.6,1.0
+nauwsluitend,r_a-13199,juist op of in elkaar passend,0.0,0.6,0.7
+navoelbaar,r_a-13092,na te voelen,0.0,0.5,0.7
+navolgend,r_a-13093,hierna vermeld,0.0,0.1,0.7
+navrant,r_a-13094,schrijnend,-0.6,0.9,0.9
+naïef,r_a-13059,onnozel,-0.5,0.9,1.0
+neergeknuppeld,,,-0.2,0.1,0.8
+nefast,r_a-13103,noodlottig,-0.5,0.8,0.7
+negatief,r_a-13104,een ontkenning inhoudend,-0.3,0.4,1.0
+negatief,r_a-13105,afbrekend,-0.6,0.9,1.0
+negatief,r_a-13106,kleiner dan nul,-0.1,0.1,1.0
+neofascistisch,r_a-13108,het neofascisme betreffend,0.1,0.4,0.7
+neonazistisch,r_a-13111,het neonazisme betreffend,-0.5,0.7,0.7
+nerveus,r_a-13112,zenuwachtig,-0.5,0.8,0.7
+net,r_a-13113,schoon en verzorgd,0.6,0.8,1.0
+net,r_a-13203,fatsoenlijk,0.5,0.9,1.0
+netelig,r_a-13114,moeilijk,-0.4,0.8,0.7
+netjes,r_a-13115,schoon en verzorgd,0.6,0.9,1.0
+netjes,r_a-13116,zoals het hoort,0.5,0.9,1.0
+neurologisch,r_a-13119,de neurologie betreffend,0.0,0.1,0.7
+neurotisch,r_a-13120,met neurose te maken hebbend,-0.5,0.7,0.7
+neutraal,r_a-13121,zonder partij te kiezen,0.1,0.2,1.0
+neutraal,r_a-13122,onopvallend,-0.1,0.6,1.0
+neutraal,r_a-13202,niet positief of negatief,0.0,0.4,1.0
+nevelachtig,r_a-13123,een beetje mistig,0.1,0.4,0.7
+nevengeschikt,r_a-13125,nevenschikkend verbonden,-0.3,0.9,0.7
+nichterig,r_a-13128,als (van) een homoseksueel,-0.1,1.0,0.7
+niet-bindend,r_a-13134,waar je niet aan vast zit,0.2,0.5,0.7
+niet-commercieel,r_a-13135,zonder commercieel doel,0.3,0.4,0.7
+niet-westers,r_a-13138,niet westers,0.0,0.2,0.7
+nietsvermoedend,r_a-13142,zonder iets te vermoeden,-0.2,0.9,0.7
+nietszeggend,r_a-13143,zonder inhoud,-0.5,0.9,1.0
+nieuw,r_a-13144,kort bestaand,0.2,0.5,1.0
+nieuw,r_a-13145,van dit jaar,0.1,0.4,1.0
+nieuwbakken,r_a-13146,nieuw in een functie,0.0,0.1,0.7
+nieuwsgierig,r_a-13148,benieuwd zijn naar wat je niet aangaat,-0.1,1.0,1.0
+nieuwsgierig,r_a-13149,graag iets willen weten,0.5,1.0,1.0
+nihilistisch,r_a-13150,het nihilisme betreffend,0.0,0.7,0.7
+nijpend,r_a-13152,kwellend,-0.2,0.5,0.7
+nipt,r_a-13155,maar net,-0.1,0.7,0.7
+nobel,r_a-13156,edelmoedig,0.6,0.9,0.7
+nodeloos,r_a-13157,onnodig,-0.5,0.9,0.7
+nodig,r_a-13158,noodzakelijk,0.4,0.6,1.0
+nodig,r_a-13159,gebruikelijk,0.1,0.1,1.0
+noemenswaardig,r_a-13160,van belang,0.1,0.6,0.7
+noest,r_a-13161,nijver,0.0,0.9,0.7
+non-profit,r_a-13166,zonder winstoogmerk,0.3,0.4,0.7
+non-stop,r_a-13167,onafgebroken,-0.1,0.6,0.7
+nonchalant,r_a-13168,achteloos,-0.5,0.9,0.7
+noodgedwongen,r_a-13169,door nood gedwongen,-0.4,0.6,1.0
+noodlottig,r_a-13171,fataal,-0.6,0.8,1.0
+noodzakelijk,r_a-13172,absoluut nodig,0.3,0.9,1.0
+noodzakelijk,r_a-13173,onvermijdelijk,-0.1,0.7,1.0
+normaal,r_a-13180,gewoon,0.1,0.6,1.0
+nors,r_a-13182,bars,-0.5,0.9,0.7
+nostalgisch,r_a-13183,vol nostalgie,-0.1,1.0,0.7
+nuchter,r_a-13187,niet gegeten of gedronken hebbend,0.1,0.2,1.0
+nuchter,r_a-13188,praktisch en zakelijk,0.4,0.6,1.0
+nuchter,r_a-13210,niet dronken,0.2,0.4,1.0
+nukkig,r_a-13191,vol nukken en onberekenbaar,-0.3,0.6,0.7
+nurks,r_a-13194,knorrig,-0.4,0.8,0.7
+nutteloos,r_a-13195,zinloos,-0.5,0.9,1.0
+nuttig,r_a-13196,bruikbaar of zinvol,0.6,0.9,1.0
+objectief,r_a-13211,niet subjectief,0.0,0.1,1.0
+obligaat,r_a-13212,verplicht,0.0,0.2,0.7
+obscuur,r_a-13214,duister,-0.5,0.8,0.7
+obscuur,r_a-14015,onbekend,-0.5,0.9,0.7
+obsessief,r_a-13215,als een obsessie,-0.5,0.9,1.0
+obstinaat,r_a-13216,koppig,-0.2,0.6,0.7
+occult,r_a-13218,duister,-0.5,0.8,0.7
+ocharme,,,-0.1,0.5,0.8
+oecumenisch,r_a-13221,de oecumene betreffend,0.0,0.4,0.7
+oenig,d_a-188914,dom,-0.6,1.0,0.9
+oersaai,d_a-207819,,-1.0,1.0,1.0
+oersterk,r_a-13226,erg sterk,0.6,0.7,0.7
+oeverloos,r_a-13229,eindeloos,-0.2,0.7,1.0
+offensief,r_a-13230,aanvallend,0.0,0.2,0.7
+officieel,r_a-13231,erkend door het bevoegd gezag,0.1,0.2,1.0
+officieel,r_a-14020,naar vormelijke verplichtingen,0.1,0.1,1.0
+officieus,r_a-13232,niet officieel,0.0,0.3,0.7
+ogenblikkelijk,r_a-13233,nu al aanwezig,0.4,0.4,0.7
+ogenschijnlijk,r_a-13234,schijnbaar,0.0,0.4,1.0
+oliedom,r_a-13238,erg dom,-0.6,0.8,0.7
+olympisch,r_a-13243,de Olympische Spelen betreffend,0.2,0.2,0.7
+omineus,r_a-13247,onheilspellend,-0.6,0.9,0.7
+omslachtig,r_a-13251,omstandig,-0.5,0.9,0.7
+omzichtig,r_a-13255,behoedzaam,0.4,0.6,0.7
+onaangenaam,r_a-13260,naar,-0.6,1.0,0.9
+onaangepast,r_a-13261,niet aangepast,-0.6,1.0,0.7
+onaangevochten,d_a-191535,,0.3,0.8,0.7
+onaantastbaar,r_a-13264,niet aan te tasten,0.8,0.9,0.7
+onaantrekkelijk,r_a-13265,niet aantrekkelijk,-0.8,1.0,0.7
+onaanzienlijk,r_a-13267,niet groots,-0.4,0.8,0.7
+onaanzienlijk,r_a-14024,zonder aanzien,-0.5,0.9,0.7
+onaardig,r_a-13268,onsympathiek,-0.6,0.9,1.0
+onacceptabel,r_a-13269,niet acceptabel,-0.6,1.0,0.7
+onachtzaam,r_a-13270,nonchalant,-0.1,0.6,0.7
+onaf,r_a-13271,onvoltooid,-0.3,0.7,0.7
+onafgebroken,r_a-13272,doorlopend,0.0,0.0,0.9
+onafhankelijk,r_a-13274,ongebonden,0.4,0.7,1.0
+onafhankelijk,r_a-14025,niet van iets anders afhangend,0.4,0.6,1.0
+onafwendbaar,r_a-13276,onvermijdelijk,-0.2,0.8,0.7
+onafzienbaar,r_a-13277,niet te overzien,-0.1,0.4,0.7
+onalledaags,r_a-13278,bijzonder,0.1,0.9,0.7
+onbaatzuchtig,r_a-13280,belangeloos,0.4,0.8,0.7
+onbarmhartig,r_a-13281,ongenadig,-0.6,1.0,0.9
+onbeantwoord,r_a-13282,niet beantwoord,-0.1,0.2,1.0
+onbedachtzaam,r_a-13284,onnadenkend,-0.3,0.5,0.7
+onbedoeld,r_a-13285,onopzettelijk,-0.3,0.6,0.7
+onbedreigd,r_a-13287,niet bedreigd,0.1,0.7,0.7
+onbeduidend,r_a-13288,niet belangrijk,0.0,0.0,0.7
+onbedwingbaar,r_a-13289,niet bedwingbaar,0.0,0.9,0.9
+onbegaanbaar,r_a-13290,niet begaanbaar,-0.2,0.4,0.7
+onbegrensd,r_a-13292,grenzeloos,0.2,0.9,0.9
+onbegrepen,r_a-13293,niet begrepen,-0.6,0.6,0.7
+onbegrijpelijk,r_a-13294,niet te begrijpen,-0.6,0.9,1.0
+onbehaaglijk,r_a-13295,niet aangenaam,-0.4,1.0,0.7
+onbeheersbaar,r_a-13297,niet beheersbaar,-0.1,0.8,0.7
+onbeheerst,r_a-13298,niet beheerst,-0.4,0.9,0.7
+onbeholpen,r_a-13299,onhandig,-0.5,0.9,1.0
+onbehoorlijk,r_a-13300,niet behoorlijk,-0.6,0.9,0.7
+onbekend,r_a-13302,niet bekend,-0.1,0.4,1.0
+onbekend,r_a-14027,niet beroemd,-0.2,0.4,1.0
+onbelangrijk,r_a-13305,onbeduidend,-0.4,1.0,1.0
+onbeleefd,r_a-13307,niet beleefd,-0.6,0.9,0.7
+onbelemmerd,r_a-13308,ongehinderd,0.4,0.5,0.7
+onbenullig,r_a-13312,zonder benul,-0.5,0.9,0.7
+onbenullig,r_a-13313,onbelangrijk,-0.4,0.9,0.7
+onbenut,r_a-13314,niet benut,-0.6,0.9,0.7
+onbepaald,r_a-13315,taalkundige term,0.2,0.7,0.7
+onbeperkt,r_a-13316,niet beperkt,0.2,0.5,0.7
+onberekenbaar,r_a-13319,grillig,-0.4,0.8,0.7
+onberekenbaar,r_a-14033,niet te berekenen,-0.4,0.8,0.7
+onberoerd,r_a-13321,niet beroerd,-0.1,0.2,1.0
+onberoerd,r_a-14034,onaangedaan,-0.4,0.5,1.0
+onbeschermd,r_a-13326,niet beschermd,-0.4,0.8,0.7
+onbeschoft,r_a-13327,met slechte manieren,-0.6,0.9,0.7
+onbeschrijfelijk,r_a-13329,niet te beschrijven,0.1,1.0,1.0
+onbestaand,r_a-13338,denkbeeldig,-0.3,0.6,0.7
+onbestemd,r_a-13339,vaag,-0.1,1.0,0.7
+onbestreden,d_a-208029,,0.3,0.8,0.7
+onbesuisd,r_a-13343,onstuimig,-0.3,0.6,0.7
+onbetamelijk,r_a-13346,onwelvoeglijk,-0.6,0.9,0.9
+onbetreden,r_a-13348,niet betreden,0.1,0.3,0.7
+onbetrouwbaar,r_a-13349,niet betrouwbaar,-0.8,0.9,1.0
+onbetwist,r_a-13351,onomstreden,0.3,0.8,1.0
+onbetwistbaar,r_a-13352,niet te betwisten,0.1,0.6,0.7
+onbevangen,r_a-13354,niet geremd,0.4,1.0,1.0
+onbevattelijk,d_a-192060,,-0.6,0.9,0.7
+onbevredigd,r_a-13357,niet tevredengesteld,-0.6,1.0,0.7
+onbevredigend,r_a-13358,niet bevredigend,-0.7,0.9,1.0
+onbewogen,r_a-13363,niet geroerd,-0.5,0.9,0.7
+onbewolkt,r_a-13364,niet bewolkt,0.1,0.1,1.0
+onbewust,r_a-13367,onwillekeurig,-0.1,0.4,1.0
+onbewust,r_a-14042,niet wetend,-0.1,0.5,1.0
+onbezonnen,r_a-13369,onnadenkend,-0.6,0.9,0.7
+onbezorgd,r_a-13370,zorgeloos,0.4,0.6,0.7
+onbillijk,r_a-13371,onredelijk,-0.4,0.7,0.7
+onbreekbaar,r_a-13373,niet breekbaar,0.1,0.1,0.7
+onbuigzaam,r_a-14044,koppig,-0.9,1.0,0.7
+onchristelijk,r_a-13376,niet christelijk,-0.4,0.8,0.7
+oncomfortabel,r_a-13377,ongemakkelijk,-0.9,1.0,0.7
+oncontroleerbaar,r_a-13378,niet controleerbaar,-0.1,0.4,0.7
+onconventioneel,r_a-13379,ongewoon,0.4,0.9,1.0
+ondankbaar,r_a-14049,de moeite niet lonend,-0.4,0.7,0.7
+ondemocratisch,r_a-13383,niet democratisch,-0.2,0.5,0.7
+ondenkbaar,r_a-13384,niet voorstelbaar,-0.2,0.8,1.0
+ondergeschikt,r_a-13391,niet zo belangrijk,-0.1,0.3,0.7
+onderhoudend,r_a-13398,boeiend,0.6,1.0,1.0
+onderhuids,r_a-13399,onder de huid,-0.1,0.5,1.0
+onderhuids,r_a-14057,onder de oppervlakte,-0.1,0.4,1.0
+onderliggend,r_a-14059,niet onmiddellijk zichtbaar,0.0,0.1,1.0
+onderling,r_a-13402,onder elkaar,0.0,0.1,1.0
+ondermaats,r_a-13404,onvoldoende,-0.7,0.9,0.7
+onderontwikkeld,r_a-13406,achtergebleven,-0.5,0.7,0.7
+onderst,r_a-13410,laagst gelegen,-0.1,0.4,0.7
+onderstaand,d_a-193098,,0.0,0.1,1.0
+ondervoed,r_a-13412,lijdend aan ondervoeding,-0.5,0.7,0.7
+ondeskundig,r_a-13414,niet deskundig,-0.4,0.9,0.7
+ondeugdelijk,r_a-13415,niet goed,-0.1,0.4,0.7
+ondeugend,r_a-13416,stout,0.1,0.9,1.0
+ondeugend,r_a-14063,schalks,0.4,0.9,1.0
+ondeugend,r_a-14064,pikant,0.4,0.9,1.0
+ondoelmatig,r_a-13418,niet doelmatig,-0.4,0.9,0.7
+ondoenlijk,r_a-13419,onuitvoerbaar,-0.4,0.7,0.9
+ondoordacht,r_a-13420,niet doordacht,-0.3,0.6,0.7
+ondoordringbaar,r_a-13421,niet doordringbaar,-0.2,0.2,0.7
+ondoorgrondelijk,r_a-13422,niet te doorgronden,-0.6,0.9,1.0
+ondoorzichtig,r_a-14065,moeilijk te begrijpen,-0.6,0.9,0.7
+ondrinkbaar,r_a-13425,niet drinkbaar,-0.5,0.7,0.7
+ondubbelzinnig,r_a-13426,volstrekt duidelijk,0.2,0.4,0.7
+onduidelijk,r_a-13427,niet duidelijk,-0.4,0.8,1.0
+oneens,r_a-13432,niet eens,-0.4,0.8,0.7
+oneerbaar,r_a-13433,niet eerbaar,-0.4,0.6,0.7
+oneerbiedig,r_a-13434,niet eerbiedig,-0.2,0.9,0.7
+oneerlijk,r_a-13435,niet eerlijk,-0.6,0.9,1.0
+oneetbaar,r_a-13437,niet te eten,-0.2,0.6,0.7
+oneffen,r_a-13438,niet effen,-0.3,0.5,0.7
+oneindig,r_a-13440,eindeloos,-0.1,0.5,1.0
+onervaren,r_a-13441,niet ervaren,-0.6,0.9,0.7
+onevenaarbaar,,,0.9,0.9,1.0
+onevenwichtig,r_a-13444,niet evenwichtig,-0.5,0.9,0.7
+onfatsoenlijk,r_a-13445,niet fatsoenlijk,-0.7,0.9,0.7
+onfeilbaar,r_a-13446,nooit falend,0.7,0.9,0.7
+onfris,r_a-14068,bedenkelijk,-0.4,0.9,0.7
+ongeboren,r_a-13453,niet geboren,0.0,0.0,0.7
+ongebreideld,r_a-13455,onbeteugeld,0.3,0.7,0.7
+ongebruikelijk,r_a-13457,niet gebruikelijk,0.0,0.4,0.7
+ongecompliceerd,r_a-13460,niet ingewikkeld,0.4,0.9,1.0
+ongecontroleerd,r_a-13461,niet gecontroleerd,-0.1,0.5,0.7
+ongecontroleerd,r_a-14074,onbeheerst,-0.1,0.5,0.7
+ongecoördineerd,r_a-13459,niet gecoördineerd,0.3,0.5,0.7
+ongedisciplineerd,r_a-13468,niet gedisciplineerd,-0.6,0.9,0.7
+ongeduldig,r_a-13469,niet geduldig,-0.2,0.9,1.0
+ongefundeerd,r_a-13474,ongegrond,-0.4,0.8,0.9
+ongehinderd,r_a-13477,niet gehinderd,0.3,0.4,0.7
+ongehoord,r_a-13478,schandelijk,-0.3,0.9,0.7
+ongekend,r_a-13483,uniek,0.6,0.9,1.0
+ongekroond,r_a-13484,niet gekroond,0.1,0.2,0.7
+ongekunsteld,r_a-13486,natuurlijk,0.4,0.9,0.7
+ongeldig,r_a-13487,niet geldig,0.0,0.0,0.7
+ongelegen,r_a-13489,niet gelegen,-0.3,0.6,0.7
+ongelezen,r_a-13491,niet gelezen,0.1,0.4,1.0
+ongelijk,r_a-13492,verschillend,0.0,0.1,0.7
+ongelijk,r_a-14081,oneffen,-0.1,0.3,0.7
+ongelimiteerd,r_a-13495,onbeperkt,0.1,0.5,0.7
+ongelofelijk,d_a-194050,,0.2,0.9,0.7
+ongelofelijk,r_a-13496,niet te geloven,0.6,1.0,1.0
+ongelofeloos,d_a-415116,,0.9,0.9,0.7
+ongelooflijk,d_a-415118,,0.4,1.0,1.0
+ongelooflijk,d_a-539755,,0.2,0.9,0.7
+ongeloofwaardig,r_a-13498,niet geloofwaardig,-0.6,0.9,1.0
+ongelovig,r_a-13499,met ongeloof vervuld,-0.5,1.0,0.7
+ongelovig,r_a-14082,ongodsdienstig,-0.5,1.0,0.7
+ongelukkig,r_a-13500,niet blij,-0.6,0.9,1.0
+ongelukkig,r_a-13502,gehandicapt,-0.4,0.7,1.0
+ongemakkelijk,r_a-13503,oncomfortabel,-0.6,0.9,1.0
+ongemakkelijk,r_a-14085,moeilijk,-0.4,0.9,1.0
+ongemakkelijk,r_a-14089,niet op je gemak,-0.6,1.0,1.0
+ongemerkt,r_a-13505,niet gemerkt,-0.1,0.4,1.0
+ongemerkt,r_a-14176,onopvallend,-0.2,0.6,1.0
+ongenadig,r_a-13509,genadeloos,-0.4,0.6,0.7
+ongeneeslijk,r_a-13510,niet te genezen,-0.5,0.6,1.0
+ongenuanceerd,r_a-13513,niet genuanceerd,-0.4,0.7,0.7
+ongepast,r_a-13517,onbetamelijk,-0.6,0.9,1.0
+ongepeld,r_a-13518,niet gepeld,0.0,0.1,0.7
+ongeremd,r_a-13521,zonder remmingen (psychisch),0.4,0.9,0.7
+ongeremd,r_a-14093,zonder matiging,0.3,0.9,0.7
+ongerept,r_a-13522,puur en ongeschonden,0.0,0.0,0.7
+ongerijmd,r_a-13523,absurd,-0.1,0.4,0.7
+ongerust,r_a-13524,bezorgd,-0.1,0.8,0.8
+ongeschikt,r_a-13525,niet geschikt,-0.6,0.8,0.7
+ongesteld,r_a-13531,menstruerend,0.0,0.1,0.7
+ongestoord,r_a-13533,niet gestoord,0.4,0.4,0.7
+ongevaarlijk,r_a-13536,niet gevaarlijk,0.6,0.9,0.7
+ongewapend,r_a-13540,niet gewapend,0.2,0.8,0.7
+ongewassen,r_a-13541,niet gewassen,-0.4,0.7,0.7
+ongewoon,r_a-13546,niet gewoon,0.0,0.9,1.0
+ongezeglijk,r_a-13547,weerbarstig,-0.1,0.3,0.7
+ongezond,r_a-13550,ziekelijk van lichaam of geest,-0.6,0.8,0.7
+ongezouten,r_a-13551,openhartig,0.4,1.0,1.0
+ongeëvenaard,r_a-13472,niet geëvenaard,0.7,0.9,0.7
+ongeïnspireerd,r_a-13481,niet geïnspireerd,-0.5,0.9,0.7
+ongrijpbaar,r_a-13553,niet te grijpen,0.0,0.5,0.7
+ongunstig,r_a-13555,nadelig,-0.4,1.0,0.7
+onguur,r_a-13556,onbetrouwbaar en griezelig,-0.4,0.8,0.7
+onhandig,r_a-13559,klungelig,-0.5,0.9,1.0
+onhandig,r_a-14103,moeilijk te hanteren,-0.4,0.8,1.0
+onhebbelijk,r_a-13560,onvriendelijk,-0.7,0.9,0.7
+onheilspellend,r_a-13561,heel dreigend,-0.6,1.0,0.7
+onherbergzaam,r_a-13562,woest en ontoegankelijk,-0.2,0.5,0.7
+onherkenbaar,r_a-13563,niet herkenbaar,-0.2,0.4,0.7
+onherroepelijk,r_a-13564,definitief,-0.2,0.6,0.7
+onheuglijk,r_a-13566,heel erg lang geleden,-0.4,0.7,0.7
+onhoudbaar,r_a-13569,niet te verdedigen,-0.5,0.8,0.7
+onhygiënisch,r_a-13570,niet hygiënisch,-0.7,0.9,0.7
+oninteressant,r_a-13571,niet interessant,-0.6,1.0,1.0
+onjuist,d_a-194546,,-0.5,0.6,0.7
+onjuist,r_a-13572,niet juist,-0.4,0.5,1.0
+onkerkelijk,r_a-13573,niet kerkelijk,-0.1,0.1,0.7
+onkuis,r_a-13577,onzedig,-0.5,0.6,0.7
+onkwetsbaar,r_a-13579,niet kwetsbaar,0.5,0.9,0.7
+onleefbaar,r_a-13581,niet leefbaar,-0.7,0.9,0.7
+onleesbaar,r_a-13582,niet leesbaar,-0.4,0.6,1.0
+onleesbaar,r_a-14107,erg slecht geschreven,-0.7,0.9,1.0
+onlogisch,r_a-13583,niet logisch,-0.4,0.7,1.0
+onlosmakelijk,r_a-13585,onverbrekelijk,0.2,0.7,0.7
+onmachtig,r_a-13586,machteloos,-0.5,0.9,1.0
+onmenselijk,r_a-13588,barbaars,-0.9,0.9,1.0
+onmetelijk,r_a-13589,onbegrensd,0.2,0.9,0.7
+onmiddellijk,r_a-13590,op het zelfde moment,0.0,0.4,1.0
+onmiddellijk,r_a-13591,waar niets tussen zit,0.0,0.2,1.0
+onmisbaar,r_a-13592,onontbeerlijk,0.4,0.9,1.0
+onmiskenbaar,r_a-13593,apert,0.1,0.6,1.0
+onmogelijk,r_a-13594,niet mogelijk,-0.4,0.7,1.0
+onmogelijk,r_a-13595,heel lastig,-0.6,0.9,1.0
+onmogelijk,r_a-14108,belachelijk,-0.6,0.9,1.0
+onmondig,r_a-13596,niet mondig,0.0,0.8,0.7
+onnadrukkelijk,r_a-13598,onopvallend,0.6,0.8,0.7
+onnaspeurbaar,d_a-194728,,-0.6,0.9,0.7
+onnaspeurlijk,d_a-194729,,-0.6,0.9,0.7
+onnatuurlijk,r_a-13599,niet natuurlijk,-0.4,0.7,1.0
+onnatuurlijk,r_a-14109,gekunsteld,-0.6,1.0,1.0
+onnavolgbaar,r_a-13601,niet na te doen,0.4,0.9,1.0
+onneembaar,r_a-13603,niet te veroveren,0.0,0.0,0.7
+onnodig,r_a-13604,niet nodig,-0.4,0.9,1.0
+onnozel,r_a-13606,dommig,-0.6,1.0,1.0
+onnozel,r_a-13607,onbelangrijk,-0.4,0.9,1.0
+onofficieel,r_a-13609,niet officieel,-0.1,0.2,0.7
+onomstotelijk,r_a-13611,onweerlegbaar,0.1,0.8,0.7
+onomstreden,r_a-13612,onbetwist,0.3,0.8,1.0
+onomwonden,r_a-13613,onverbloemd,-0.1,0.6,0.7
+ononderbroken,r_a-13614,niet onderbroken,0.0,0.0,0.9
+onontbeerlijk,r_a-13615,onmisbaar,0.4,0.9,1.0
+onontkoombaar,r_a-13616,onvermijdelijk,-0.1,0.6,1.0
+onooglijk,r_a-14112,onbeduidend,-0.4,0.6,0.7
+onopgehelderd,r_a-13621,niet opgehelderd,-0.1,0.9,0.7
+onopgelost,r_a-13622,niet opgelost,-0.3,0.8,0.7
+onopgevoed,r_a-13625,slecht opgevoed,-0.3,0.9,0.7
+onophoudelijk,r_a-13626,aanhoudend,0.0,0.2,0.7
+onoplosbaar,r_a-13627,niet oplosbaar,-0.1,0.8,0.7
+onopvallend,r_a-13628,niet opvallend,-0.5,0.7,0.7
+onoverbrugbaar,r_a-13631,niet te overbruggen,-0.6,0.7,0.7
+onoverkomelijk,r_a-13634,niet te overkomen,-0.1,0.6,0.7
+onovertroffen,r_a-13635,uitmuntend,1.0,1.0,1.0
+onoverwinnelijk,r_a-13636,niet overwinnelijk,0.7,1.0,0.7
+onoverzichtelijk,r_a-13637,niet overzichtelijk,-0.5,0.8,1.0
+onpeilbaar,d_a-194933,,-0.6,0.9,0.7
+onpersoonlijk,r_a-13641,zonder eigen karakter,-0.5,0.9,0.7
+onplezierig,r_a-13642,onaangenaam,-0.6,1.0,0.9
+onprettig,r_a-13644,niet prettig,-0.6,1.0,1.0
+onproductief,r_a-13645,niet productief,-0.3,1.0,0.7
+onrealistisch,r_a-13646,niet realistisch,-0.4,0.8,1.0
+onrechtvaardig,r_a-13649,niet rechtvaardig,-0.7,0.9,0.7
+onredelijk,r_a-13650,onbillijk,-0.4,0.8,0.7
+onrendabel,r_a-13653,niet rendabel,-0.3,0.9,0.7
+onrijp,r_a-13654,niet rijp,-0.2,0.5,0.7
+onrustbarend,r_a-13656,onrust wekkend,-0.4,0.8,0.7
+onrustig,r_a-13657,zonder rust,-0.5,0.9,1.0
+onrustig,r_a-14121,steeds in beweging,-0.1,0.8,1.0
+onsamenhangend,r_a-13658,niet samenhangend,-0.5,0.8,1.0
+onschadelijk,r_a-13659,niet schadelijk,0.6,0.9,0.7
+onschatbaar,r_a-13660,niet te schatten,0.4,0.9,1.0
+onscherp,r_a-13663,vaag,-0.2,0.7,0.7
+onschuldig,r_a-13664,niet nadelig of nadelig bedoeld,0.4,0.9,1.0
+onschuldig,r_a-13665,niet schuldig,0.5,0.7,1.0
+onschuldig,r_a-14123,argeloos,0.1,0.8,1.0
+onsmakelijk,r_a-13666,vies,-0.5,0.8,0.7
+onsmakelijk,r_a-14124,walgelijk,-0.9,1.0,0.8
+onsportief,r_a-14125,niet sportief,-0.5,0.8,0.7
+onsterfelijk,r_a-13669,niet sterfelijk,0.7,0.9,0.7
+onsterfelijk,r_a-14127,heel erg beroemd,0.7,0.9,0.7
+onstuimig,r_a-13670,moeilijk te bedwingen,0.3,0.7,0.7
+onstuitbaar,r_a-13671,niet te stuiten,0.2,0.6,0.7
+onsympathiek,r_a-13672,niet sympathiek,-0.7,1.0,1.0
+ontelbaar,r_a-13678,niet te tellen,0.0,0.1,0.7
+ontembaar,r_a-13679,onbedwingbaar,0.0,0.9,1.0
+onterecht,r_a-13680,niet terecht,-0.4,0.8,1.0
+ontevreden,r_a-13681,misnoegd,-0.4,1.0,0.7
+ontgoocheld,r_a-13682,teleurgesteld,-0.4,0.8,0.7
+onthand,r_a-13683,ontriefd,-0.6,0.9,0.7
+onthutst,r_a-13685,ontsteld,-0.6,1.0,0.7
+ontluisterend,r_a-13687,dramatisch slecht of schokkend,-0.4,0.7,0.7
+ontoegankelijk,r_a-13688,niet toegankelijk,-0.2,0.5,0.7
+ontoerekeningsvatbaar,r_a-13691,niet toerekeningsvatbaar,-0.3,0.7,0.7
+ontploffen,,,-0.3,0.1,0.8
+ontroerend,r_a-13695,wat ontroert,0.5,0.9,1.0
+ontspannen,r_a-13698,relaxed,0.6,1.0,1.0
+ontspannend,,,0.9,0.9,1.0
+ontvlambaar,r_a-13705,gauw vlam vattend,-0.6,0.9,0.7
+ontzaglijk,r_a-13710,geweldig,0.2,0.9,0.7
+ontzagwekkend,r_a-13711,ontzag inboezemend,0.6,1.0,0.7
+ontzet,r_a-13712,ontsteld,-0.6,1.0,0.7
+ontzettend,r_a-13714,ontzaglijk,0.2,1.0,1.0
+ontzettende,,,-0.1,0.8,1.0
+ontzield,r_a-13715,dood,-0.3,0.7,0.7
+onuitputtelijk,r_a-13717,niet uit te putten,0.9,1.0,0.7
+onuitroeibaar,r_a-13718,niet uit te roeien,-0.5,0.6,0.7
+onuitsprekelijk,r_a-13719,enorm,-0.4,0.8,0.7
+onuitstaanbaar,r_a-13720,onverdraaglijk,-0.8,1.0,1.0
+onuitvoerbaar,r_a-13721,niet uitvoerbaar,-0.4,0.7,0.9
+onuitwisbaar,r_a-13722,niet uit te wissen,0.2,0.5,0.7
+onveilig,r_a-13723,niet veilig,-0.6,0.9,1.0
+onverantwoord,r_a-13726,niet te verantwoorden,-0.7,1.0,0.7
+onverantwoord,r_a-14137,zonder rekenschap,-0.7,1.0,0.7
+onverantwoordelijk,r_a-13727,niet verantwoordelijk,-0.7,1.0,0.7
+onverbloemd,r_a-13730,onverholen,0.2,0.6,0.7
+onverbrekelijk,r_a-13731,niet te verbreken,0.4,0.8,0.7
+onverdacht,r_a-13732,waarop geen verdenking rust,0.1,0.7,0.7
+onverdeeld,r_a-14139,niet gedeeld,0.1,0.4,0.7
+onverdroten,r_a-13738,ijverig en volhardend,0.4,0.6,0.7
+onverenigbaar,r_a-13739,niet verenigbaar,-0.1,0.3,0.7
+onvergankelijk,r_a-13740,niet vergankelijk,0.4,0.7,0.7
+onvergeeflijk,r_a-13741,heel kwalijk,-0.5,1.0,0.7
+onvergetelijk,r_a-13744,wat je niet zal vergeten,0.8,1.0,1.0
+onverhard,r_a-13745,niet verhard,-0.4,0.6,0.7
+onverhoeds,r_a-13746,onverwachts,-0.1,0.4,0.7
+onverklaarbaar,r_a-13750,niet verklaarbaar,-0.1,0.6,1.0
+onverkwikkelijk,r_a-13752,naar,-0.6,1.0,0.7
+onvermijdelijk,r_a-13756,niet te vermijden,-0.1,0.4,1.0
+onverstaanbaar,r_a-13765,niet verstaanbaar,-0.2,0.5,0.7
+onverstandig,r_a-13766,niet verstandig,-0.6,0.9,0.7
+onvertogen,r_a-13770,ongepast,-0.6,0.8,0.7
+onverwacht,r_a-13775,plotseling,0.1,0.7,1.0
+onverwachts,,,0.1,0.8,1.0
+onverzettelijk,r_a-13782,onbuigzaam,-0.9,1.0,0.7
+onvoldoende,r_a-13786,niet voldoende,-0.4,0.8,1.0
+onvolledig,r_a-13787,niet volledig,-0.2,0.6,0.7
+onvolmaakt,r_a-13788,niet volmaakt,-0.4,0.4,0.7
+onvolprezen,r_a-13789,niet genoeg te prijzen,0.6,0.9,0.7
+onvolwassen,r_a-13792,niet volwassen,-0.6,0.9,0.7
+onvoorspelbaar,r_a-13795,niet te voorspellen,0.3,0.9,1.0
+onvoorstelbaar,r_a-13796,niet voor te stellen,0.1,0.8,1.0
+onvoorwaardelijk,r_a-13797,niet voorwaardelijk,0.1,0.6,1.0
+onvoorzichtig,r_a-13798,niet voorzichtig,-0.6,0.9,0.7
+onvoorzien,r_a-13799,niet voorzien,0.0,0.6,0.7
+onvriendelijk,r_a-13800,niet vriendelijk,-0.5,0.9,0.7
+onvrijwillig,r_a-13802,gedwongen,-0.2,0.4,0.7
+onwaarschijnlijk,d_a-197361,,0.9,0.9,0.7
+onwaarschijnlijk,r_a-13807,niet waarschijnlijk,-0.2,0.9,1.0
+onwaarschijnlijk,r_a-14143,onaannemelijk,-0.4,0.9,1.0
+onwankelbaar,r_a-13808,onwrikbaar,0.0,0.1,0.7
+onweerlegbaar,r_a-13810,niet te weerleggen,0.2,0.7,0.7
+onweerstaanbaar,r_a-13811,niet te weerstaan,0.6,1.0,1.0
+onwelkom,r_a-13814,niet welkom,-0.7,0.9,0.7
+onwennig,r_a-13816,nog niet gewend,-0.1,0.2,0.7
+onwenselijk,r_a-13817,ongewenst,-0.3,0.9,0.7
+onwerkbaar,r_a-13818,niet werkbaar,-0.5,0.8,0.7
+onwerkelijk,r_a-13819,werkelijkheid missend,-0.1,0.7,1.0
+onwetend,r_a-13820,onkundig,-0.6,0.9,1.0
+onwetend,r_a-14146,niet op de hoogte,-0.1,0.4,1.0
+onwezenlijk,r_a-13824,onwerkelijk,-0.1,0.7,0.9
+onwijs,r_a-13825,dwaas,-0.5,0.9,1.0
+onwijs,r_a-17352,te gek,0.9,1.0,1.0
+onwillekeurig,r_a-13826,niet opzettelijk,0.1,0.6,1.0
+onwrikbaar,r_a-13828,onwankelbaar,-0.5,0.7,0.7
+onzacht,r_a-13829,hard,-0.1,0.4,0.7
+onzalig,r_a-13830,erg ellendig,-0.6,0.6,0.7
+onzedelijk,r_a-13831,niet netjes,-0.6,0.9,0.7
+onzeker,r_a-13833,niet zeker van zichzelf,-0.4,0.8,1.0
+onzeker,r_a-13834,niet vaststaand,-0.4,0.8,1.0
+onzeker,r_a-13835,onvast,-0.4,0.6,1.0
+onzichtbaar,r_a-13837,niet zichtbaar,0.0,0.4,1.0
+onzindelijk,r_a-13839,vies,-0.6,0.7,0.7
+onzinnig,r_a-13840,dwaas,-0.6,1.0,1.0
+onzuiver,r_a-13842,vermengd of vervuild,-0.7,1.0,0.7
+onzuiver,r_a-14149,niet helemaal goed,-0.5,0.6,0.7
+oordeelkundig,r_a-13844,verstandig,0.1,0.9,0.7
+oorlogszuchtig,r_a-13845,verlangend naar oorlog,-0.3,0.9,0.7
+oorlogvoerend,r_a-13846,in oorlog,0.1,0.5,0.7
+oorspronkelijk,r_a-13847,zoals het in het begin was,0.0,0.1,1.0
+oorspronkelijk,r_a-14152,origineel,0.2,0.4,1.0
+oorverdovend,r_a-13848,ontzettend hard,0.0,0.7,0.7
+oorzakelijk,r_a-13849,de oorzaak betreffend,0.0,0.1,0.7
+oosters,r_a-13851,uit een land ten oosten van Europa,0.0,0.0,0.7
+opbouwend,r_a-13856,constructief,0.4,0.7,0.7
+opdringerig,r_a-13857,zich aan anderen opdringend,-0.4,0.8,0.7
+open,r_a-13859,niet dicht,0.0,0.1,1.0
+open,r_a-13860,nog niet vastgelegd of besloten,0.0,0.5,1.0
+open,r_a-13861,openhartig,0.6,0.8,1.0
+openbaar,r_a-13862,niet bijzonder of particulier,-0.1,0.1,1.0
+openbaar,r_a-13863,algemeen bekend,0.1,0.2,1.0
+openhartig,r_a-13864,rondborstig,0.6,0.8,1.0
+openlijk,r_a-13865,niet verborgen,0.4,0.4,1.0
+opgeklopt,r_a-13872,zwaar overdreven,-0.3,0.7,0.7
+opgelaten,r_a-13873,zich ongemakkelijk voelend,-0.1,0.7,0.7
+opgelucht,r_a-13874,verlicht,0.5,0.8,1.0
+opgezet,r_a-14156,gezegd van opgevulde dieren,-0.1,0.4,0.7
+oplosbaar,r_a-13893,op te lossen,0.3,0.6,0.7
+opmerkelijk,r_a-13894,opvallend,0.4,0.8,1.0
+oppervlakkig,r_a-13900,niet diepgaand,-0.8,1.0,1.0
+opportunistisch,r_a-13901,als (van) een opportunist,-0.6,0.9,0.7
+oprecht,r_a-13903,welgemeend,0.8,0.9,1.0
+opruiend,r_a-13904,ophitsend,-0.1,0.4,0.7
+opstopping,r_n-26766,,-0.1,0.0,0.8
+optimaal,r_a-13908,best,0.7,0.9,1.0
+optimistisch,r_a-13909,niet pessimistisch,0.6,0.9,1.0
+opvallend,r_a-13912,treffend,0.5,0.9,1.0
+opvliegend,r_a-13913,driftig,-0.6,1.0,0.7
+opvoedbaar,r_a-13914,op te voeden,0.2,0.9,0.7
+opvoedkundig,r_a-13915,pedagogisch,0.2,0.6,0.7
+opwaarts,r_a-13917,omhoog,0.2,0.6,0.7
+opwekkend,r_a-13918,opbeurend,0.7,1.0,0.7
+opwekkend,r_a-14158,stimulerend,0.4,0.6,0.7
+opwindend,r_a-13919,opwinding teweegbrengend,0.8,0.9,1.0
+opzettelijk,r_a-13920,expres,-0.4,0.9,0.7
+opzichtig,r_a-13921,te opvallend,-0.4,0.9,0.7
+opzienbarend,r_a-13923,verbazingwekkend,0.5,1.0,0.8
+ordelijk,r_a-13926,waarin orde is,0.4,0.7,0.7
+ordinair,r_a-13928,vulgair,-0.7,1.0,1.0
+organisatorisch,r_a-13929,organisatie betreffend,0.1,0.2,0.7
+origineel,r_a-13933,eigen en bijzonder,0.8,0.9,1.0
+origineel,r_a-13934,oorspronkelijk,0.1,0.2,1.0
+orthodox,r_a-13937,rechtzinnig,-0.2,0.6,1.0
+ostentatief,r_a-13939,demonstratief,0.0,0.4,0.7
+oubollig,r_a-13940,flauw en melig,-0.4,0.8,0.7
+oud,r_a-13941,van leeftijd,-0.1,0.4,1.0
+oud,r_a-13942,lang bestaand,0.1,0.2,1.0
+oud,r_a-14165,uit de Griekse en Romeinse Oudheid,0.0,0.0,1.0
+oud,r_a-14166,"voormalig, van vroeger",0.0,0.2,1.0
+oudbakken,r_a-13944,niet vers,-0.3,0.7,0.7
+oude,,JJ,-0.1,0.3,1.0
+ouderloos,r_a-16633,zonder ouders,-0.1,0.1,0.7
+ouderwets,r_a-13946,van vroeger,-0.4,0.8,1.0
+ouderwets,r_a-14167,net als vroeger,-0.4,0.8,1.0
+oudheidkundig,r_a-13947,de oudheidkunde betreffend,0.0,0.0,0.9
+ovationeel,r_a-13949,als een ovatie,0.3,0.8,0.7
+ovenvers,r_a-13951,heel vers,0.1,0.4,0.7
+overbekend,r_a-13953,heel bekend,0.4,0.6,0.7
+overbodig,r_a-13958,onnodig,-0.5,0.9,1.0
+overdadig,r_a-13961,met overdaad,-0.3,0.9,1.0
+overdrachtelijk,r_a-13964,figuurlijk,0.0,0.2,0.9
+overdreven,r_a-13965,buitensporig,-0.4,1.0,1.0
+overduidelijk,r_a-13966,volstrekt duidelijk,0.3,0.9,1.0
+overgelukkig,r_a-13972,erg gelukkig,0.8,0.9,0.7
+overgroot,r_a-13974,erg groot,0.1,0.7,0.7
+overhaast,r_a-13975,overijld,-0.6,1.0,0.7
+overheerlijk,r_a-13976,zalig,0.7,0.9,0.7
+overig,r_a-13979,gezegd van wat over is,0.0,0.0,1.0
+overig,r_a-13980,ander,0.0,0.1,1.0
+overijld,r_a-13981,overhaast,0.0,0.4,0.7
+overijverig,r_a-13982,al te ijverig,0.0,0.9,0.7
+overkoepelend,r_a-13984,andere dingen verenigend,0.0,0.1,0.7
+overmatig,r_a-13988,buitensporig,-0.3,0.9,0.7
+overmoedig,r_a-13989,vol overmoed,-0.2,0.8,0.7
+overrijp,r_a-13990,meer dan rijp,-0.3,0.5,0.7
+overspannen,r_a-13992,overwerkt,-0.4,0.7,0.7
+overspannen,r_a-14174,overprikkeld,-0.1,0.6,0.7
+overtollig,r_a-13996,overcompleet,0.0,0.0,0.7
+overtuigend,r_a-13999,wat overtuigt,0.5,0.8,1.0
+overtuigend,r_a-14175,indrukwekkend,0.7,0.9,1.0
+oververhit,r_a-14000,te heet,-0.4,0.5,0.7
+overvol,r_a-14005,bomvol,-0.1,0.6,0.8
+overweldigend,r_a-14008,ontzaglijk,0.4,0.9,1.0
+overwinning,,,0.6,0.7,0.8
+overzichtelijk,r_a-14011,makkelijk te overzien,0.5,0.7,1.0
+pacifistisch,r_a-14243,volgens het pacifisme,0.0,0.4,0.7
+pafferig,r_a-14244,opgeblazen,-0.2,0.4,0.7
+pakkende,,,0.4,0.9,1.0
+paniekerig,r_a-14178,schrikachtig,-0.6,1.0,0.7
+panklaar,r_a-14179,gebruiksklaar,0.4,0.6,0.7
+paradijselijk,r_a-14182,als in paradijs,0.4,0.6,0.7
+paradoxaal,r_a-14248,tegenstrijdig lijkend,-0.2,0.7,0.7
+parallel,r_a-14249,evenwijdig,0.0,0.0,1.0
+paramedisch,r_a-14250,met geneeskunde samenhangend,0.0,0.0,0.7
+paranormaal,r_a-14252,buitenzintuiglijk,0.0,0.4,0.7
+paranoïde,r_a-14251,extreem achterdochtig,-0.6,0.8,0.7
+particulier,r_a-14256,persoonlijk,0.0,0.5,0.7
+partieel,r_a-14258,gedeeltelijk,-0.1,0.3,0.9
+partijloos,r_a-14185,zonder politieke partij,0.0,0.4,0.7
+pasgeboren,r_a-14187,net op aarde,0.0,0.0,0.7
+pasklaar,r_a-14261,passend,0.5,0.7,0.7
+passé,r_a-14262,voorbij,-0.3,0.6,0.7
+paternalistisch,r_a-14268,autoritair,-0.9,1.0,0.7
+pathetisch,r_a-14269,overdreven,-0.6,0.9,1.0
+pathologisch,r_a-14270,SJF med,0.0,0.0,0.7
+patriottisch,r_a-14188,vaderlandslievend,0.0,0.1,0.7
+pauselijk,r_a-14190,van paus,0.0,0.4,0.7
+peilloos,r_a-14275,niet te peilen,0.3,0.6,0.7
+pejoratief,r_a-14451,met negatieve bijklank,0.0,0.9,0.7
+penetrant,r_a-14276,doordringend,0.3,0.6,0.7
+penibel,r_a-14277,"moeilijk, lastig",-0.5,1.0,0.9
+pensioengerechtigd,r_a-14192,met recht op pensioen,0.1,0.2,0.7
+peperduur,r_a-14193,heel duur,-0.4,0.7,0.7
+perfect,r_a-14278,volmaakt,1.0,1.0,1.0
+perkamentachtig,r_a-14455,lijkend op perkament,-0.5,0.6,0.7
+permanent,r_a-14282,blijvend,0.1,0.4,0.7
+perplex,r_a-14194,verbijsterd,-0.4,0.9,0.9
+persistent,r_a-14195,blijvend,0.0,0.5,0.7
+persoonlijk,r_a-14285,van of voor iemand,0.1,0.5,1.0
+persoonlijk,r_a-14286,zelf,0.0,0.4,1.0
+pertinent,r_a-14287,onbetwistbaar,0.0,0.5,0.7
+pervers,r_a-14288,tegennatuurlijk,-0.8,0.9,1.0
+pessimistisch,r_a-14289,"somber, negatief",-0.5,0.9,0.7
+petieterig,r_a-14291,nietig,-0.8,1.0,0.7
+piekfijn,r_a-14294,"keurig, in orde",0.5,0.7,0.7
+pienter,r_a-14295,schrander,0.8,0.9,1.0
+piepjong,r_a-14197,jong,0.1,0.4,0.8
+piepklein,r_a-14198,klein,0.1,0.4,0.8
+pijlsnel,r_a-14199,zeer snel,0.0,0.3,0.7
+pijnlijk,r_a-14298,pijn veroorzakend,-0.7,0.9,1.0
+pijnlijk,r_a-14299,"moeilijk, lastig",-0.6,1.0,1.0
+pijnloos,r_a-14200,zonder pijn,0.1,0.6,0.7
+pikant,r_a-14300,pittig,0.6,0.9,1.0
+pikant,r_a-14301,prikkelend,0.6,1.0,1.0
+pissig,r_a-14304,giftig,-0.7,1.0,0.7
+pittig,r_a-14305,met pit,0.6,0.9,1.0
+pittig,r_a-14306,pikant,0.2,0.7,1.0
+pittig,r_a-14307,behoorlijk moeilijk,-0.3,0.9,1.0
+pittoresk,r_a-14308,schilderachtig,0.1,0.6,0.7
+plaatselijk,r_a-14309,op of van een plaats,0.0,0.1,1.0
+plaatsvervangend,r_a-14202,waarnemend,0.0,0.1,0.7
+plagerig,r_a-14460,geneigd te plagen,0.2,0.9,0.7
+plakkerig,r_a-14310,kleverig,-0.4,0.5,1.0
+plastisch,r_a-14313,beeldend,0.1,0.4,1.0
+plat,r_a-14314,niet dik of hoog,0.0,0.2,1.0
+plat,r_a-14315,horizontaal (adverb),0.0,0.0,1.0
+plat,r_a-14316,met dialect,-0.2,0.7,1.0
+plat,r_a-14317,ordinair,-0.7,1.0,1.0
+platvloers,r_a-14319,onbeschaafd,-0.5,0.9,0.9
+plausibel,r_a-14321,geloofwaardig,0.4,0.7,0.9
+plechtig,r_a-14322,officieel en ernstig,0.3,0.4,0.7
+plechtstatig,r_a-14323,plechtig en statig,0.0,0.2,0.7
+plenair,r_a-14324,voltallig,0.0,0.1,0.7
+plezant,r_a-14325,plezierig,0.4,1.0,0.7
+plezierig,r_a-14326,leuk,0.7,1.0,1.0
+plichtmatig,r_a-14327,uit plichtsbesef,0.1,0.8,0.7
+plichtsgetrouw,r_a-14328,nauwgezet,0.0,0.9,0.7
+plots,r_a-14205,plotseling,0.0,0.6,1.0
+plotseling,r_a-14206,onverwacht,0.0,0.7,1.0
+poeslief,r_a-14335,overdreven lief,-0.1,0.5,0.7
+poliklinisch,r_a-14340,te maken hebbend met polikliniek,0.1,0.1,0.7
+politiek,r_a-14341,te maken hebbend met politiek,0.0,0.1,1.0
+politiek,r_a-14496,tactisch,0.0,0.7,1.0
+politioneel,r_a-14342,van of door politie,-0.1,0.1,0.7
+pompeus,r_a-14346,overdreven,-0.2,0.2,0.7
+populair,r_a-14349,geliefd en bekend,0.6,0.9,1.0
+populair,r_a-14350,eenvoudig en begrijpelijk,0.1,0.9,1.0
+populistisch,r_a-14209,te maken hebbend met populisme,-0.1,0.4,0.7
+positief,r_a-14352,instemmend,0.5,0.7,1.0
+positief,r_a-14354,groter dan nul,0.1,0.1,1.0
+postjes,,,-0.2,0.3,0.7
+postmodern,r_a-14213,behorend tot postmodernisme,0.1,0.5,0.7
+potent,r_a-14360,in staat tot geslachtsgemeenschap,0.3,0.9,0.7
+potentieel,r_a-14361,mogelijk,0.0,0.3,0.7
+potig,r_a-14362,grof gebouwd,0.3,0.9,0.7
+potsierlijk,r_a-14363,lachwekkend,-0.2,1.0,0.8
+pover,r_a-14364,armoedig,-0.5,0.8,0.7
+poëtisch,r_a-14336,dichterlijk,0.2,0.5,1.0
+praalziek,r_a-14471,ijdel,-0.3,0.7,0.7
+praatziek,r_a-14215,erg veel pratend,-0.5,0.8,0.7
+prachtig,d_a-223293,heel goed,1.0,1.0,1.0
+prachtig,r_a-14365,heel mooi,1.0,1.0,1.0
+praktisch,r_a-14367,met de praktijk te maken hebbend,0.2,0.4,1.0
+praktisch,r_a-14368,handig,0.6,0.9,1.0
+precair,r_a-14370,onzeker,-0.5,1.0,0.9
+precies,r_a-14371,juist,0.4,0.6,1.0
+precies,r_a-14372,zorgvuldig,0.4,0.6,1.0
+prematuur,r_a-14379,voorbarig,0.1,0.3,0.7
+prenataal,r_a-14380,voor de geboorte,0.0,0.2,0.7
+presbyteriaans,r_a-14474,SJF rel,0.0,0.1,0.7
+pretentieus,r_a-14383,aanmatigend,-0.6,0.9,1.0
+prettig,r_a-14384,"aangenaam, plezierig",0.7,1.0,1.0
+prijsbewust,r_a-14479,bewust van prijzen,0.4,0.6,0.7
+prijzig,r_a-14388,duur,-0.4,0.6,0.7
+pril,r_a-14390,pas ontstaan,0.0,0.2,0.7
+prima,r_a-14391,uitstekend,0.7,1.0,1.0
+primordiaal,d_a-224965,,0.1,0.4,0.7
+principaal,d_a-224985,,0.1,0.4,0.7
+principieel,r_a-14395,uit principe,0.3,0.8,0.7
+privaat,r_a-14221,particulier,-0.2,0.5,0.7
+privaatrechtelijk,r_a-14222,volgens het privaatrecht,-0.2,0.3,0.7
+privé,r_a-14397,persoonlijk,0.0,0.5,1.0
+probaat,r_a-14398,beproefd,0.6,0.8,0.7
+problemen,,,-0.2,0.2,0.7
+proefondervindelijk,r_a-14403,door experiment,0.1,0.1,1.0
+professioneel,r_a-14406,door beroepsmensen gedaan,0.3,0.4,1.0
+professioneel,r_a-14407,vakkundig,0.5,0.7,1.0
+profetisch,r_a-14408,met voorspellende kracht,0.7,0.9,0.7
+profijtelijk,r_a-14224,voordelig,-0.1,0.1,0.7
+progressief,r_a-14411,vooruitstrevend,0.0,0.6,0.9
+progressief,r_a-14412,voortschrijdend,0.0,0.6,0.8
+proletarisch,r_a-14413,te maken hebbend met proletariaat,-0.1,0.4,0.7
+prominent,r_a-14414,vooraanstaand,0.3,0.9,0.7
+prompt,r_a-14415,direct,0.0,0.3,0.7
+prompt,r_a-14416,stipt,0.0,0.6,0.7
+propagandistisch,r_a-14225,bestemd of geschikt voor propaganda,0.0,0.6,0.7
+proportioneel,r_a-14226,evenredig,-0.1,0.6,0.7
+propvol,r_a-14227,erg vol,0.2,0.5,0.7
+protectionistisch,r_a-14228,van protectionisme,-0.3,0.7,0.7
+protest,r_n-29959,,-0.1,0.0,0.8
+protestant,r_a-14419,met het protestantisme te maken hebbend,0.0,0.1,0.7
+protestants,r_a-14420,,0.0,0.1,0.7
+protocollair,r_a-14229,volgens protocol,0.0,0.6,0.7
+protserig,r_a-14421,pronkerig,-0.3,0.9,0.7
+provinciaal,r_a-14422,te maken hebbend met provincie,-0.5,0.9,0.7
+provocateurs,,,-0.2,0.3,0.8
+provoceren,r_v-6491,,-0.2,0.2,0.8
+prozaïsch,r_a-14424,alledaags,-0.1,0.9,0.7
+psychisch,r_a-14426,geestelijk,0.0,0.1,1.0
+psychologisch,r_a-14427,betrekking hebbend op psychologie,0.0,0.1,1.0
+psychopathisch,r_a-14484,als van psychopaat,-0.6,1.0,0.7
+psychosociaal,r_a-14234,SJF psych,0.0,0.1,0.7
+psychosomatisch,r_a-14428,mbt. samenhang van lichaam en geest,0.0,0.1,0.7
+puberaal,r_a-14429,als van puber,-0.5,0.8,0.7
+publiek,d_a-227664,algemeen bekend,0.0,0.2,1.0
+publiek,r_a-14431,van of voor iedereen,0.1,0.1,1.0
+publieksvriendelijk,r_a-14237,toegankelijk voor publiek,0.3,0.3,0.7
+puik,r_a-14432,uitstekend,0.9,1.0,0.9
+punctueel,r_a-14433,"stipt, nauwgezet",0.4,0.7,0.7
+puntig,r_a-14434,spits,0.0,0.0,0.7
+puur,r_a-14438,zuiver,0.4,0.7,1.0
+raadselachtig,r_a-14499,geheimzinnig,0.1,0.9,1.0
+raak,r_a-14501,niet mis,0.4,0.5,1.0
+raak,r_a-14502,treffend,0.4,0.8,1.0
+raar,r_a-14503,vreemd,-0.4,1.0,1.0
+raciaal,r_a-14664,mbt. ras,-0.1,0.5,0.7
+racist,,,-0.5,0.8,0.7
+racistisch,r_a-14504,getuigend van racisme,-0.7,1.0,0.7
+rad,r_a-14505,rap,0.0,0.8,0.7
+ragfijn,r_a-14667,heel fijn,-0.1,0.3,0.7
+raisonnabel,d_a-233520,,0.3,0.9,0.7
+ramp,r_n-30452,,-0.4,0.3,0.9
+rampspoedig,r_a-14712,rampzalig,-0.7,1.0,0.7
+rampzalig,r_a-14511,desastreus,-0.6,0.8,0.7
+rancuneus,r_a-14512,wrokkig,-0.5,0.6,0.7
+ranzig,r_a-14514,slechte of bedorven vet en olie,-0.8,0.9,1.0
+rap,r_a-14515,vlug,0.0,0.5,1.0
+ras,r_a-14516,vlug,0.2,0.6,1.0
+rasperig,r_a-14714,raspig,-0.6,1.0,0.7
+rationalistisch,r_a-14715,"verstandelijk, cerebraal",0.0,0.4,0.7
+rationeel,r_a-14517,"verstandelijk, verstandig",0.6,0.8,1.0
+rationeel,r_a-14748,SJF wisk,0.1,0.1,1.0
+rauw,r_a-14518,ongekookt,-0.1,0.1,1.0
+rauw,r_a-14520,hard en schor,-0.3,0.6,1.0
+rauw,r_a-14750,zonder franje,0.0,0.8,1.0
+razend,r_a-14521,furieus,-0.9,1.0,1.0
+razend,r_a-14522,geweldig,0.8,1.0,1.0
+razendsnel,r_a-14669,supersnel,0.1,0.5,0.7
+reactionair,r_a-14523,conservatief,-0.1,0.6,0.7
+realiseerbaar,r_a-14670,uitvoerbaar,0.6,0.9,0.7
+realistisch,d_a-234718,behorend bij het Realisme,0.0,0.1,1.0
+realistisch,d_a-529199,naar de waarheid,0.4,0.6,1.0
+realistisch,r_a-14524,reëel,0.1,0.4,1.0
+recalcitrant,r_a-14526,onwillig,-0.6,0.9,0.7
+recent,r_a-14527,van kort geleden,0.0,0.4,1.0
+recht,r_a-14528,niet krom,0.0,0.1,1.0
+recht,r_a-14529,niet scheef,0.1,0.2,1.0
+recht,r_a-14752,juist,0.4,0.7,1.0
+rechtgeaard,r_a-14533,echt,0.2,0.4,0.7
+rechtlijnig,r_a-14534,volgens een rechte lijn,0.0,0.1,1.0
+rechts,r_a-14536,ter rechterzijde,0.0,0.1,1.0
+rechts,r_a-14537,rechtshandig,0.0,0.1,1.0
+rechts,r_a-14538,politiek conservatief,-0.2,0.4,1.0
+rechts-radicaal,r_a-14674,rechts-extremistisch,0.0,0.4,0.7
+rechtschapen,r_a-14539,deugdzaam,0.4,0.8,0.7
+rechtstreeks,r_a-14541,direct,0.4,0.4,1.0
+rechtvaardig,r_a-14542,billijk,0.2,0.6,0.7
+reddeloos,r_a-14547,zonder redding,-0.3,0.7,0.7
+redekundig,r_a-14548,,0.0,0.0,0.7
+redelijk,r_a-14549,billijk,0.3,0.9,1.0
+redelijk,r_a-14550,niet slecht,0.1,0.9,1.0
+redelijk,r_a-14551,rationeel,0.1,0.4,1.0
+redeloos,r_a-14552,onredelijk,-0.4,0.8,0.7
+regelbaar,r_a-14676,verstelbaar,0.1,0.2,0.7
+regelmatig,r_a-14557,geregeld,0.1,0.3,1.0
+regelmatig,r_a-14558,gelijkmatig,0.1,0.3,1.0
+regelrecht,r_a-14677,rechtstreeks,0.0,0.6,1.0
+regenachtig,r_a-14559,met (veel) regen,-0.2,0.4,1.0
+reikhalzend,r_a-14563,verlangend,0.4,0.9,1.0
+rein,r_a-14564,zuiver,0.4,0.7,0.7
+rekbaar,r_a-14566,elastisch,-0.4,0.8,0.7
+rekenkundig,r_a-14567,volgens de rekenkunde,0.0,0.0,0.7
+relatief,r_a-14568,verhoudingsgewijs,0.0,0.5,1.0
+relationeel,r_a-14679,mbt. relatie(s),0.0,0.1,0.7
+relaxed,r_a-14569,op z'n gemak,0.6,0.9,1.0
+relevant,r_a-14570,van belang,0.4,0.9,1.0
+religieus,r_a-14571,godsdienstig,0.0,0.4,1.0
+remonstrants,r_a-14572,mbt. de Remonstrantse Broederschap,0.0,0.1,0.7
+renaissancistisch,r_a-14727,mbt. de Renaissance,-0.1,0.4,0.7
+repressief,r_a-14577,onderdrukkend,-0.5,0.9,0.7
+republikeins,r_a-14682,v.e. republiek,0.0,0.4,0.7
+republikeins,r_a-14758,van de republikeinen,0.0,0.1,0.7
+resistent,r_a-14578,immuun,-0.1,0.1,0.7
+respectabel,d_a-238846,,0.6,1.0,0.7
+respectabel,r_a-14580,respect verdienend,0.3,0.5,0.7
+respectievelijk,r_a-14582,respectief,-0.1,0.1,0.7
+respectloos,,,-0.7,0.9,1.0
+respectvol,r_a-14729,met respect,0.5,0.7,1.0
+restrictief,r_a-14684,inperkend,-0.5,0.9,0.7
+retorisch,r_a-14583,redekunstig,0.2,0.7,0.7
+retorisch,r_a-14767,bombastisch,-0.2,0.9,0.7
+retrospectief,r_a-14584,terugkijkend,-0.4,0.6,0.7
+reumatisch,r_a-14768,met reumatiek,0.0,0.1,0.7
+reusachtig,r_a-14585,gigantisch,0.4,0.8,0.9
+reuze,r_a-14586,reusachtig,0.9,1.0,0.7
+reëel,r_a-14554,werkelijk,0.0,0.3,1.0
+reëel,r_a-14555,realistisch,0.1,0.5,0.7
+riant,r_a-14589,royaal,0.6,0.9,0.7
+riant,r_a-14769,aantrekkelijk,0.7,0.9,0.7
+ridicuul,r_a-14591,bespottelijk,-1.0,1.0,1.0
+rigide,r_a-14592,star,-0.5,0.9,0.7
+rigoureus,r_a-14593,drastisch,-0.2,0.7,0.7
+rijk,r_a-14594,gegoed,0.5,0.8,1.0
+rijk,r_a-14595,overvloedig,0.6,1.0,1.0
+rijk,r_a-14770,ruim voorzien van iets,0.6,0.9,1.0
+rijp,r_a-14596,volgroeid,0.3,0.5,1.0
+rijp,r_a-14597,geschikt,0.4,0.9,1.0
+rijp,r_a-14771,weloverwogen,0.4,0.9,1.0
+rimpelig,r_a-14600,met rimpels,-0.2,0.5,0.7
+riskant,r_a-14602,gevaarlijk,-0.4,0.9,0.7
+robuust,r_a-14605,fors,0.1,0.9,1.0
+roekeloos,r_a-14606,heel onbezonnen,-0.7,1.0,0.7
+roemloos,r_a-14693,oneervol,-0.6,0.8,0.7
+roemrijk,r_a-14607,glorieus,0.5,0.8,0.7
+roemrucht,r_a-14608,vermaard,0.7,0.9,0.7
+roemruchtig,d_a-416294,,0.5,0.9,0.7
+roemvol,r_a-14734,glorieus,0.8,1.0,0.7
+roerend,r_a-14774,vervoerbaar,0.0,0.1,0.7
+roerig,r_a-14610,druk,-0.2,0.7,1.0
+roerloos,r_a-14775,stuurloos,-0.2,0.8,0.7
+roestkleurig,r_a-14736,roestbruin,-0.6,0.9,0.7
+roetzwart,r_a-14614,pikzwart,-0.4,0.7,0.7
+rokerig,r_a-14696,vol rook,0.1,0.5,0.7
+romantisch,r_a-14620,"tot gevoel, verbeelding sprekend",0.6,0.9,1.0
+romantisch,r_a-14621,dromerig,0.4,1.0,1.0
+romantisch,r_a-14778,van de romantiek,0.1,0.1,1.0
+rommelig,r_a-14623,wanordelijk,-0.4,0.9,1.0
+rood,r_a-14628,bloedkleurig,0.0,0.0,1.0
+rood,r_a-14629,links,-0.1,0.6,1.0
+roodbruin,r_a-14698,roodachtig bruin,0.0,0.1,0.7
+rooms,r_a-14632,,0.0,0.1,0.9
+rooms-katholiek,r_a-14633,katholiek,0.0,0.1,0.9
+rooskleurig,r_a-14634,veelbelovend,0.6,1.0,1.0
+rossig,r_a-14636,roodachtig van haar,0.0,0.1,0.7
+rot,r_a-14637,"bedorven, verrot",-0.4,0.4,1.0
+rot,r_a-14638,ellendig,-0.9,1.0,1.0
+rotsvast,r_a-14702,onwrikbaar,0.0,0.7,0.7
+routinematig,r_a-14703,als een automatisme,-0.1,0.4,0.7
+routineus,r_a-14704,geroutineerd,-0.4,0.9,0.7
+royaal,r_a-14642,ruim,0.1,0.7,0.7
+roze,r_a-14643,bleekrood,-0.1,0.3,1.0
+rudimentair,r_a-14647,als rudiment,-0.1,0.3,0.7
+ruim,c_545617,van karakter,0.0,0.6,1.0
+ruimdenkend,r_a-14651,onbekrompen,0.2,0.7,0.7
+ruimhartig,r_a-14706,mild,0.6,0.7,0.7
+ruimschoots,,,0.1,0.7,1.0
+rul,r_a-14654,mul,0.1,0.2,0.7
+rusteloos,r_a-14656,ongedurig,-0.4,0.7,0.7
+rustiek,r_a-14657,landelijk,-0.8,1.0,0.7
+rustig,r_a-14658,kalm,0.4,0.9,1.0
+ruw,r_a-14660,oneffen,-0.1,0.4,1.0
+ruw,r_a-14661,niet bewerkt,-0.1,0.1,1.0
+ruw,r_a-14662,niet precies,-0.4,0.6,1.0
+ruw,r_a-14663,van karakter,-0.5,0.9,1.0
+rücksichtslos,r_a-14710,nietsontziend,-0.6,0.9,0.7
+ruzie,r_n-32330,,-0.2,0.1,0.7
+ruziën,r_v-6893,,-0.2,0.1,0.7
+ruziemaken,,,-0.2,0.1,0.7
+saai,r_a-14781,om je bij te vervelen,-0.7,1.0,1.0
+sadistisch,r_a-14784,getuigend van sadisme,-0.7,0.9,0.7
+safe,r_a-14785,veilig,0.4,0.6,1.0
+saillant,r_a-14786,opvallend,0.3,0.7,0.7
+samenhangend,r_a-15121,coherent,0.4,0.6,0.7
+sappig,r_a-14790,vol sap,0.1,0.3,1.0
+sappig,r_a-14791,smeuïg,0.2,0.6,1.0
+sarcastisch,r_a-14792,vol sarcasme,0.1,0.8,1.0
+sardonisch,r_a-14793,met boosaardige spot,-0.4,0.9,0.7
+satanisch,r_a-14794,duivels,-0.6,0.9,0.7
+scandaleus,r_a-14797,schandelijk,-0.2,0.8,0.7
+sceptisch,r_a-14798,vol scepsis,-0.1,0.8,1.0
+schaamteloos,r_a-14801,ongegeneerd,-0.5,0.9,1.0
+schaapachtig,r_a-14802,onnozel,-0.2,0.8,0.7
+schaars,r_a-14803,karig,0.0,0.4,0.7
+schadelijk,r_a-14804,nadelig,-0.5,0.9,0.7
+schadevrij,r_a-15124,zonder schade,0.2,0.4,0.7
+schalks,r_a-14805,guitig,0.0,0.9,0.7
+schamel,r_a-14806,in slechte staat,-0.4,0.7,0.7
+schamel,r_a-15357,pover,-0.1,0.5,0.7
+schamper,r_a-14807,geringschattend,-0.2,0.8,0.7
+schandalig,r_a-14808,zeer afkeurenswaardig,-0.6,1.0,0.7
+schande,r_n-32740,,-0.4,0.4,0.8
+schandelijk,r_a-14809,zeer afkeurenswaardig,-0.8,1.0,0.7
+schappelijk,r_a-14810,redelijk,0.3,0.9,0.9
+schatrijk,r_a-15203,zeer rijk,0.6,1.0,0.9
+scheef,r_a-14814,schuin,-0.1,0.1,1.0
+scheef,r_a-14815,verkeerd,-0.5,0.9,1.0
+scheel,r_a-14816,loens,-0.3,0.5,0.7
+scheidsrechterlijk,r_a-15205,v.e. scheidsgerecht,0.0,0.3,0.7
+scheidsrechterlijk,r_a-15358,van scheidsrechter,0.0,0.3,0.7
+schelden,r_v-6986,,-0.2,0.1,0.7
+schemerachtig,r_a-15206,schemerig,0.0,0.3,0.7
+scherp,r_a-14821,niet bot,0.1,0.4,1.0
+scherp,r_a-14822,puntig,0.1,0.4,1.0
+scherp,r_a-14823,van geluid,-0.4,0.6,1.0
+scherp,r_a-14824,van smaak en geur,-0.1,0.8,1.0
+scherp,r_a-14825,bits,-0.6,1.0,1.0
+scherp,r_a-14826,scherpzinnig,0.6,0.9,1.0
+scherp,r_a-15309,(van munitie),0.1,0.2,1.0
+scherp,r_a-15310,"goed, effectief",0.6,0.9,1.0
+scherpzinnig,r_a-14827,schrander,0.5,0.9,1.0
+schichtig,r_a-14830,schuw,-0.4,0.9,0.7
+schietklaar,r_a-15210,klaar om te schieten,-0.1,0.6,0.7
+schijnbaar,r_a-14831,ogenschijnlijk,-0.1,0.4,1.0
+schilderachtig,r_a-14835,pittoresk,0.5,0.8,0.7
+schilferig,r_a-14836,bladderig,0.1,0.4,0.7
+schilferig,r_a-15311,schilferachtig,-0.4,0.7,0.7
+schimmelig,r_a-14837,beschimmeld,-0.8,0.9,0.7
+schimmelig,r_a-15312,schimmelachtig,-0.8,0.9,0.7
+schimmig,r_a-14840,vaag,-0.7,0.9,0.7
+schitterend,r_a-14838,prachtig,1.0,1.0,1.0
+schitterend,r_a-15313,glinsterend,0.4,0.7,1.0
+schizofreen,r_a-14839,met gespleten persoonlijkheid,-0.7,0.9,0.7
+schlemielig,r_a-15214,als (van) een schlemiel,-0.5,0.8,0.7
+schokkend,r_a-15128,een schok teweegbrengend,-0.1,0.6,1.0
+schonkig,r_a-14841,(p)lomp,-0.7,0.9,0.7
+schoolmeesterachtig,r_a-15130,pedant,-0.4,0.9,0.7
+schoon,r_a-14844,rein,0.5,0.6,1.0
+schoon,r_a-14845,mooi,0.9,1.0,1.0
+schoon,r_a-14846,netto,0.0,0.0,1.0
+schor,r_a-14848,hees,-0.3,0.6,1.0
+schrander,r_a-14853,pienter,0.3,0.9,0.7
+schriel,r_a-14855,mager,-0.5,0.8,0.7
+schrijnend,r_a-14857,navrant,-0.6,0.9,1.0
+schrikbarend,r_a-14858,verschrikkelijk,-0.5,0.9,0.7
+schril,r_a-14859,onaangenaam fel,-0.4,0.7,0.7
+schuchter,r_a-14861,bedeesd,-0.4,0.9,1.0
+schuin,r_a-14862,scheef,-0.1,0.1,0.9
+schuin,r_a-14863,schunnig,-0.6,0.9,0.7
+schuins,r_a-14864,schuin,-0.5,1.0,0.7
+schuldig,r_a-14866,verantwoordelijk,-0.5,0.8,1.0
+schuldig,r_a-14867,verschuldigd,-0.1,0.3,1.0
+schunnig,r_a-14868,obsceen,-0.6,0.9,0.7
+schurftig,r_a-15227,vies,-0.3,0.8,0.7
+schurftig,r_a-15317,schurftachtig,-0.3,0.8,0.7
+schuw,r_a-14870,schichtig,-0.6,0.9,0.7
+scrupuleus,r_a-14871,nauwkeurig,0.4,0.6,0.7
+secuur,r_a-14875,nauwgezet,0.4,0.6,0.7
+sefardisch,r_a-15133,mbt. de sefarden,0.0,0.0,0.7
+seismisch,r_a-15134,mbt. aardbevingen,0.0,0.1,0.7
+seksistisch,r_a-14876,waaruit seksisme blijkt,-0.7,0.9,0.7
+seksueel,r_a-14877,mbt. seksualiteit,0.2,0.6,1.0
+sektarisch,r_a-14878,mbt. een sekte,-0.5,0.7,0.7
+selfmade,r_a-14881,zelf gedaan,0.5,0.8,0.7
+senior,r_a-14883,ouder,0.0,0.1,0.7
+senior,r_a-15324,met meer ervaring,0.4,0.7,0.7
+sensatiebelust,r_a-15231,belust op sensatie,-0.2,0.6,0.7
+sensationeel,r_a-14884,opzienbarend,0.6,0.9,1.0
+sensibel,r_a-14885,gevoelig,0.1,0.8,0.7
+sentimenteel,r_a-14888,week,-0.1,1.0,1.0
+separaat,r_a-15136,gescheiden,0.0,0.1,0.7
+sereen,r_a-14889,kalm en vredig,0.0,0.4,0.7
+serieus,r_a-14890,gemeend,0.3,0.6,1.0
+sexy,r_a-14892,opwindend,0.8,1.0,1.0
+sfeerloos,r_a-15234,zonder sfeer,-0.6,0.9,0.7
+sfeervol,r_a-14893,met sfeer,0.6,0.9,1.0
+shabby,r_a-14894,sjofel,-0.5,0.9,0.7
+significant,r_a-14897,veelbetekenend,0.2,0.5,0.7
+simpel,r_a-14899,eenvoudig,0.1,0.9,1.0
+simpel,r_a-14900,onnozel,-0.6,1.0,1.0
+simplistisch,r_a-14901,al te simpel,-0.5,0.9,1.0
+simultaan,r_a-14902,tegelijk,0.0,0.0,0.7
+sinister,r_a-14904,onheilspellend,-0.5,0.9,1.0
+sip,r_a-14905,beteuterd,-0.5,0.9,0.7
+sjofel,r_a-14906,shabby,-0.2,0.6,0.7
+slaafs,r_a-14907,serviel,-0.8,1.0,0.7
+slaapverwekkend,r_a-15139,heel saai,-0.9,1.0,1.0
+slap,r_a-14912,los,-0.2,0.5,1.0
+slap,r_a-15327,niet druk,-0.3,0.7,1.0
+slapeloos,r_a-14914,zonder slapen,-0.4,0.6,1.0
+slecht,r_a-14916,niet goed,-0.7,0.9,1.0
+slijmerig,r_a-14922,kruiperig,-0.4,0.8,0.7
+slim,r_a-14923,pienter,0.8,0.9,1.0
+slinks,r_a-14924,sluw,-0.3,0.8,0.7
+sloom,r_a-14926,futloos,-0.6,0.7,1.0
+slopend,r_a-14927,afmattend,-0.6,1.0,0.7
+slordig,r_a-14928,niet netjes,-0.6,0.8,1.0
+slordig,r_a-14929,om en nabij,-0.2,0.8,1.0
+smaakloos,r_a-15245,zonder smaak,0.2,0.7,0.7
+smaakvol,r_a-14932,met veel smaak,0.5,0.6,0.7
+smachtend,r_a-15142,hevig verlangend,0.5,1.0,0.7
+smadelijk,r_a-14933,vernederend,-0.7,0.9,0.7
+smakelijk,r_a-14934,lekker,0.8,0.9,1.0
+smakelijk,r_a-14935,smeuïg,0.6,0.9,1.0
+smakeloos,r_a-14936,niet bijzonder mooi,-0.7,1.0,0.7
+smal,r_a-14937,niet breed,0.0,0.1,0.7
+smartelijk,r_a-14938,tragisch,-0.8,1.0,1.0
+smerig,r_a-14939,vuil,-0.6,0.9,1.0
+smetteloos,r_a-14940,vlekkeloos,0.4,0.5,0.7
+smeuïg,r_a-14941,vettig en romig,0.1,0.3,0.7
+smeuïg,r_a-14942,smakelijk,0.6,1.0,0.7
+smoorverliefd,r_a-15250,dolverliefd,0.8,1.0,0.7
+snedig,r_a-14945,ad rem,-0.2,0.8,0.7
+snel,r_a-14946,vlug,0.2,0.6,1.0
+snel,r_a-14948,modieus,0.6,0.9,1.0
+snelgroeiend,r_a-15144,snel groeiend,0.1,0.5,0.7
+snibbig,r_a-14950,kattig,-0.1,0.8,0.7
+snijdend,r_a-15145,scherp en doordringend,-0.3,0.9,0.7
+snijdend,r_a-15330,kruisend,0.2,0.7,0.7
+snikheet,r_a-15146,erg heet,-0.6,0.8,0.7
+snipverkouden,r_a-15254,snotverkouden,-0.7,1.0,0.7
+snood,r_a-14954,slecht,-0.7,0.8,0.7
+snugger,r_a-14955,slim,0.8,0.9,1.0
+sober,r_a-14956,zonder overdaad,0.3,0.9,1.0
+sociaal,r_a-14957,maatschappelijk,0.0,0.1,1.0
+sociaal,r_a-14958,met maatschappelijk besef,0.6,0.8,1.0
+sociaal,r_a-14959,in groepen levend,0.1,0.1,1.0
+sociaal-cultureel,r_a-15147,cultureel-maatschappelijk,0.0,0.0,0.7
+sociaal-democratisch,r_a-15148,v.d. sociaal-democratie,0.0,0.4,0.7
+socialistisch,r_a-14960,v.h. socialisme,0.0,0.4,0.7
+sociologisch,r_a-15150,mbt. de sociologie,0.0,0.0,0.7
+soepel,r_a-14961,flexibel,0.4,0.7,1.0
+soepel,r_a-14962,gemakkelijk,0.6,0.7,1.0
+solide,r_a-14966,degelijk,0.5,0.9,1.0
+sollen,r_v-7320,,-0.2,0.1,0.8
+somber,r_a-14969,droefgeestig,-0.4,0.9,1.0
+somber,r_a-14970,treurigmakend donker,-0.6,0.9,1.0
+somptueus,d_a-264718,,0.6,0.9,0.7
+soortgelijk,r_a-15152,overeenkomstig,0.0,0.2,1.0
+spannend,r_a-14974,enerverend,0.0,0.9,1.0
+spannend,r_a-14975,strak,0.1,0.7,1.0
+speciaal,r_a-14978,bijzonder,0.6,0.9,1.0
+specifiek,r_a-14980,niet algemeen,0.0,0.2,1.0
+spectaculair,r_a-14981,opzienbarend,0.7,1.0,1.0
+speels,r_a-14982,dartel,0.7,0.8,1.0
+speels,r_a-14983,luchtig,0.6,1.0,1.0
+speltechnisch,r_a-15259,mbt. speltechniek,0.6,0.9,0.7
+spichtig,r_a-14984,mager,-0.5,0.9,0.7
+spiernaakt,r_a-15260,helemaal naakt,0.8,1.0,0.7
+spierwit,r_a-15156,lijkbleek,-0.1,0.3,0.7
+spijkerhard,r_a-15261,bikkelhard,0.1,0.7,0.7
+spijtig,r_a-14985,jammer,-0.5,0.9,1.0
+spiksplinternieuw,r_a-15157,gloednieuw,0.4,0.7,0.7
+spiritueel,r_a-15159,onstoffelijk,0.0,0.4,1.0
+spiritueel,r_a-15335,geestig,0.1,0.6,1.0
+spits,r_a-14988,puntig,0.1,0.1,0.7
+spits,r_a-14989,snel van geest,0.7,0.9,0.7
+spitsvondig,r_a-14990,snedig,0.5,0.8,0.7
+splinternieuw,r_a-15161,gloednieuw,0.4,0.7,0.7
+spoedig,r_a-15162,snel,0.1,0.5,1.0
+spontaan,r_a-14991,(als) vanzelf,0.6,0.9,1.0
+spookachtig,r_a-15163,huiveringwekkend,-0.9,1.0,0.7
+spoorloos,r_a-15164,onvindbaar,-0.3,0.7,1.0
+sporadisch,r_a-15165,zelden voorkomend,0.1,0.3,0.7
+spotziek,r_a-15264,spotlustig,-0.5,0.9,0.7
+spraakmakend,r_a-15166,geruchtmakend,0.4,0.9,1.0
+sprakeloos,r_a-14997,met stomheid geslagen,0.4,0.9,1.0
+spreekwoordelijk,r_a-15167,overbekend en typerend,0.0,0.7,0.7
+sprekend,r_a-14998,opvallend,0.2,0.6,0.7
+sprookjesachtig,r_a-15168,feeëriek,0.7,1.0,1.0
+staalblauw,r_a-15268,blauw als staal,0.0,0.1,0.7
+staatsgevaarlijk,r_a-15270,gevaarlijk voor de staat,-0.5,0.7,0.7
+stampvol,r_a-15174,propvol,-0.1,0.6,0.9
+standaard,d_a-270622,waaraan men gewend is,0.0,0.4,1.0
+standvastig,r_a-15004,onwrikbaar,-0.4,0.7,0.7
+statistisch,r_a-15011,v.d. statistiek,0.0,0.0,0.7
+statutair,r_a-15175,volgens de statuten,0.0,0.1,0.7
+steekhoudend,r_a-15013,gegrond,0.4,0.5,0.7
+steels,r_a-15014,tersluiks,-0.3,0.8,0.7
+steengoed,r_a-15015,heel goed,1.0,1.0,1.0
+steenhard,r_a-15275,keihard,-0.2,0.6,0.7
+steenkoud,r_a-15276,ijskoud,-0.4,0.7,0.7
+steenrijk,r_a-15177,schatrijk,0.6,1.0,1.0
+steil,r_a-15016,sterk hellend,-0.2,0.5,0.7
+steil,r_a-15017,recht,0.1,0.2,0.9
+stekend,r_a-15277,"scherp, priemend",-0.2,0.4,0.7
+stemhebbend,r_a-15178,niet stemloos,0.2,0.6,0.7
+stemmig,r_a-15023,ingetogen,0.3,0.7,0.7
+stereotiep,r_a-15026,onveranderlijk,-0.3,0.7,0.7
+sterfelijk,r_a-15027,zullende sterven,-0.2,0.4,0.7
+sterk,r_a-15031,met fysieke kracht,0.6,0.6,1.0
+sterk,r_a-15032,kan tegen een stootje,0.6,0.8,1.0
+sterk,r_a-15342,"aanzienlijk, hevig",0.4,0.9,1.0
+stevig,r_a-15034,solide,0.5,0.9,1.0
+stevig,r_a-15035,"aanzienlijk, hevig",0.2,1.0,1.0
+stevig,r_a-15036,fors,0.1,0.9,1.0
+stiefmoederlijk,r_a-15038,slecht,-0.7,0.8,0.7
+stiekem,r_a-15039,niet openlijk,-0.3,0.6,1.0
+stijf,r_a-15040,niet soepel,-0.2,0.4,1.0
+stijlloos,r_a-15042,onfatsoenlijk,-0.5,0.8,0.7
+stijlvol,r_a-15043,smaakvol,0.9,1.0,1.0
+stil,r_a-15044,geluidloos,0.0,0.1,1.0
+stil,r_a-15045,rustig,0.2,0.6,1.0
+stil,r_a-15343,heimelijk,-0.4,0.7,1.0
+stilistisch,r_a-15046,mbt. stijl,0.0,0.1,0.7
+stilzwijgend,r_a-15047,impliciet,0.0,0.2,0.7
+stipt,r_a-15048,punctueel,0.4,0.6,0.7
+stoer,r_a-15049,flink,0.3,0.9,1.0
+stoethaspelig,d_a-273599,,-0.5,0.9,0.7
+stoffig,r_a-15051,vol stof,-0.4,0.6,1.0
+stokoud,r_a-15184,heel oud,0.0,0.2,0.7
+stom,r_a-15054,dom,-0.6,1.0,1.0
+stom,r_a-15055,niet kunnende spreken,-0.1,0.1,1.0
+stom,r_a-15056,vervelend,-0.6,1.0,1.0
+stomdronken,r_a-15185,erg dronken,-0.3,0.9,0.7
+stompzinnig,r_a-15058,stupide,-0.9,1.0,1.0
+stomverbaasd,r_a-15059,stomverwonderd,0.4,0.9,0.9
+storend,r_a-15061,hinderlijk,-0.8,1.0,1.0
+stormachtig,r_a-15062,heftig,0.1,0.9,0.7
+stout,d_a-274814,sexy,0.6,0.9,1.0
+stout,r_a-15063,ondeugend,-0.4,0.9,1.0
+stout,r_a-15344,stoutmoedig,0.5,0.9,1.0
+stoutmoedig,r_a-15064,vermetel,0.9,1.0,0.7
+straatarm,r_a-15187,heel arm,-0.4,0.6,0.7
+straf,r_a-15065,streng,-0.1,0.8,0.7
+straf,r_a-15345,sterk,0.5,0.9,0.7
+strafrechtelijk,r_a-15189,volgens strafrecht,0.0,0.0,0.7
+straight,r_a-15067,eerlijk,0.0,0.2,0.7
+strak,r_a-15068,gespannen,0.0,0.6,1.0
+strak,r_a-15069,star,-0.4,0.6,1.0
+strak,r_a-15348,zonder oneffenheden,0.4,0.5,1.0
+strakblauw,r_a-15284,wolkeloos blauw,0.1,0.2,0.7
+stralend,r_a-15359,blakend,-0.3,0.7,0.7
+strategisch,r_a-15073,mbt. strategie,0.0,0.3,0.7
+streng,r_a-15075,hard,-0.5,0.9,1.0
+strijdig,r_a-15078,onverenigbaar,-0.3,0.6,0.7
+strijdvaardig,r_a-15079,paraat,0.5,0.8,0.7
+strikt,r_a-15080,nauwkeurig,-0.5,0.7,0.7
+stringent,r_a-15081,dwingend,-0.5,0.8,0.7
+stroef,r_a-15082,niet glad,-0.5,0.9,0.9
+stroef,r_a-15083,hortend,-0.5,0.9,0.8
+strontvervelend,r_a-15288,stomvervelend,-0.4,0.7,0.7
+stroperig,r_a-15360,slijmerig,-0.6,0.7,0.7
+structureel,r_a-15087,niet incidenteel,0.0,0.0,0.7
+stumperig,d_a-277278,,-0.5,0.9,0.7
+stuntelig,r_a-15290,klunzig,-0.5,0.9,0.7
+stupide,r_a-15095,stompzinnig,-0.4,0.9,0.7
+stuurloos,r_a-15096,niet bestuurbaar,-0.4,0.9,0.7
+stuurs,r_a-15097,nors,-0.6,1.0,0.7
+subjectief,r_a-15098,niet objectief,-0.1,0.4,1.0
+subliem,r_a-15099,schitterend,0.9,1.0,1.0
+subsidiair,r_a-15292,vervangend,-0.1,0.3,0.7
+substantieel,d_a-277734,,0.1,0.4,0.7
+substantieel,r_a-15100,aanzienlijk,0.4,0.9,0.7
+subtiel,r_a-15101,fijn,0.4,0.7,1.0
+subtropisch,r_a-15102,mbt. klimaat,0.3,0.9,0.7
+succesrijk,r_a-15194,succesvol,0.7,0.9,0.9
+succesvol,r_a-15195,succesrijk,0.7,0.9,1.0
+suf,r_a-15104,wezenloos,-0.6,1.0,1.0
+suffig,r_a-15293,sufferig,-0.6,1.0,0.9
+suggestief,r_a-15105,beelden oproepend,0.2,0.7,0.7
+sukkelig,d_a-278149,,-0.5,0.9,0.7
+sullig,r_a-15297,suffig,-0.5,0.9,0.7
+summier,r_a-15107,beknopt,0.1,0.6,1.0
+summier,r_a-15352,miniem,-0.3,0.6,1.0
+super,r_a-15108,fantastisch,0.9,1.0,1.0
+supergoed,,,1.0,1.0,1.0
+superieur,c_546173,arrogant,-0.9,1.0,0.7
+superieur,r_a-15109,beter,0.7,0.9,1.0
+superleuk,,,1.0,1.0,1.0
+supermooi,,,1.0,1.0,1.0
+supersnel,r_a-15197,pijlsnel,0.6,0.9,1.0
+superspannend,,,1.0,1.0,1.0
+superspannende,,,0.8,1.0,1.0
+surrealistisch,r_a-15111,mbt. het surrealisme,0.0,0.1,1.0
+surrealistisch,r_a-15112,onwerkelijk,-0.2,0.7,1.0
+suïcidaal,r_a-15291,met zelfmoordneigingen,-0.7,0.8,0.7
+symbolisch,r_a-15113,als symbool,0.0,0.9,0.7
+symfonisch,r_a-15198,SJF muziek,0.2,0.4,0.7
+sympathiek,r_a-15115,aardig,0.6,0.9,1.0
+symptomatisch,r_a-15116,tekenend,-0.3,0.6,0.7
+systematisch,r_a-15120,stelselmatig,0.1,0.3,0.7
+taai,r_a-15363,stug,-0.3,1.0,1.0
+taai,r_a-15364,"volhardend, sterk",0.5,0.9,1.0
+taai,r_a-15564,vervelend,-0.6,1.0,1.0
+taalkundig,r_a-15478,linguïstisch,0.1,0.1,1.0
+taboe,r_a-15365,verboden,-0.3,0.7,0.7
+tactisch,r_a-15366,met goede tactiek,-0.1,0.9,0.7
+tactvol,r_a-15368,delicaat,0.6,0.8,0.7
+talentvol,r_a-15480,begaafd,0.7,0.9,1.0
+talloos,r_a-15369,ontelbaar,0.0,0.7,1.0
+talrijk,r_a-15370,talloos,0.0,0.1,0.7
+tam,r_a-15371,aan mensen gewend,-0.3,0.9,0.7
+tam,r_a-15372,slapjes,-0.3,0.8,0.7
+tamelijk,,,0.0,0.8,1.0
+tandheelkundig,r_a-15483,mbt. de tandheelkunde,0.0,0.0,0.7
+tastbaar,r_a-15375,concreet,0.2,0.4,1.0
+tastbaar,r_a-15567,manifest,0.1,0.4,1.0
+technisch,r_a-15377,mbt. techniek,0.0,0.1,1.0
+technologisch,r_a-15485,mbt. technologie,0.1,0.2,0.7
+teder,r_a-15378,innig,0.6,0.9,1.0
+tegendraads,r_a-15381,weerspannig,-0.3,0.9,0.7
+tegengesteld,r_a-15382,tegenovergesteld,-0.1,0.3,0.9
+tegenovergesteld,r_a-15383,tegengesteld,-0.1,0.3,1.0
+tegenoverliggend,r_a-15486,gelegen tegenover,-0.2,0.2,0.7
+tegenstrijdig,r_a-15384,contradictorisch,-0.4,0.6,1.0
+tegenvallen,r_v-7740,,-0.4,0.4,0.9
+tegenvaller,r_n-37164,,-0.4,0.4,0.9
+tegenwoordig,r_a-15385,hedendaags,0.1,0.5,1.0
+tegenwoordig,r_a-15386,present,0.0,0.1,1.0
+teleurgesteld,r_a-16641,sip,-0.4,0.9,0.7
+teleurstellend,r_a-15488,sneu,-0.6,1.0,1.0
+teleurstelling,r_n-37272,,-0.4,0.5,0.9
+temerig,r_a-15537,zeurderig,-0.4,1.0,0.7
+temperamentvol,r_a-15538,heftig,-0.5,1.0,0.7
+tendentieus,r_a-15391,gekleurd,-0.2,0.9,0.7
+tenger,r_a-15392,slank,0.1,0.1,0.7
+terecht,r_a-15393,gerechtvaardigd,0.4,0.9,1.0
+tergend,r_a-15490,sarrend,-0.6,0.9,0.7
+terloops,r_a-15394,tussendoor,0.0,0.1,1.0
+terminaal,r_a-15395,mbt. het levenseinde,-0.7,0.9,0.7
+terroristisch,r_a-15491,van terroristen,-0.5,0.7,0.7
+tersluiks,r_a-15398,stiekem,-0.3,0.8,0.7
+terugkrabbelen,r_v-7830,,-0.2,0.4,0.7
+tevergeefs,r_a-15403,vruchteloos,-0.6,0.9,0.7
+tevreden,r_a-15404,content,0.4,1.0,1.0
+theatraal,r_a-15405,als in toneel,-0.4,0.6,0.7
+theatraal,r_a-15577,van het theater,0.0,0.2,0.7
+theoretisch,r_a-15408,in theorie,0.0,0.1,1.0
+thermisch,r_a-15495,mbt. de warmte,0.0,0.0,0.7
+thermisch,r_a-15584,via warmte,0.0,0.0,0.7
+tiens,,,-0.1,0.4,1.0
+tijdelijk,r_a-15409,temporair,-0.1,0.4,1.0
+tijdelijk,r_a-15585,vergankelijk,-0.4,0.6,1.0
+tijdelijk,r_a-15586,mbt. tijd,0.0,0.1,1.0
+tijdig,r_a-16642,op tijd,-0.1,0.4,0.7
+tijdloos,r_a-15410,niet tijdsgebonden,0.3,0.4,1.0
+tijdrovend,r_a-15411,tijdverslindend,-0.1,0.5,0.7
+tijdsgebonden,r_a-15498,niet tijdloos,-0.3,0.4,0.7
+timide,r_a-15412,verlegen,-0.1,0.8,1.0
+tiranniek,r_a-15415,als (van) een tiran,-0.3,1.0,0.7
+tjeef,,,-0.4,0.8,0.8
+tjeven,,,-0.4,0.8,0.8
+tjevenstreken,,,-0.7,0.8,0.8
+tjokvol,r_a-15542,stampvol,-0.1,0.6,0.9
+tochtig,r_a-15416,loops,0.9,1.0,0.7
+toegankelijk,r_a-15417,te bereiken,0.3,0.5,1.0
+toegankelijk,r_a-15590,openstaand voor,0.4,0.9,1.0
+toegedaan,r_a-15418,genegen,0.3,1.0,0.7
+toegewijd,r_a-15422,vol inzet,0.3,0.8,0.7
+toekomend,r_a-15592,de toekomst aangevend,0.0,0.2,0.7
+toekomstig,r_a-15423,van of in de toekomst,0.1,0.4,1.0
+toekomstig,r_a-15593,mbt. iemands hoedanigheid,0.1,0.2,1.0
+toenmalig,r_a-15424,van die tijd,0.0,0.1,1.0
+toepasbaar,r_a-15506,toe te passen,0.0,0.3,1.0
+toepasselijk,r_a-15425,geschikt,0.4,0.8,1.0
+toepasselijk,r_a-15594,toepasbaar,0.4,0.5,1.0
+toereikend,r_a-15426,genoeg,0.4,0.4,0.7
+toevallig,r_a-15430,accidenteel,0.0,0.4,1.0
+tof,r_a-15431,leuk,0.6,0.9,1.0
+tomeloos,r_a-15433,bandeloos,-0.1,0.9,0.7
+toonaangevend,r_a-15434,leidend,0.6,0.9,0.7
+toonloos,r_a-15509,zonder nuancering,-0.3,0.6,0.7
+toornig,r_a-15436,woedend,-0.6,0.8,0.7
+top,,JJ,0.6,1.0,1.0
+totaal,r_a-15439,volledig,0.1,0.4,1.0
+toverachtig,r_a-15547,als getoverd,0.3,0.5,0.7
+toxisch,r_a-15441,met gif,-0.6,0.9,0.7
+toxisch,r_a-15597,mbt. gif,-0.3,0.5,0.7
+traag,r_a-15442,niet snel,-0.3,0.6,1.0
+traangas,'r_n-38211,,-0.1,0.0,0.8
+tragikomisch,r_a-15514,treurig en grappig,0.4,0.9,0.7
+tragisch,r_a-15444,droevig,-0.8,1.0,1.0
+transcendent,r_a-15445,niet waarneembaar,0.1,0.6,0.7
+traumatisch,r_a-15448,mbt. een trauma,-0.6,0.8,1.0
+treffend,r_a-15449,passend,0.4,0.9,1.0
+treffend,r_a-15599,aandoenlijk,0.2,1.0,1.0
+trefzeker,r_a-15450,accuraat,0.7,1.0,0.7
+trendy,r_a-15451,modieus,0.4,1.0,0.7
+treurig,r_a-15452,triest,-0.4,1.0,1.0
+treurig,r_a-15601,onaangenaam,-0.6,0.9,1.0
+triest,d_a-417633,onaangenaam,-0.6,1.0,1.0
+triest,r_a-15453,droevig,-0.5,0.9,1.0
+triomfantelijk,r_a-15454,zegevierend,0.1,0.8,0.7
+triviaal,r_a-15455,onbeduidend,-0.2,0.9,0.7
+triviaal,r_a-15456,banaal,-0.2,1.0,0.7
+troebel,r_a-15457,niet helder,-0.1,0.6,0.7
+troosteloos,r_a-15458,neerdrukkend,-0.6,0.9,0.8
+trots,r_a-15460,met trots vervuld,0.8,1.0,1.0
+trots,r_a-15461,hooghartig,-0.5,1.0,1.0
+trouw,r_a-15462,loyaal,0.7,0.9,1.0
+trouweloos,r_a-15553,infideel,-0.6,0.9,1.0
+trouwhartig,r_a-15463,oprecht,0.6,1.0,0.7
+truttig,r_a-15464,als (van) een trut,-0.5,0.8,0.9
+tsjeef,,,-0.4,0.8,0.8
+tsjeven,,,-0.4,0.8,0.8
+tumultueus,r_a-15519,rumoerig,-0.4,1.0,0.7
+turbulent,r_a-15466,woelig,-0.3,0.8,0.7
+tussenliggend,r_a-15520,intermediair,-0.1,0.1,0.7
+tussentijds,r_a-15468,tussendoor gebeurend,-0.1,0.3,0.7
+tuttig,r_a-15469,als van een tut,-0.5,0.8,1.0
+tweedehands,r_a-15470,gebruikt,-0.1,0.3,1.0
+tweederangs,r_a-15471,niet erg goed,-0.6,0.9,0.7
+tweederangskandidaat,,,-0.6,0.9,0.7
+tweeledig,r_a-15609,ambigu,-0.1,0.4,0.7
+tweestemmig,r_a-15562,met of voor twee stemmen,0.1,0.6,0.7
+twijfelachtig,r_a-15474,te betwijfelen,-0.4,0.9,1.0
+twistziek,r_a-15563,twistachtig,-0.7,1.0,0.7
+typerend,r_a-15530,kenmerkend,0.0,0.1,0.7
+typisch,r_a-15476,vreemd,-0.2,0.7,1.0
+typisch,r_a-15477,karakteristiek,0.2,0.4,1.0
+typografisch,r_a-15531,mbt. de typografie,0.0,0.2,0.7
+uitbundig,r_a-15614,uitgelaten,0.4,0.9,1.0
+uitbundig,r_a-15875,overvloedig,0.3,0.9,1.0
+uiteindelijk,r_a-15617,definitief,0.0,0.4,1.0
+uiterlijk,r_a-15618,aan de buitenkant,0.0,0.1,1.0
+uiterst,r_a-15619,het meest extreem,0.0,0.8,1.0
+uitgebreid,r_a-15620,uitvoerig,0.1,0.8,1.0
+uitgekookt,r_a-15623,gewiekst,-0.6,1.0,0.7
+uitgelezen,r_a-15625,voortreffelijk,0.8,0.9,1.0
+uitgemergeld,r_a-15626,sterk vermagerd,-0.3,0.5,0.7
+uitgestrekt,r_a-15631,groot,0.1,0.2,0.7
+uitgevallen,r_a-15633,die aard hebbend,0.0,0.1,0.7
+uitgewerkt,r_a-15792,geheel bewerkt,0.3,0.4,0.7
+uitheems,r_a-15635,exotisch,0.4,0.6,1.0
+uitlaatgassen,,,-0.2,0.0,0.8
+uitmuntend,r_a-15637,uitstekend,1.0,1.0,1.0
+uitnemend,r_a-15638,uitstekend,0.2,0.4,0.7
+uitstekend,r_a-15639,voortreffelijk,0.9,1.0,1.0
+uitverkocht,r_a-15640,niet meer verkrijgbaar,0.3,0.4,0.7
+uitvoerbaar,r_a-15796,doenlijk,0.3,0.4,0.7
+uitvoerig,r_a-15642,alles vermeldend,0.4,0.6,1.0
+uitzichtloos,r_a-15644,zonder perspectief,-0.6,1.0,1.0
+uitzinnig,r_a-15645,buiten zinnen,0.0,0.9,0.7
+uitzonderlijk,r_a-15646,exceptioneel,0.8,1.0,1.0
+ultiem,r_a-15647,uiterst,0.4,0.9,1.0
+unaniem,r_a-15648,eenstemmig,0.0,0.3,0.7
+uniek,r_a-15650,enig in zijn soort,0.6,0.9,1.0
+unilateraal,r_a-15800,eenzijdig,-0.1,0.1,0.7
+universeel,r_a-15652,algemeen (toepasbaar),0.4,0.4,1.0
+up-to-date,r_a-15801,actueel,0.0,0.2,0.7
+urenlang,r_a-15802,uren durend,-0.2,0.7,0.7
+urgent,r_a-15654,dringend,-0.2,0.7,0.7
+utopisch,r_a-15803,als (van) een utopie,-0.4,0.9,0.7
+vaag,r_a-15892,niet duidelijk,-0.4,0.8,1.0
+vaardig,r_a-15894,bedreven,0.5,0.8,0.7
+vakbekwaam,r_a-16190,competent,0.6,0.9,0.7
+vakkundig,r_a-15900,met veel vakkennis,0.5,0.8,0.7
+valide,r_a-15901,overtuigend,0.2,0.5,0.7
+valide,r_a-16332,gezond,0.1,0.6,0.7
+vals,r_a-15902,gemeen,-0.9,1.0,1.0
+vals,r_a-15903,onjuist,-0.4,0.5,1.0
+vals,r_a-15904,nagemaakt,-0.5,0.6,1.0
+vanzelfsprekend,r_a-15905,natuurlijk,0.1,0.6,1.0
+variabel,r_a-15906,veranderlijk,0.0,0.2,0.7
+vast,r_a-15907,niet beweegbaar,0.1,0.2,1.0
+vast,r_a-15908,van vorm,0.0,0.1,1.0
+vast,r_a-15909,onveranderlijk,-0.1,0.2,1.0
+vastbesloten,r_a-16191,gedecideerd,0.5,0.9,1.0
+vatbaar,r_a-15913,gevoelig voor,-0.1,0.5,1.0
+vatbaar,r_a-16334,snel ziek wordend,-0.4,0.6,1.0
+veelbelovend,r_a-15915,hoopvol,0.6,0.9,1.0
+veelbewogen,r_a-15916,turbulent,0.6,0.9,0.7
+veelgelezen,r_a-16199,vaak gelezen,0.5,0.8,0.7
+veelgeprezen,r_a-16201,vaak geprezen,0.5,0.9,0.7
+veelomvattend,r_a-16204,uitgebreid,-0.1,0.5,0.7
+veelsoortig,r_a-16205,mbt. veel soorten,0.0,0.3,0.7
+veelvuldig,r_a-15917,frequent,0.1,0.1,1.0
+veelzeggend,r_a-15918,veelbetekenend,0.4,0.7,0.7
+veelzijdig,d_a-306582,van vorm,0.1,0.2,1.0
+veelzijdig,r_a-15919,met veel zijden,0.2,0.4,1.0
+veilig,r_a-15923,beschermd tegen gevaar,0.4,0.6,1.0
+veilig,r_a-15924,zonder risico,0.4,0.6,1.0
+venijnig,r_a-15926,gemeen,-0.4,0.9,0.7
+ver,d_a-307261,niet nauw verwant,0.0,0.2,1.0
+ver,d_a-307262,ver in ontwikkeling,0.4,0.6,1.0
+ver,r_a-16209,op grote afstand,-0.2,0.5,1.0
+verantwoordelijk,r_a-15930,aansprakelijk,0.0,0.4,1.0
+verantwoordelijk,r_a-15931,belangrijk,0.4,0.7,1.0
+verbaal,r_a-15932,mbt. het spreken,-0.8,1.0,0.7
+verbaasd,r_a-15933,verwonderd,0.1,0.9,1.0
+verbazingwekkend,r_a-16211,verwonderlijk,0.5,1.0,1.0
+verblindend,r_a-15938,heel mooi,0.7,0.9,0.7
+verbluffend,r_a-15939,verbazend,0.6,1.0,1.0
+verbolgen,r_a-15941,gebelgd,-0.6,1.0,0.7
+verborgen,r_a-16215,weggestopt,-0.1,0.5,1.0
+verborgen,r_a-16341,geheim,-0.1,0.7,1.0
+verdedigbaar,r_a-16216,te verdedigen,0.3,0.9,0.7
+verdekt,r_a-15946,niet zichtbaar,-0.3,0.9,0.7
+verder,r_a-15947,overig,0.0,0.1,1.0
+verderfelijk,r_a-15948,slecht,-0.8,0.9,0.7
+verdicht,d_a-328161,,-0.1,0.4,0.7
+verdienstelijk,r_a-15949,lofwaardig,0.3,0.6,0.7
+verdoofd,r_a-16220,gevoelloos,-0.4,1.0,0.7
+verdraagzaam,r_a-15952,tolerant,0.4,0.9,0.7
+verdrietig,r_a-15953,droevig,-0.6,0.9,1.0
+verdrietig,r_a-15954,treurig,-0.6,0.9,1.0
+vereist,d_a-418590,,0.4,0.9,0.7
+verfrissend,r_a-16227,verkoelend,0.5,0.8,1.0
+verfrissend,r_a-16372,plezierig,0.7,1.0,1.0
+vergaand,r_a-15956,met grote gevolgen,-0.3,0.6,0.7
+vergeefs,r_a-15958,zonder resultaat,-0.5,0.9,0.7
+vergelijkbaar,r_a-16230,vergeleken kunnende worden,0.0,0.4,1.0
+vergenoegd,r_a-15959,tevreden,0.4,1.0,0.7
+vergevorderd,r_a-16232,ver gekomen,0.0,0.1,0.7
+vergezocht,d_a-309192,,-0.5,0.9,1.0
+verhandelbaar,r_a-16235,verkoopbaar,0.8,0.9,0.7
+verheugd,r_a-15965,blij,0.4,0.7,0.7
+verheven,r_a-15966,boven het gewone,1.0,1.0,0.7
+verhit,r_a-15967,opgewonden,-0.2,0.8,0.7
+verhit,r_a-16346,gloeiend,0.0,0.6,0.7
+verkeerd,r_a-15970,fout,-0.5,0.6,1.0
+verkeersellende,,,-0.1,0.0,0.8
+verkeersinfarct,,,-0.1,0.0,0.8
+verkeken,r_a-15971,ongebruikt voorbij laten gaan,-0.6,0.9,0.7
+verklaarbaar,r_a-16240,begrijpelijk,0.4,0.7,0.9
+verklarend,r_a-16241,wat uitlegt,0.2,0.3,0.7
+verkloten,d_v-310311,,-0.4,0.5,0.8
+verknipt,r_a-15974,raar,-0.4,0.4,0.7
+verkrijgbaar,r_a-16242,te koop,0.1,0.1,1.0
+verleden,r_a-15977,vorig,0.0,0.1,1.0
+verlegen,r_a-15978,timide,-0.1,0.8,1.0
+verlegen,r_a-15980,behoefte hebbend aan,-0.1,0.6,1.0
+verlekkerd,r_a-16245,belust,0.5,0.9,0.7
+verlicht,r_a-15982,met moderne ideeën,0.0,0.4,0.7
+verliefd,r_a-15983,stapel,0.9,1.0,1.0
+verliesgevend,r_a-16246,niet rendabel,-0.1,0.5,0.7
+verliezer,,,0.5,-0.6,0.8
+verlokkelijk,r_a-16645,verleidelijk,0.4,1.0,0.7
+verloren,,,-0.2,-0.3,0.8
+vermaard,r_a-15987,beroemd,0.5,0.9,1.0
+vermakelijk,r_a-15988,amusant,0.6,0.9,1.0
+vermaledijd,r_a-16249,vervloekt,-0.2,0.7,0.7
+vermeend,r_a-15989,verondersteld,-0.1,0.4,1.0
+vermetel,r_a-15990,dapper,0.9,1.0,0.7
+vermoedelijk,r_a-15991,zoals verondersteld,0.1,0.9,0.9
+vermoeid,r_a-16647,moe,-0.5,0.7,0.7
+vermoeiend,r_a-16251,afmattend,-0.4,1.0,1.0
+vermogend,r_a-15992,rijk,0.3,0.7,0.7
+vernederend,r_a-16252,minachtend,-0.4,0.9,0.7
+vernieuwing,,,0.2,0.0,0.8
+vernuftig,r_a-15995,ingenieus,0.7,0.9,0.9
+verontwaardigd,r_a-15998,gekrenkt,-0.4,0.7,0.7
+verpleegkundig,r_a-16254,mbt. de verpleegkunde,0.0,0.0,1.0
+verpletterend,r_a-16000,verbijsterend,-0.4,0.7,0.7
+verplichtend,r_a-16255,wat verplichtingen schept,-0.1,0.4,0.7
+verrassend,r_a-16005,onverwacht,0.6,0.9,1.0
+verrast,r_a-16256,verbaasd,0.4,1.0,0.7
+verregaand,r_a-16257,buitensporig,-0.2,0.5,0.7
+verrukkelijk,r_a-16006,zalig,0.9,1.0,1.0
+vers,d_a-312391,ververst,0.0,0.1,0.7
+verschillend,r_a-16009,anders,0.0,0.2,1.0
+verschrikkelijk,r_a-16011,heel akelig,-0.9,1.0,1.0
+verschrikkelijk,r_a-16012,heel (veel) ADVERB,-0.1,0.8,1.0
+verschuldigd,r_a-16013,wat men schuldig is,-0.2,0.5,0.7
+verslaafd,r_a-16014,niet zonder kunnend,-0.4,0.6,1.0
+verslavend,r_a-16016,waaraan je verslaafd raakt,0.0,0.9,1.0
+verslechtert,,,-0.2,0.0,0.8
+verstaanbaar,r_a-16263,hoorbaar,0.2,0.5,0.7
+verstandig,r_a-16019,intelligent,0.6,1.0,1.0
+versteld,r_a-16020,verbaasd,0.0,0.9,1.0
+verstokt,r_a-16022,ontoegankelijk voor verandering,-0.3,0.9,0.7
+verstoord,r_a-16024,boos,-0.4,0.9,0.7
+verstrekkend,r_a-16026,verreikend,-0.1,0.5,0.7
+verstrooid,r_a-16028,verward,0.0,0.3,0.7
+versuft,r_a-16029,dof,-0.5,0.9,0.7
+verteerbaar,r_a-16268,wat verteerd kan worden,0.0,0.2,1.0
+vertrouwd,r_a-16033,goed bekend,0.5,0.6,1.0
+vertrouwenwekkend,r_a-16270,vertrouwen inboezemend,0.1,0.2,0.7
+vervangbaar,r_a-16271,wat vervangen kan worden,-0.5,0.6,0.7
+verveeld,r_a-16272,blasé,-0.4,0.7,0.7
+vervelend,d_a-314254,lastig,-0.6,1.0,1.0
+vervelend,r_a-16040,naar,-0.7,1.0,1.0
+vervelend,r_a-16041,saai,-0.6,0.9,1.0
+vervelens,,,-0.4,0.3,0.9
+vervloekt,r_a-16273,ellendig,-0.4,0.6,0.7
+verwaarloosbaar,r_a-16275,onbelangrijk,-0.3,0.6,0.7
+verwachtingsvol,r_a-16276,vol verwachting,0.3,0.8,0.7
+verwant,r_a-16043,nauw verbonden,0.0,0.4,1.0
+verwarren,,,-0.2,0.1,0.7
+verwarrend,r_a-16277,wat verwart,-0.5,0.7,0.7
+verwend,r_a-16278,bedorven,-0.3,0.9,0.7
+verwerpelijk,r_a-16047,onaanvaardbaar slecht,-0.4,0.9,0.7
+verwijfd,r_a-16049,onmannelijk,-0.3,0.9,0.7
+verwoed,r_a-16050,fel,0.1,0.8,1.0
+verwoestend,r_a-16282,vernietigend,-0.6,0.8,0.7
+verwondingen,,,-0.1,0.0,0.8
+verzachtend,r_a-16285,zachter of lichter makend,0.1,0.7,0.7
+verzengend,r_a-16052,wegschroeiend,-0.6,0.9,0.7
+verziend,r_a-16053,hypermetroop,0.1,0.9,0.7
+vet,r_a-16055,met veel vet of oliën,-0.2,0.4,1.0
+vettig,r_a-16292,met vet,-0.5,0.9,0.7
+vierkant,r_a-16358,massief,0.1,0.9,0.7
+vies,r_a-16062,onaangenaam van smaak,-0.8,1.0,1.0
+vies,r_a-16063,smerig,-0.8,0.9,1.0
+vies,r_a-16064,onaangenaam,-0.7,0.9,1.0
+vies,r_a-16065,onfatsoenlijk,-0.7,0.9,1.0
+vijandelijk,r_a-16067,mbt. een vijand,-0.5,0.9,0.7
+vindingrijk,r_a-16069,inventief,0.6,0.9,1.0
+vinnig,r_a-16070,snibbig,0.2,0.8,0.7
+vinnig,r_a-16071,bijdehand,0.3,0.9,0.7
+violet,r_a-16294,blauwpaars,0.0,0.1,0.7
+virtueel,r_a-16296,slechts schijnbaar bestaand,0.0,0.0,0.7
+virtuoos,r_a-16073,briljant,1.0,1.0,1.0
+visrijk,r_a-16297,rijk aan vis,0.5,0.6,0.7
+visueel,r_a-16075,mbt. het zien,0.1,0.1,1.0
+vitaal,d_a-317371,,0.1,0.4,0.7
+vitaal,r_a-16076,vol energie,0.0,0.0,0.7
+vlak,r_a-16078,egaal,0.0,0.1,1.0
+vlak,r_a-16079,zonder contrasten,-0.1,0.2,1.0
+vlekkeloos,r_a-16081,foutloos,0.8,1.0,0.7
+vleselijk,r_a-16653,zinnelijk,0.2,0.9,0.7
+vliegensvlug,r_a-16654,zeer snel,0.1,0.5,0.7
+vlijmscherp,r_a-16083,heel scherp,-0.3,0.7,0.7
+vloeiend,r_a-16086,vlot,0.9,0.9,1.0
+vlot,r_a-16087,goed verlopend,0.6,0.7,1.0
+vlot,r_a-16088,ongedwongen,0.5,0.9,1.0
+vlot,r_a-16089,mbt. kleren,0.4,0.7,1.0
+vlot,r_a-16362,drijvend (adverb),0.0,0.1,1.0
+vluchtig,r_a-16090,snel en oppervlakkig,-0.3,0.8,1.0
+vluchtig,r_a-16091,mbt. (vloei)stoffen,0.0,0.0,1.0
+vlug,r_a-16092,snel,0.1,0.5,1.0
+vocaal,r_a-16093,mbt. de stem,0.1,0.1,0.7
+vochtig,r_a-16094,nattig,0.1,0.4,0.7
+voedselarm,r_a-16302,arm aan voeding(swaarde),-0.3,0.7,0.7
+voedzaam,r_a-16095,goed voedend,0.6,0.6,0.7
+voelbaar,r_a-16303,merkbaar,0.0,0.6,1.0
+vogelvrij,r_a-16096,rechteloos,-0.4,0.6,0.7
+vol,d_a-319692,vam geluid,0.4,0.7,1.0
+vol,r_a-16097,helemaal gevuld,0.3,0.4,1.0
+vol,r_a-16098,vervuld van,0.4,0.9,1.0
+vol,r_a-16099,compleet,0.1,0.5,1.0
+volautomatisch,r_a-16304,geheel automatisch,0.0,0.2,0.7
+voldaan,r_a-16100,tevreden,0.4,1.0,1.0
+voldoende,r_a-16305,toereikend,0.3,0.7,1.0
+volgeboekt,r_a-16655,volledig geboekt,-0.1,0.7,0.7
+volgend,r_a-16306,wat volgt,0.0,0.2,0.7
+volkenrechtelijk,r_a-16308,mbt. het volkenrecht,0.0,0.0,0.7
+volkomen,r_a-16309,helemaal,0.1,0.6,1.0
+volks,r_a-16103,horend bij het gewone volk,-0.4,1.0,0.7
+volledig,r_a-16104,totaal,0.1,0.4,1.0
+volleerd,r_a-16105,perfect,0.5,0.9,0.7
+volmaakt,r_a-16106,perfect,1.0,1.0,1.0
+volmondig,r_a-16107,ronduit,-0.1,0.1,0.7
+volslagen,r_a-16108,compleet,0.0,0.6,1.0
+volstrekt,r_a-16656,geheel en al,0.1,0.4,1.0
+volstrekt,r_a-16657,absoluut,0.1,0.5,1.0
+volwaardig,r_a-16111,zonder gebreken,0.6,0.9,1.0
+volwassen,r_a-16112,volgroeid,0.1,0.3,1.0
+vooraanstaand,r_a-16114,belangrijk,0.8,1.0,0.7
+voorbarig,r_a-16115,te vroeg,-0.1,0.4,0.7
+voorbij,r_a-16117,afgelopen,0.0,0.2,1.0
+voorgaand,r_a-16314,vorig,0.0,0.1,0.9
+voorlaatst,r_a-16123,op een na de laatste,0.0,0.1,0.7
+voorlopig,r_a-16124,nog niet definitief,-0.1,0.3,1.0
+voormalig,r_a-16125,vorig,0.0,0.1,1.0
+voornaam,r_a-16126,belangrijk,0.3,0.9,0.9
+voornamelijk,,,0.0,0.4,1.0
+voorspelbaar,r_a-16318,te voorspellen,-0.5,0.8,1.0
+voorspellend,,,-0.1,0.4,1.0
+voorspoedig,r_a-16129,met voorspoed,0.5,0.7,0.7
+voorstelbaar,r_a-16320,voor te stellen,0.1,0.4,1.0
+voortdurend,r_a-16130,onophoudelijk,-0.1,0.6,1.0
+voortijdig,r_a-16131,vroegtijdig,-0.1,0.6,0.7
+voortreffelijk,r_a-16132,uitnemend,0.9,1.0,1.0
+voortvarend,r_a-16133,doortastend,0.1,0.6,0.7
+voortvluchtig,r_a-16134,op de vlucht,-0.3,0.7,0.7
+vooruitstrevend,r_a-16135,progressief,0.1,0.9,0.7
+voorwaardelijk,r_a-16136,conditioneel,-0.1,0.6,0.7
+voorzichtig,r_a-16138,zorgvuldig,0.4,0.6,1.0
+vorig,r_a-16141,meteen voorafgaand,0.0,0.0,1.0
+vorig,r_a-16142,eerder,0.0,0.1,1.0
+vraatzuchtig,r_a-16145,gulzig,-0.2,0.8,0.7
+vredig,r_a-16147,in vrede,0.1,0.7,0.7
+vreemd,d_a-323020,buitenlands,-0.1,0.3,1.0
+vreemd,r_a-16149,niet vertrouwd,-0.4,0.7,1.0
+vreemd,r_a-16150,raar,-0.5,0.7,1.0
+vrekkig,r_a-16658,gierig,-0.3,0.8,0.7
+vreselijk,r_a-16151,enorm,-0.4,0.8,1.0
+vreselijk,r_a-16153,angstaanjagend,-0.9,1.0,1.0
+vreugdeloos,r_a-16324,treurig,-0.4,0.8,0.7
+vriendelijk,r_a-16154,aardig,0.5,0.9,1.0
+vrij,d_a-323268,gratis,0.3,0.5,1.0
+vrij,d_a-323274,niet binnen een bepaald systeem,0.4,0.8,1.0
+vrij,r_a-16156,niet gevangen,0.6,0.9,1.0
+vrij,r_a-16157,ongehinderd,0.6,0.9,1.0
+vrij,r_a-16158,onbezet,0.4,0.7,1.0
+vrij,r_a-16160,vrijmoedig,0.6,0.9,1.0
+vrijblijvend,r_a-16162,zonder verbintenis,0.1,0.4,0.7
+vrijgevochten,r_a-16164,geëmancipeerd,0.1,0.1,0.7
+vrijpostig,r_a-16166,brutaal,-0.5,0.9,0.7
+vrijwillig,r_a-16167,uit vrije wil,0.2,0.4,1.0
+vrijzinnig,r_a-16168,liberaal,0.1,0.5,0.7
+vroed,r_a-16169,wijs,0.0,0.2,0.7
+vroeg,r_a-16170,niet laat,0.1,0.3,1.0
+vroeger,r_a-16171,vorig,0.0,0.1,1.0
+vroegrijp,r_a-16660,vroeg volwassen,0.1,0.3,0.7
+vroegtijdig,r_a-16172,vroeg,0.1,0.3,0.9
+vrolijk,d_a-323722,verheugend,0.9,1.0,1.0
+vrolijk,r_a-16173,blij,0.9,1.0,1.0
+vrouwelijk,r_a-16175,mbt. het vrouwelijk geslacht,0.0,0.1,1.0
+vrouwelijk,r_a-16176,zoals een vrouw,0.0,0.6,1.0
+vrouwelijk,r_a-16177,mbt. Woordgeslacht,0.0,0.1,1.0
+vruchteloos,r_a-16180,vergeefs,-0.4,0.8,0.7
+vuil,r_a-16182,smerig,-0.6,0.8,1.0
+vuil,r_a-16183,gemeen,-0.9,1.0,1.0
+vuil,r_a-16184,bruto,0.0,0.0,1.0
+vuistdik,r_a-16327,zo dik als een vuist,-0.1,0.5,0.7
+vulgair,r_a-16185,ordinair,-0.9,0.9,1.0
+vurig,r_a-16187,heftig,0.6,1.0,1.0
+vurig,r_a-16366,mbt. vuur,0.0,0.1,1.0
+vuurgevaarlijk,r_a-16330,geneigd te schieten,-0.7,1.0,0.7
+waanwijs,r_a-15657,pedant,-0.5,0.8,0.7
+waanzinnig,r_a-15658,krankzinnig,-0.5,0.9,1.0
+waar,c_545608,authentiek,0.2,0.5,1.0
+waard,r_a-15661,als waarde hebbend,0.2,0.6,1.0
+waardeloos,r_a-15662,niets waard,-0.8,0.9,1.0
+waardevol,r_a-15663,veel waard,0.8,0.9,1.0
+waardevrij,r_a-15805,vrij van waardeoordelen,0.0,0.1,0.7
+waardig,r_a-15664,eerbiedwaardig,0.6,0.8,1.0
+waardig,r_a-15665,passend,0.6,0.8,1.0
+waargebeurd,,,0.1,0.3,1.0
+waarheidsgetrouw,r_a-15806,werkelijkheidsgetrouw,0.6,0.9,1.0
+waarneembaar,r_a-15807,waar te nemen,0.1,0.5,0.7
+waarschijnlijk,r_a-15666,vermoedelijk waar,0.1,0.9,1.0
+wakker,r_a-15667,wakend,0.1,0.3,1.0
+wakker,r_a-15882,uitgeslapen,0.5,0.6,1.0
+walgelijk,r_a-15668,weerzinwekkend,-0.9,1.0,1.0
+wanhopig,r_a-15670,vertwijfeld,-0.6,1.0,1.0
+wankel,r_a-15671,labiel,-0.5,0.8,1.0
+wantrouwend,r_a-15809,argwanend,-0.5,1.0,0.7
+wantrouwig,r_a-15674,achterdochtig,-0.3,1.0,0.7
+warm,d_a-330535,INTERJECTIE,0.6,0.6,1.0
+warm,r_a-15675,niet koud,0.6,0.6,1.0
+warm,r_a-15676,hartelijk,0.9,1.0,1.0
+warmbloedig,r_a-15677,temperamentvol,0.4,0.6,0.7
+warrig,r_a-15678,verward,-0.4,0.9,1.0
+waterdicht,r_a-15680,waterproof,0.1,0.6,0.7
+waterig,r_a-15681,waterachtig,0.0,0.1,0.7
+waterrijk,r_a-15811,rijk aan water,0.4,0.6,0.7
+wauw,,,0.8,0.9,1.0
+wazig,r_a-15683,vaag,-0.4,0.8,1.0
+wederzijds,r_a-15687,wederkerig,0.1,0.3,1.0
+wee,r_a-15688,misselijk (makend),0.3,0.6,0.7
+weelderig,d_a-332344,,0.6,0.9,0.7
+weemoedig,r_a-15692,licht melancholiek,-0.4,1.0,0.7
+weerbarstig,r_a-15694,koppig,-0.5,0.9,0.7
+weerbarstig,r_a-15695,stug,-0.5,0.9,0.7
+weergaloos,r_a-15696,ongeëvenaard,1.0,1.0,1.0
+weerlegbaar,r_a-15856,te weerleggen,-0.2,0.6,0.7
+weerloos,r_a-15697,machteloos,-0.4,0.8,1.0
+weerzinwekkend,r_a-15699,walgelijk,-0.9,1.0,0.9
+weetgierig,r_a-15700,leergierig,0.1,0.2,0.7
+weigerachtig,r_a-15858,onwillig,-0.7,1.0,0.7
+wekenlang,r_a-15815,weken durend,0.0,0.5,0.7
+welbekend,r_a-15817,goed bekend,0.2,0.6,1.0
+welbewust,r_a-15818,heel bewust,0.4,0.7,0.9
+weldenkend,r_a-15819,redelijk,0.5,0.9,1.0
+weldoordacht,r_a-15860,goed overdacht,0.5,0.6,0.7
+weledelzeergeleerd,r_a-15710,---,1.0,1.0,0.7
+welgemeend,r_a-15820,oprecht gemeend,0.1,0.8,0.7
+welgeschapen,r_a-15713,gezond van lijf en leden,0.8,1.0,0.7
+welgesteld,r_a-15714,bemiddeld,0.4,0.6,1.0
+welkom,r_a-15716,blij ontvangen,0.8,0.9,1.0
+welletjes,r_a-15863,genoeg,-0.4,0.8,0.7
+wellevend,r_a-15717,beschaafd,0.0,0.4,0.7
+weloverwogen,r_a-15824,weldoordacht,0.4,0.7,0.9
+welriekend,r_a-15825,lekker ruikend,0.1,0.6,0.7
+welsprekend,r_a-17362,welbespraakt,0.1,0.7,0.7
+welvarend,r_a-15719,bloeiend,0.4,0.7,0.7
+welvoeglijk,r_a-15720,fatsoenlijk,0.2,0.5,0.7
+wenselijk,r_a-15722,gewenst,0.4,0.6,0.7
+wereldberoemd,r_a-15827,wereldvermaard,0.5,0.7,1.0
+wereldomvattend,r_a-15828,wereldwijd,0.0,0.1,0.7
+werelds,r_a-15725,aards,0.0,0.0,0.7
+wereldschokkend,r_a-15866,wereldwijd beroering veroorzakend,-0.7,0.9,0.7
+wereldvermaard,r_a-15829,wereldberoemd,0.5,0.7,1.0
+wereldwijd,r_a-15830,mondiaal,0.0,0.1,1.0
+werkbaar,r_a-15831,bruikbaar,0.1,0.7,0.7
+werkelijk,r_a-15727,echt,0.1,0.6,1.0
+werkloos,r_a-15729,,-0.5,0.6,0.7
+werkzaam,d_a-334998,,0.6,0.8,0.7
+werkzaam,r_a-15732,werkend,0.1,0.1,1.0
+werkzaam,r_a-15733,werkend,0.1,0.1,1.0
+wervelend,r_a-15834,bruisend,0.6,1.0,0.7
+westers,r_a-15735,(als) v.d. eerste wereld,0.1,0.3,0.7
+wetenschappelijk,d_a-335272,geleerd,0.1,0.2,1.0
+wetenschappelijk,r_a-15736,mbt. wetenschap,0.0,0.0,1.0
+wezenlijk,r_a-15739,essentieel,0.1,0.4,1.0
+wezenloos,r_a-15740,suf,-0.4,1.0,0.7
+wijd,r_a-15741,breed,0.0,0.1,0.7
+wijlen,r_a-15744,overleden,-0.1,0.2,0.7
+wijs,r_a-15745,verstandig,0.7,0.9,1.0
+wijs,r_a-15746,gaaf,0.7,0.9,1.0
+wijsgerig,r_a-15747,filosofisch,0.2,0.3,1.0
+wild,r_a-15749,niet gekweekt,0.1,0.4,1.0
+wild,r_a-15750,onbeschaafd,-0.5,0.9,1.0
+wild,r_a-15751,onbeheerst,-0.5,0.8,1.0
+wild,r_a-15752,gek (op),0.6,0.9,1.0
+willekeurig,r_a-15753,toevallig,-0.1,0.6,1.0
+willoos,r_a-15756,zonder wil,-0.6,0.6,0.7
+wilskrachtig,r_a-15870,met een krachtige wil,0.6,0.9,0.7
+winderig,r_a-15842,waaierig,-0.3,0.5,0.7
+windstil,r_a-15757,zonder wind,0.4,0.9,0.7
+winnaar,,,0.5,0.5,0.8
+winstgevend,r_a-15843,lucratief,0.0,0.4,0.7
+wis,r_a-15760,gewis,0.3,0.6,0.7
+wiskundig,r_a-15761,mathematisch,0.0,0.0,1.0
+wispelturig,r_a-15762,grillig,-0.6,0.9,0.7
+wisselvallig,r_a-15763,veranderlijk,-0.1,0.7,0.7
+wit,r_a-15764,met de lichtste kleur,0.0,0.0,1.0
+wit,r_a-15765,bleek,-0.5,0.6,1.0
+wit,r_a-15766,legaal,0.2,0.2,1.0
+woedend,r_a-15768,razend,-0.5,1.0,0.7
+woelig,r_a-15769,onrustig,-0.5,0.9,0.9
+wolkeloos,r_a-15889,,0.1,0.1,0.7
+wolkenloos,r_a-15873,onbewolkt,0.1,0.1,0.7
+wollig,r_a-15772,wolachtig,0.0,0.1,1.0
+wollig,r_a-15890,verhullend,-0.2,0.6,1.0
+wonder,r_a-15773,vreemd,0.4,0.9,0.7
+wonderbaar,d_a-337995,,0.9,0.9,0.7
+wonderbaarlijk,r_a-15774,verbazend,0.9,0.9,1.0
+wonderlijk,r_a-15775,merkwaardig,0.8,1.0,1.0
+wonderschoon,r_a-15847,prachtig mooi,0.9,1.0,0.9
+woonachtig,r_a-15776,wonend,0.0,0.0,0.7
+woordblind,r_a-15777,dyslectisch,-0.5,0.6,0.7
+wormstekig,r_a-15779,door wormen aangevreten,-0.5,0.7,0.7
+would-be,r_a-15780,zogenaamd,-0.2,0.5,0.7
+wraakzuchtig,r_a-15848,rancuneus,-0.9,1.0,0.7
+wrang,r_a-15782,zuur,-0.4,0.8,1.0
+wreed,d_a-419238,geweldig,0.7,1.0,1.0
+wreed,r_a-15783,hardvochtig,-0.9,1.0,1.0
+wreedaardig,r_a-15874,wreed,-0.9,1.0,0.7
+wulps,r_a-15787,wellustig,0.7,0.9,0.7
+zacht,r_a-16376,niet hard,0.1,0.4,1.0
+zacht,r_a-16377,(mbt. geluid) niet luid,0.1,0.3,1.0
+zacht,r_a-16378,met weinig kracht,-0.1,0.7,1.0
+zacht,r_a-16379,(mbt. weer) aangenaam,0.4,0.8,1.0
+zacht,r_a-16380,(mbt. kleuren of licht) niet fel,0.1,0.5,1.0
+zacht,r_a-16381,(mbt. aard) vriendelijk,0.5,0.9,1.0
+zachtaardig,r_a-16382,vriendelijk,0.6,1.0,0.7
+zakelijk,r_a-16385,mbt. Zaken,0.0,0.0,1.0
+zakelijk,r_a-16386,nuchter en praktisch,0.2,0.6,1.0
+zalig,r_a-16387,heel  lekker,0.9,1.0,1.0
+zalig,r_a-16388,(mbt. geloof) gered/heilig,0.1,0.3,1.0
+zanderig,r_a-16487,zandachtig,-0.4,0.6,0.7
+zat,r_a-16391,"beu, moe",-0.6,0.9,1.0
+zat,r_a-16392,dronken,-0.2,0.8,1.0
+zedelijk,r_a-16393,fatsoenlijk,0.2,0.6,0.9
+zedenkundig,d_a-342716,,0.2,0.6,0.7
+zeer,r_a-16396,pijnlijk,-0.5,0.9,1.0
+zeeziek,r_a-16398,misselijk door schommelen,-0.4,0.7,0.7
+zeker,r_a-16399,gewis,0.3,0.5,1.0
+zeldzaam,r_a-16400,wat niet veel voorkomt,0.3,0.9,1.0
+zelfbewust,r_a-16401,je eigenwaarde beseffend,0.3,0.6,0.7
+zelfgebakken,r_a-16492,wat je zelf gebakken hebt,0.0,0.1,0.7
+zelfgekozen,r_a-16493,waarvoor je zelf gekozen hebt,-0.2,0.6,0.7
+zelfgemaakt,r_a-16494,wat je zelf gemaakt hebt,0.0,0.1,0.7
+zelfstandig,r_a-16403,onafhankelijk,0.4,0.7,1.0
+zelfverzekerd,r_a-16404,vol zelfvertrouwen,0.4,0.7,0.7
+zelfvoldaan,r_a-16540,zelfingenomen,-0.2,0.7,0.7
+zenuwachtig,r_a-16406,nerveus,-0.4,0.6,0.7
+zenuwslopend,r_a-16407,slecht voor de zenuwen,-0.4,1.0,1.0
+zenuwziek,r_a-16408,heel zenuwachtig,-0.8,1.0,0.7
+zeurderig,r_a-16497,erg vervelend,-0.8,1.0,1.0
+zever,,,-0.8,1.0,0.8
+zeveren,,,-0.8,1.0,0.8
+zichtbaar,r_a-16409,waarneembaar,0.0,0.3,1.0
+ziek,r_a-16411,je slecht voelend,-0.5,0.6,1.0
+ziek,r_a-17353,amoreel,-0.8,1.0,1.0
+ziekelijk,r_a-16412,telkens ziek,-0.4,0.7,1.0
+ziekelijk,r_a-17354,ongezond van geest,-0.7,0.9,1.0
+zielig,r_a-16413,medelijden opwekkend,-0.5,1.0,1.0
+zielloos,r_a-16499,zonder ziel,-0.3,0.7,0.7
+zijden,r_a-16500,(als) van zijde,0.0,0.2,0.7
+zilt,r_a-16418,(mbt. zeewater) zout,0.4,0.5,0.7
+zilveren,r_a-16417,van zilver,0.2,0.2,0.7
+zinloos,r_a-16421,nutteloos,-0.6,0.9,1.0
+zinnelijk,r_a-16550,mbt. de zinnen,0.4,0.9,0.7
+zinnig,r_a-16422,verstandig,0.5,0.9,0.7
+zinvol,r_a-16424,nuttig,0.6,0.9,0.7
+zionistisch,r_a-16502,mbt. het zionisme,0.0,0.4,0.7
+zoel,r_a-16552,aangenaam warm,0.1,0.4,0.7
+zoet,r_a-16426,met een bepaalde smaak,0.4,0.5,1.0
+zoet,r_a-16427,braaf,0.4,0.9,1.0
+zoetgevooisd,r_a-16554,met een lieflijke stem,-0.2,0.7,0.7
+zoetsappig,r_a-16428,te zacht en vriendelijk,-0.5,1.0,1.0
+zoetzuur,r_a-16430,zoet en zuur tegelijk,-0.1,0.3,0.7
+zoetzuur,r_a-16431,in azijn en suiker,-0.1,0.1,0.7
+zogeheten,r_a-16504,die naam dragend,-0.1,0.1,0.9
+zogenaamd,r_a-16432,met die naam,-0.1,0.1,1.0
+zogenaamd,r_a-16433,quasi,-0.2,0.6,1.0
+zogenoemd,r_a-16505,zogenaamd,-0.1,0.1,0.9
+zomers,r_a-16434,horend bij de zomer,0.6,0.8,0.7
+zonaal,r_a-16435,mbt. een zone,0.0,0.1,0.7
+zondags,r_a-16436,op zondag,0.6,0.8,0.7
+zonderling,r_a-16507,vreemd,-0.1,1.0,0.7
+zondig,r_a-16438,mbt. zonden,-0.6,0.8,0.7
+zonneklaar,r_a-16439,overduidelijk,0.2,0.4,0.7
+zonneslag,,,-0.2,-0.1,0.8
+zonnig,d_a-346259,van karakter,0.7,1.0,1.0
+zonnig,r_a-16440,met veel zon,0.5,0.5,1.0
+zorgelijk,r_a-16441,zorgwekkend,-0.4,0.9,0.7
+zorgeloos,r_a-16444,zonder zorgen,0.4,0.9,0.7
+zorgvuldig,r_a-16445,met veel aandacht,0.4,0.8,1.0
+zorgwekkend,r_a-16446,zorgelijk,-0.4,0.9,0.7
+zorgzaam,r_a-16447,vol zorg,0.7,0.9,1.0
+zout,r_a-16448,met zout erin of erop,0.4,0.5,0.7
+zouteloos,r_a-16450,flauw,0.1,0.6,0.7
+zoutloos,r_a-16451,zonder zout,-0.1,0.6,0.7
+zootje,,,-0.6,0.7,0.8
+zoölogisch,r_a-16555,dierkundig,0.0,0.0,0.7
+zuiver,r_a-16454,puur,0.4,0.6,1.0
+zuiver,r_a-16455,schoon,0.4,0.7,1.0
+zuiver,r_a-16525,zedelijk rein,0.1,0.5,1.0
+zurig,r_a-16557,wrang,-0.4,0.7,0.7
+zusterlijk,r_a-16558,als (van) een zuster,0.0,0.9,0.7
+zuur,d_a-347036,SCHEIKUNDE,-0.1,0.1,1.0
+zuur,d_a-420462,bedorven,-0.5,0.9,1.0
+zuur,r_a-16456,niet zoet,-0.1,0.6,1.0
+zuurstofarm,r_a-16513,met weinig zuurstof,-0.5,0.6,0.7
+zuurverdiend,r_a-16458,met hard werken verdiend,0.4,0.6,0.7
+zwaar,r_a-16461,met veel gewicht,-0.2,0.5,1.0
+zwaar,r_a-16464,inspannend,-0.3,0.7,1.0
+zwaar,r_a-16466,"sterk, hevig",0.1,0.6,1.0
+zwaar,r_a-16467,laag en diep,-0.1,0.6,1.0
+zwaargebouwd,r_a-16561,"sterk, zwaar uitgevoerd",0.1,0.9,0.7
+zwaargewond,r_a-16516,serieus gewond,-0.6,0.9,0.7
+zwaarmoedig,r_a-16468,somber,-0.4,1.0,0.9
+zwaarwichtig,r_a-16469,van groot gewicht,-0.2,0.9,0.7
+zwak,c_545823,van karakter,-0.5,1.0,1.0
+zwakbegaafd,r_a-16563,weinig intelligent,-0.6,0.9,1.0
+zwanger,r_a-16473,in verwachting,0.0,0.1,1.0
+zwanger,r_a-16474,vervuld zijn van,0.2,0.6,1.0
+zwart,r_a-16475,donker,-0.1,0.2,1.0
+zwart,r_a-16476,slecht,-0.6,1.0,1.0
+zwart,r_a-16477,verboden,-0.4,0.9,1.0
+zwart,r_a-16478,met een donkere huidskleur,0.0,0.1,1.0
+zwart-wit,r_a-16518,ongenuanceerd,-0.4,0.6,0.7
+zwartgallig,r_a-16479,zwaarmoedig,-0.6,0.9,0.7
+zweterig,r_a-16565,vochtig van zweet,-0.4,0.7,0.7
+zweverig,r_a-16480,duizelig,-0.4,0.6,1.0
+zweverig,r_a-16481,vaag,-0.5,0.9,1.0
+zwoel,r_a-16485,sensueel,0.8,1.0,0.7
