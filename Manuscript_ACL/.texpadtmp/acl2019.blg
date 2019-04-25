@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2018)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: /Users/melvinwevers/Downloads/Manuscript_ACL/.texpadtmp/acl2019.aux
+The style file: ../acl_natbib.bst
+Reallocated glb_str_ptr (elt_size=4) to 20 items from 10.
+Reallocated global_strs (elt_size=20001) to 20 items from 10.
+Reallocated glb_str_end (elt_size=4) to 20 items from 10.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: ../acl2019.bib
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--empty journal in vossen_cornetto_2007
+You've used 24 entries,
+            3571 wiz_defined-function locations,
+            832 strings with 10460 characters,
+and the built_in function-call counts, 15722 in all, are:
+= -- 1328
+> -- 768
+< -- 17
++ -- 253
+- -- 219
+* -- 979
+:= -- 2426
+add.period$ -- 97
+call.type$ -- 24
+change.case$ -- 193
+chr.to.int$ -- 24
+cite$ -- 25
+duplicate$ -- 1043
+empty$ -- 1172
+format.name$ -- 277
+if$ -- 3448
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 215
+newline$ -- 122
+num.names$ -- 97
+pop$ -- 482
+preamble$ -- 1
+purify$ -- 169
+quote$ -- 0
+skip$ -- 787
+stack$ -- 0
+substring$ -- 488
+swap$ -- 478
+text.length$ -- 6
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 192
+warning$ -- 1
+while$ -- 89
+width$ -- 0
+write$ -- 300
+(There was 1 warning)

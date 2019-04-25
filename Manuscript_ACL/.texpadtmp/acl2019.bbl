@@ -1,0 +1,160 @@
+\begin{thebibliography}{24}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Azarbonyad et~al.(2017)Azarbonyad, Dehghani, Beelen, Arkut, Marx, and
+  Kamps}]{azarbonyad_words_2017}
+Hosein Azarbonyad, Mostafa Dehghani, Kaspar Beelen, Alexandra Arkut, Maarten
+  Marx, and Jaap Kamps. 2017.
+\newblock Words are malleable: {{Computing}} semantic shifts in political and
+  media discourse.
+\newblock In \emph{Proceedings of the 2017 {{ACM}} on {{Conference}} on
+  {{Information}} and {{Knowledge Management}}}, pages 1509--1518. {ACM}.
+
+\bibitem[{Baali et~al.(2018)Baali, van Os, and Kingma}]{baali_overheid_2018}
+Laila~Ait Baali, Roos van Os, and Jantien Kingma. 2018.
+\newblock {Overheid moet gendergelijkheid centraal stellen}.
+\newblock https://www.volkskrant.nl/gs-b6023212.
+
+\bibitem[{Baroni et~al.(2014)Baroni, Dinu, and Kruszewski}]{baroni2014don}
+Marco Baroni, Georgiana Dinu, and Germ{\'a}n Kruszewski. 2014.
+\newblock Don't count, predict! a systematic comparison of context-counting vs.
+  context-predicting semantic vectors.
+\newblock In \emph{Proceedings of the 52nd Annual Meeting of the Association
+  for Computational Linguistics}, volume~1, pages 238--247.
+
+\bibitem[{Bloothooft(2010)}]{bloothooft_nederlandse_2010}
+Gerrit Bloothooft. 2010.
+\newblock Nederlandse {{Voornamenbank}}.
+\newblock https://www.meertens.knaw.nl/nvb/veelgesteldevragen.
+
+\bibitem[{Bolukbasi et~al.(2016)Bolukbasi, Chang, Zou, Saligrama, and
+  Kalai}]{bolukbasi_quantifying_2016}
+Tolga Bolukbasi, Kai-Wei Chang, James Zou, Venkatesh Saligrama, and Adam Kalai.
+  2016.
+\newblock Quantifying and reducing stereotypes in word embeddings.
+\newblock \emph{arXiv preprint arXiv:1606.06121}.
+
+\bibitem[{Flaxman et~al.(2016)Flaxman, Goel, and Rao}]{flaxman2016filter}
+Seth Flaxman, Sharad Goel, and Justin~M Rao. 2016.
+\newblock Filter bubbles, echo chambers, and online news consumption.
+\newblock \emph{Public opinion quarterly}, 80(S1):298--320.
+
+\bibitem[{Garg et~al.(2018)Garg, Schiebinger, Jurafsky, and
+  Zou}]{garg_word_2018}
+Nikhil Garg, Londa Schiebinger, Dan Jurafsky, and James Zou. 2018.
+\newblock \href {https://doi.org/10.1073/pnas.1720347115} {Word embeddings
+  quantify 100 years of gender and ethnic stereotypes}.
+\newblock \emph{Proceedings of the National Academy of Sciences},
+  115(16):E3635--E3644.
+
+\bibitem[{Gonen and Goldberg(2019)}]{gonen_lipstick_2019}
+Hila Gonen and Yoav Goldberg. 2019.
+\newblock \href {http://arxiv.org/abs/1903.03862} {Lipstick on a {{Pig}}:
+  {{Debiasing Methods Cover}} up {{Systematic Gender Biases}} in {{Word
+  Embeddings But}} do not {{Remove Them}}}.
+\newblock \emph{arXiv:1903.03862 [cs]}.
+
+\bibitem[{Hamilton et~al.(2016)Hamilton, Leskovec, and
+  Jurafsky}]{hamilton_cultural_2016-1}
+William~L. Hamilton, Jure Leskovec, and Dan Jurafsky. 2016.
+\newblock Cultural shift or linguistic drift? comparing two computational
+  measures of semantic change.
+\newblock In \emph{Proceedings of the {{Conference}} on {{Empirical Methods}}
+  in {{Natural Language Processing}}. {{Conference}} on {{Empirical Methods}}
+  in {{Natural Language Processing}}}, volume 2016, page 2116. {NIH Public
+  Access}.
+
+\bibitem[{Kulkarni et~al.(2015)Kulkarni, {Al-Rfou}, Perozzi, and
+  Skiena}]{kulkarni_statistically_2015}
+Vivek Kulkarni, Rami {Al-Rfou}, Bryan Perozzi, and Steven Skiena. 2015.
+\newblock Statistically significant detection of linguistic change.
+\newblock In \emph{Proceedings of the 24th {{International Conference}} on
+  {{World Wide Web}}}, pages 625--635. {International World Wide Web
+  Conferences Steering Committee}.
+
+\bibitem[{Marshall(1995)}]{marshall_contesting_1995}
+Margaret Marshall. 1995.
+\newblock \emph{Contesting {{Cultural Rhetorics}}: {{Public Discourse}} and
+  {{Education}}, 1890-1900}.
+\newblock {University of Michigan Press}, Ann Arbor.
+
+\bibitem[{{Ministerie van
+  Onderwijs}(2009)}]{ministerie_van_onderwijs_vrouwenemancipatie_2009}
+Cultuur en~Wetenschap {Ministerie van Onderwijs}. 2009.
+\newblock {Vrouwenemancipatie (gendergelijkheid) - Rijksoverheid.nl}.
+\newblock https://www.rijksoverheid.nl/onderwerpen/vrouwenemancipatie.
+
+\bibitem[{Pariser(2011)}]{pariser2011filter}
+Eli Pariser. 2011.
+\newblock \emph{The filter bubble: What the Internet is hiding from you}.
+\newblock Penguin UK.
+
+\bibitem[{Peters et~al.(2018)Peters, Neumann, Iyyer, Gardner, Clark, Lee, and
+  Zettlemoyer}]{peters_deep_2018}
+Matthew~E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark,
+  Kenton Lee, and Luke Zettlemoyer. 2018.
+\newblock Deep contextualized word representations.
+\newblock \emph{arXiv preprint arXiv:1802.05365}.
+
+\bibitem[{Ribberink(1987)}]{ribberink_feminisme_1987}
+Anneke Ribberink. 1987.
+\newblock \emph{{Feminisme}}.
+\newblock {Stichting Burgerschapskunde}, Leiden.
+
+\bibitem[{Rooij(1974)}]{rooij_kranten:_1974}
+Maarten Rooij. 1974.
+\newblock \emph{{Kranten: dagbladpers en maatschappij}}.
+\newblock {Wetenschappelijke Uitgeverij}, Amsterdam.
+
+\bibitem[{Schot et~al.(2010)Schot, Rip, and Lintsen}]{schot_technology_2010}
+Johan Schot, Arie Rip, and Harry Lintsen, editors. 2010.
+\newblock \emph{Technology and the Making of the {{Netherlands}}: The Age of
+  Contested Modernization, 1890-1970}.
+\newblock {MIT Press}, Cambridge.
+
+\bibitem[{Schudson(1982)}]{schudson_power_1982}
+Michael Schudson. 1982.
+\newblock \emph{The {{Power}} of {{News}}}.
+\newblock {Harvard University Press}, Cambridge.
+
+\bibitem[{Tausczik and Pennebaker(2010)}]{tausczik2010psychological}
+Yla~R Tausczik and James~W Pennebaker. 2010.
+\newblock The psychological meaning of words: Liwc and computerized text
+  analysis methods.
+\newblock \emph{Journal of language and social psychology}, 29(1):24--54.
+
+\bibitem[{Vossen et~al.(2007)Vossen, Hofmann, de~Rijke, Tjong Kim~Sang, and
+  Deschacht}]{vossen_cornetto_2007}
+PTJM Vossen, Katja Hofmann, M.~de~Rijke, E.~Tjong Kim~Sang, and Koen Deschacht.
+  2007.
+\newblock The {{Cornetto}} database: {{Architecture}} and user-scenarios.
+
+\bibitem[{Wijfjes(2004)}]{wijfjes_journalistiek_2004}
+Huub Wijfjes. 2004.
+\newblock \emph{{Journalistiek in Nederland, 1850-2000: beroep, cultuur en
+  organisatie}}.
+\newblock {Boom}, Amsterdam.
+
+\bibitem[{Wintle(2000)}]{wintle_economic_2000}
+Michael Wintle. 2000.
+\newblock \emph{An Economic and Social History of the {{Netherlands}},
+  1800-1920: Demographic, Economic, and Social Transition}.
+\newblock {Cambridge University Press}, Cambridge.
+
+\bibitem[{Zijdeman et~al.(2013)Zijdeman, Mandemakers, Muurling, Maas, {Van de
+  Putte}, Lambert, Van~Leeuwen, Van~Poppel, and Miles}]{zijdeman_hsn_2013}
+Richard Zijdeman, Kees Mandemakers, Sanne Muurling, Ineke Maas, Bart {Van de
+  Putte}, Paul Lambert, Marco Van~Leeuwen, Frans Van~Poppel, and Andrew Miles.
+  2013.
+\newblock {{HSN}} standardized, {{HISCO}}-coded and classified occupational
+  titles.
+
+\bibitem[{Zijlstra et~al.(2004)Zijlstra, Van~Meerveld, Van~Middendorp,
+  Pennebaker, and Geenen}]{zijlstra2004nederlandse}
+Hanna Zijlstra, Tanja Van~Meerveld, Henri{\"e}t Van~Middendorp, James~W
+  Pennebaker, and R~De Geenen. 2004.
+\newblock De nederlandse versie van de ‘linguistic inquiry and word
+  count’(liwc).
+\newblock \emph{Gedrag Gezond}, 32:271--281.
+
+\end{thebibliography}
