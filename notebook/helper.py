@@ -35,7 +35,7 @@ def calc_distance_between_words(vectors, word1, word2, distype = 'norm'):
 def load_models(title, period, align=True):
     models = []
     for year in range(1950,1989, int(period)):
-        models.append(KeyedVectors.load_word2vec_format('../embeddings/{}/{}/{}_{}_{}.w2v'.
+        models.append(KeyedVectors.load_word2vec_format('~/data/WORD_EMBEDDINGS/{}/{}/{}_{}_{}.w2v'.
                                                         format(title, period, title, year, year+(period-1)),
                                                         binary=True))
     if align == True:
